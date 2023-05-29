@@ -1,0 +1,15 @@
+site_name: Dr. Everitt's Neighborhood
+theme:
+  name: material
+  palette:
+    primary: custom
+    accent: custom
+    typeset: custom
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+  features:
+    - navigation.tabs
+extra_css:
+  - styles/theme.css
+extra:
+  generator: false

@@ -1,0 +1,34 @@
+@import url("https://use.typekit.net/poe6lqr.css");
+
+:root {
+  --md-primary-fg-color: #0f2040;
+  --md-default-fg-color: white;
+  --md-accent-fg-color: #123d8c;
+  --md-text-font: adelle-sans, Arial, sans-serif;
+}
+
+.md-search__form {
+  background-color: #2f3e59 !important;
+}
+
+[data-md-toggle="search"]:checked
+  ~ .md-header
+  .md-search__input
+  + .md-search__icon,
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form,
+input {
+  color: white !important;
+}
+
+input::placeholder {
+  color: #aeb5bf !important;
+}
+
+.md-typeset a,
+.md-nav__link--active {
+  color: #174eb3 !important;
+}
+
+.md-footer {
+  display: none;
+}
