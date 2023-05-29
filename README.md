@@ -1,6 +1,6 @@
 # HKN Wiki
 
-This repository houses the Dr. Everitt's Neighborhood wiki and is powered by Mkdocs.
+This repository houses the Dr. Everitt's Neighborhood wiki and is powered by Mkdocs + material theme.
 
 ## Setup
 
