@@ -24,7 +24,6 @@ ECE374B is one of two **independent** sections of CS/ECE374, Introduction to Alg
 - Undecidability
 - NP, NP-Hardness, P vs NP
 
-
 ## Prerequisites
 - [CS 173](../CS%20Course%20Offerings/CS173.md)
 - [CS 225](../CS%20Course%20Offerings/CS225.md)
@@ -50,11 +49,11 @@ Make sure to show your work on exams, there are decent amounts of partial credit
 Find a group for homeworks, but don't split up the problems as HW problems sometimes show up on exams.
 
 ## Life After
-ECE 374 opens students up to most of the upper level courses in the CS department. The most obvious follow up would be CS 475 - Formal Models of Computation. Some other popular options include CS 421 or CS 426.
+ECE 374 opens students up to most of the upper level courses in the CS department. The most obvious follow up would be CS 475 - Formal Models of Computation or CS 473 - Algorithms. Some other popular options include CS 421 or CS 426.
 
 ## Infamous Topics
 - Language Transformations: The most difficult topic from the first section. You must know it well because there will be a problem about it on MT1.
-- Dynamic Programming: Hard but good to know for getting a Software Engineering Internships.
+- Dynamic Programming: Hard but good to know for getting a Software Engineering Internship.
 
 ## Resources
 + The official course website: [https://ecealgo.com/](https://ecealgo.com/)
