@@ -1,3 +1,3 @@
 # About the Course Wiki
 
-asdfasdf
+Coming soon!

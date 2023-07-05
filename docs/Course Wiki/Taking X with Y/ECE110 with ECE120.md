@@ -1,7 +1,8 @@
 # ECE110 with ECE120
 
 ## Relevant Course Reviews:
-[links here]
+- [ECE110](../ECE%20Course%20Offerings/ECE110.md)
+- [ECE120](../ECE%20Course%20Offerings/ECE120.md)
 
 ## Who should take them?
 Typically, ECE 110 & 120 are taken in the fall semester by electrical engineers and computer engineers, respectively. Taking ECE 110 in the fall allows you to take ECE 210 in the spring, whereas taking ECE 120 in the fall allows you to take ECE 220 in the spring. ECE 220 is a prerequisite for more advanced computer engineering classes such as CS 225, ECE 385, and others. ECE 210 is a prerequisite for more advanced electrical engineering classes, such as ECE 310. The concepts discussed in ECE 110 and 120 are mostly unrelated. ECE 110 covers basic circuit design up through transistors, and ECE 120 uses the idea of transistors to develop logic gates and built up through computer architecture. It is not necessary to understand ECE 110 concepts prior to taking ECE 120.

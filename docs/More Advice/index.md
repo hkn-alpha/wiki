@@ -1,5 +1,3 @@
-# asdfasdf
+# Overview
 
-asdfasdf
-
-This is where we do stuff like internship qs, interview qs, etc.
+Coming soon!
