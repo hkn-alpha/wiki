@@ -16,7 +16,7 @@ For information on core and elective ECE courses, as well as related courses fro
 
 ## Who made this?
 
-Dr. Everitt's Neighborhood (DEN) is managed by [Eta Kappa Nu](https://hkn.illinois.edu), an Electrical and Computer Engineering RSO. We accept contributions from any Illinois students, but review any new content for quality and accuracy before updating the wiki. We h
+Dr. Everitt's Neighborhood (DEN) is managed by [Eta Kappa Nu](https://hkn.illinois.edu), an Electrical and Computer Engineering RSO. We accept contributions from any Illinois students, but review any new content for quality and accuracy before updating the wiki.
 
 ## Contributing to the wiki
 
