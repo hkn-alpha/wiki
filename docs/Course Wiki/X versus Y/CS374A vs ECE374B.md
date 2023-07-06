@@ -1,9 +1,9 @@
-# CS374A vs ECE374B
+# CS374A and ECE374B
 ## Relevant Course Reviews:
-- [CS 374A](../CS%20Course%20Offerings/CS374A.md)
-- [ECE 374B](../ECE%20Course%20Offerings/ECE374B.md)
+- [CS374A](../CS%20Course%20Offerings/CS374A.md)
+- [ECE374B](../ECE%20Course%20Offerings/ECE374B.md)
 
-There are two **idependent** versions of 374 offered at UIUC, section A and section B. Both fulfill the same requirements and work as prerequisites for the same classes. They do however have different lectures, different discussions, different homeworks and exams, and different grading. Both sections are crosslisted as CS/ECE. The A section is run by the CS department so we refer to it as CS 374A. The B section is taught by professors from the ECE department, so we refer to it as ECE 374B.
+There are two **independent** versions of 374 offered at UIUC, section A and section B. Both fulfill the same requirements and work as prerequisites for the same classes. They however have different lectures, different discussions, different homeworks and exams, and different grading. Both sections are crosslisted as CS/ECE. The A section is run by the CS department so we refer to it as CS374A. The B section is taught by professors from the ECE department, so we refer to it as ECE374B.
 
 Both sections cover roughly the same content, with some exceptions. For example only section B covers Push Down Automata, and only A covers Greedy Algorithms.
 
