@@ -1,5 +1,5 @@
 # ECE374B
-ECE374B is one of two **independent** sections of CS/ECE374, Introduction to Algorithms and Models of Computation. It is unofficially the 'ECE' version of 374. Notes on the differences between the two sections can be found [here](../X%20versus%20Y/CS374A%20vs%20ECE374B.md).
+ECE374B is one of two **independent** sections of CS/ECE374, Introduction to Algorithms and Models of Computation. It is a 4-credit hour course that is specifically required for CEs and qualifies as a technical elective for EEs. It is offered in both the fall and spring. The B section is unofficially the 'ECE' version of 374. Notes on the differences between the two sections can be found [here](../X%20versus%20Y/CS374A%20vs%20ECE374B.md).
 
 ## Content Covered
 
@@ -28,10 +28,10 @@ In lecture it may seem that the algorithms covered aren't very connected to NP h
 - [CS173](../CS%20Course%20Offerings/CS173.md)
 - [CS225](../CS%20Course%20Offerings/CS225.md)
 
- 374B expands on the theoretical computer science from CS173 and covers algorithms more in depth than CS225, without any of the programming. For part one of the course, you should remember induction, set notation, and FSMs from CS173. Induction and recursion are fundamental to the course, so it is important to know them well. In the second portion of the course, there is a significant overlap with the graph algorithms taught in CS225.
+ECE374B expands on the theoretical computer science from CS173 and covers algorithms more in depth than CS225, without any of the programming. For part one of the course, you should remember induction, set notation, and FSMs from CS173. Induction and recursion are fundamental to the course, so it is important to know them well. In the second portion of the course, there is a significant overlap with the graph algorithms taught in CS225.
 
 ## When to Take it
-ECE374 is a required course for all Computer Engineering and Computer Science majors. It is not used as a prerequisite for any course in the ECE department, so for students not interested in higher level CS courses, there is little reason to rush it. If you do decide you want to take ECE374 as early as possible, you need to take CS225 as early as possible, as well as finishing [Junior Eligibility](https://ece.illinois.edu/academics/ugrad/advising-tips/junior225) requirements. However, due to the knowledge needed from CS225 and CS173, it might help to take it within a few semesters after finishing CS225. On the other hand, Taking this course early would help prepare for software interview questions, particularly those related to Dynamic Programming. It is very common to encouter DP questions when applying for software engineering internships, and the HWs in ECE374 help prepare for them well. This course is fairly challenging so take caution if you plan to take this course with too many other technical courses.
+ECE374 is a required course for all Computer Engineering and Computer Science majors. It is not used as a prerequisite for any course in the ECE department, so for students not interested in higher level CS courses, there is little reason to rush it. If you do decide you want to take ECE374 as early as possible, you need to take CS225 as early as possible, as well as finishing [Junior Eligibility](https://ece.illinois.edu/academics/ugrad/advising-tips/junior225) requirements. However, due to the knowledge needed from CS225 and CS173, it might help to take it within a few semesters after finishing CS225. On the other hand, taking this course early would help prepare for software interview questions, particularly those related to Dynamic Programming. It is very common to encouter DP questions when applying for software engineering internships, and the HWs in ECE374 help prepare for them well. This course is fairly challenging so take caution if you plan to take this course with too many other technical courses.
 
 ## Course Structure
 The course has two components, discussions and lecture. Lectures are twice a week and run for 75 minutes. Discussions are also twice a week and 50 minutes. Discussions consist of TAs solving a series of problems with the group. Attendance is not taken, but discussions are an important part of learning the content.
@@ -65,5 +65,4 @@ ECE374 opens students up to most of the upper level courses in the [CS departmen
 ## Resources
 + The official course website: [https://ecealgo.com/](https://ecealgo.com/)
 + Prof Jeff Erickson's textbook and notes: [https://jeffe.cs.illinois.edu/teaching/algorithms/](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-+ 374A section website: [https://courses.engr.illinois.edu/cs374al1/sp2023/](https://courses.engr.illinois.edu/cs374al1/sp2023/)
 + FSM designer: [https://madebyevan.com/fsm/](https://madebyevan.com/fsm/) If you like typing up your HWs in LaTeX, this will be extremely useful to you for the first few.
