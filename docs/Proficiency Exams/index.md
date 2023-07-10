@@ -1,30 +1,5 @@
-# CS128
+# Overview
 
-[CS128 (Introduction to Computer Science II)](../Course%20Wiki/CS%20Course%20Offerings/CS128.md) is the second programming course in the Computer Science core curriculum, and covers fundamentals of object-oriented C++ programming.
+For students coming in with prior experience or who are looking to graduate early, proficiency exams offer a way to skip classes. Proficiency exams are generally offered at the beginning of each semester and are graded on a pass-fail basis with no penalty for failing. Exams are typically three hours, and consist of a mixture of multiple-choice and free-response questions—they feel similar to AP exams. Proficiency exams are offered for many introductory courses, and students should contact their department if they have exceptional circumstances that would warrant a proficiency exam for an advanced course.
 
-## Required Knowledge
-
-A list of topics tested is available on the [CS128 Proficiency Website](https://proficiency.cs128.org). In recent semesters, CS128 has stopped covering several topics on this list, which students can probably ignore when preparing for the exam:
-
-- `cpp-httplib` library
-- `nlohmann::json` library
-- SQLite ORM
-- Configuring an HTTP server that processes JSON
-
-## Exam Format
-
-The exam consists of a number of short-answer questions followed by 2-3 programming questions, which are at the level of MPs in the course.
-
-## How to Prepare
-
-Programming questions comprise the majority of your score, so you should focus on practicing C++ programming:
-
-- Implement common data structures (singly linked list, doubly linked list, binary search tree, vector) using raw pointers and smart pointers. Make sure these implementations use templatized containers that follow C++ best practices.
-- Practice implementing algorithms using the C++ standard template library (STL) and lambda functions, making sure you understand the lambdas you write.
-- Use the Catch2 library to test all the code you write.
-
-Short-answer questions are programming-related, so the knowledge you gain from practicing programming should be enough to prepare you for short-answer questions.
-
-## Advice
-
-The CS128 proficiency exam is generally considered to be the hardest CS proficiency exam, but you should still try it, since there's no penalty for not passing. If you don't pass, don't worry: if you have C++ knowledge, CS128 will be very easy. Many strong programmers have tried and failed to pass this exam.
+Generally, academic advisors prevent students from registering for courses that depend on them passing a proficiency exam until they have actually passed the exam. While this can be stressful, this is not a reason to avoid taking proficiency exams: advisors will help students register for the classes they need after they pass their proficiency exams.
