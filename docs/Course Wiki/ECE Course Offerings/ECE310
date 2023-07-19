@@ -1,0 +1,74 @@
+# ECE310
+
+ECE310 (Digital Signal Processing 1) is a 3-credit-hour course that satisfies the 1-of-6 Electrical Engineering Foundations Course requirement for CEs and satisfies one of the 3-of-5 required courses for EEs. It is offered in the fall, spring, and summer.
+
+## Content Covered
+
+- Discrete-time systems
+- Linear and time-invariant systems
+- Discrete convolution
+- Z-transform
+- Discrete-time fourier transform (DTFT)
+- Fourier analysis of LTI systems
+- Ideal filters
+- Sampling of continuous-time signals
+- Ideal Analog to Digital (A/D) and Digital to Analog (D/A) conversion
+- Discrete Fourier Transform (DFT)
+- Spectral analysis
+- Fast Fourier Transform
+- Downsampling and Upsampling
+- Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters
+- Practical A/D and D/A conversion
+
+
+
+The first part of ECE310 is a brief review of continuous time signals, complex number arithmetic, and linear time-invariant causal (LTIC) systems. There is an emphasis on evaluating whether or not a system is LTIC. You are also introduced to digital signals and systems as well as discrete convolution. The next part of the course covers the Z-transform. Review partial fraction decomposition and polynomial long division. The course continues by talking about how to analyze systems via the Z-transform, how to evaluate the stability of said systems, as well as applications of LTIC systems. The course goes on to introduce a plethora of digital analogues to continuous Fourier transforms such as the Discrete-time Fourier transform (DTFT), Discrete Fourier transform (DFT), and the Fast Fourier transform (FFT). Interwoven into all of these new transforms is the concept of Analog to Digital and Digital to Analog conversion which reappears throughout the course. The end of the class delves deeper into digital filter design, multirate signal processing, practical D/A and A/D converter design, and applications of digital signal processing. The course places great emphasis on mathematical prowess and in depth knowledge of the content.
+
+This class does not require ECE311 (the lab section) but it is highly recommended to take it concurrently with ECE310. ECE311 allows students to apply what they learned in ECE310 to solidify and expand knowledge. It is also recommended to take ECE310 soon after ECE210 as the courses do have some overlap as it pertains to transforms and system properties.
+
+This course primarily deals with LTIC systems.
+
+## Prerequisites
+
+- [ECE210](ECE210.md)
+
+[ECE210](ECE210.md) is the only official prerequisite to the course. However, the course teaches students everything about systems, BIBO stability, Linearity, and Fourier transforms, so it is not necessary to remember any of these from ECE210. It is useful, not necessary, to know basic Linear Algebra before ECE310 to better understand the theory and arithmetic behind discrete convolution.
+
+## When to Take it
+
+Take this course if you have any sort of passing interest in controls. Control systems are also important in fields such as power systems and robotics. Be warned that the course does require a decent time commitment due to the amount of content and work required. If you do wish to take this course as soon as possible, take [ECE210](ECE210.md) as soon as possible.
+
+## Course Structure
+
+This course has weekly homeworks, two midterms, and one final.
+
+The homeworks start weekly and tend to lighten up as the semester goes on. On exam weeks, the homework is usually extended. Homework sets are generally not too difficult and will contain both calculations and derivations of expressions. Some homeworks will take under an hour, while others require more calculation and can be generally annoying. Students who pay attention and stay engaged in lecture will find these homeworks to be conceptually simple.
+
+The exams are usually pretty difficult, but less difficult than 210 exams for most people. The averages are usually around upper 60s to upper 70s with varying standard deviations. Very few practice exams are given out (1-3 per exam) and students are expected to collaborate to answer some of the practice exams as the answer sheets are sometimes not available. It is recommended to go to office hours to get the complete solution sets for all of the practice exams, only if you have tried the problems. Cheatsheet policies may vary depending on the semester and the lead instructor. For the Spring 2023 semester, students were allowed to bring one double-sided 8.5x11 cheatsheet to the first exam, two double-sided 8.5x11 cheatsheets to the second exam, and three double-sided 8.5x11 cheatsheets to the final exam. Students were highly recommended to reuse cheatsheets from prior exams, although this was not enforced.
+
+Overall, the course requires about 10 hours a week and is often stated to be on par, or slightly less difficult than, [ECE210](ECE210.md) in terms of time commitment and content complexity.
+
+
+## Instructors
+
+Faculty in a variety of different areas teach this course such as Professor Moon, Professor Do, and Professor Radhakrishnan to name a few. Corey Snyder is the course director and is highly recommended (Corey is the GOAT).
+
+## Course Tips
+
+The course content can often get tedious, as each technique often carries many steps that are mathematically long. Make sure you understand why each step is the way it is and when to use each technique.
+
+Ask questions in lecture! Digital signal processing is a confusing and nuanced topic and it is easy to get lost. Believe me, you are not the only one who gets lost every lecture. Ask questions in office hours, after lecture, and even through email!
+
+
+## Life After
+
+Related classes include [ECE486 - Control Systems I](ECE486.md) (), [ECE420 - Embedded DSP Laboratory](ECE420.md), [ECE418 - Introduction to Image and Video Signal Processing](ECE418.md), [ECE461 - Digital Communications](ECE461.md), ...
+
+For those interested in continuing Digital Signal Processing, [ECE551 - Digital Signal Processing II](ECE551.md) is usually the next course to take. This is not an undergraduate course, so special permissions may be needed.
+
+## Infamous Topics
+
+- Butterfly Diagrams and the FFT: These are complex and often confuse students that do not have strong backgrounds in algorithms.
+- Inverse Z-transform: Requires the utilization of partial fraction decomposition which is tedious and easy to mess up
+
+## Resources
