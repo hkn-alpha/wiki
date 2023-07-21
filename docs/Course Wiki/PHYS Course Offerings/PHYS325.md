@@ -1,6 +1,6 @@
 # PHYS325
 
-PHYS325 (Classical Mechanics I) is a 3 credit hour course that is required for physics majors.  It is also a required class for the physics minor.  It counts as a technical elective for both EEs and CEs.  It is offered in the fall and spring semesters.
+PHYS325 (Classical Mechanics I) is a 3-credit hour course that is required for physics majors.  It is also required for the physics minor.  It counts as a technical elective for both EEs and CEs.  It is offered in the fall and spring semesters.
 
 ## Content Covered
 
