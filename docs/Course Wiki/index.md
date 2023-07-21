@@ -14,6 +14,6 @@ The course wiki contains information about course offerings and their structure.
 Please note that the course reviews were written based on the way courses were taught in the past. The ECE department and professors can, and do change the way courses are taught. If you see something that is out of date, please let us know or contribute!
 
 ## Please Contribute!
-We would love your help making Dr. Everitt's Neighborhood better; log in and start contributing! We manage contributions on [GitHub](https://github.com/hkn-alpha/wiki). Please feel free to open a pull request by following the readme there.
+We would love your help making Dr. Everitt's Neighborhood better; please contribute! We manage contributions on [GitHub](https://github.com/hkn-alpha/wiki). Please feel free to open a pull request by following the readme there.
 
-If you see a course review that is outdated, let us know. If you think the author was crazy and the opinions are totally wrong, help us fix it. If you want to write a review for a course that doesn't have one yet, get to it. If you have some ideas of how to make DEN better, please give us your input.
+If you see a course review that is outdated, let us know. If you think the author was crazy and the opinions are totally wrong, help us fix it. If you want to write a review for a course that doesn't have one yet, get to it. If you have some ideas of how to make DEN better, please give us your input by opening an issue on GitHub.

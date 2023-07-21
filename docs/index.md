@@ -12,7 +12,7 @@ You can contribute to this wiki too! Any updates, from fixing a typo to adding a
 
 ## Using the wiki
 
-For information on core and elective ECE courses, as well as related courses from other departments, head to the [Course Wiki](/Course%20Wiki) tab. We've compiled several example schedules (i.e. how to graduate quickly) in the [Example Schedules](/Example%20Schedules) tab. The [Curriculum Graph](/Curriculum%20Graph) houses an overall picture of what courses you need to complete as an ECE major. The [Proficiency Exams](/Proficiency%20Exams) section contains information on how to skip some courses. [More Advice](/More%20Advice) contains generally useful information, such as how to get an internship or how to prepare for grad school.
+For information on core and elective ECE courses, as well as related courses from other departments, head to the [Course Wiki](/Course%20Wiki) tab. We've compiled several example schedules (i.e. how to graduate quickly) in the [Example Schedules](/Example%20Schedules) tab. The [Curriculum Graph](/Curriculum%20Graph) houses an overall picture of what courses you need to complete for ECE and CS majors. The [Proficiency Exams](/Proficiency%20Exams) section contains information on how to skip some courses. [More Advice](/More%20Advice) contains generally useful information, such as how to get an internship or how to prepare for grad school.
 
 ## Who made this?
 

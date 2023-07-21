@@ -1,6 +1,6 @@
 # Overview
 
-This page contains some random advice collected from wise students who have already graduated. Feel free to peruse these at your leisure.
+This page contains some random advice collected from wise students who have already graduated.
 
 - [Finding an internship](1.Finding%20an%20internship.md)
 - [Finding a research position](2.Finding%20a%20research%20position.md)
