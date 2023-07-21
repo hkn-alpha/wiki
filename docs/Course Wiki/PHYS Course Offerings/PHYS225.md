@@ -1,6 +1,6 @@
 # PHYS225
 
-PHYS225 (Relativity and Math Applications) is a 2 credit hour course that is required for physics majors.  It counts as a technical elective for both EEs and CEs.  It is offered in the fall and spring semesters.
+PHYS225 (Relativity and Math Applications) is a 2-credit hour course that is required for physics majors.  It is also required for the physics minor.  It counts as a technical elective for both EEs and CEs.  It is offered in the fall and spring semesters.
 
 ## Content Covered
 
@@ -12,7 +12,7 @@ PHYS225 (Relativity and Math Applications) is a 2 credit hour course that is req
 - Doppler effect
 - Vector calculus and applications to Maxwell’s equations
   
-PHYS225 begins with an introduction to special relativity and its extensive consequences to the field of physics.  Students will learn the Lorentz transformation and use it to derive the strange phenomena of time dilation and length contraction.  The concepts of the invariant interval and timelike and spacelike separation also follow from the Lorentz transformation.  The significance of special relativity in the field of mechanics is then covered, including the relativistic forms of energy, momentum, and force, along with the mass-energy equivalence.  The relativistic Doppler effect, which has important applications in the field of electromagnetics, is also covered.  
+PHYS225 begins with an introduction to special relativity and its extensive consequences to the field of physics.  Students will learn the Lorentz transformation and use it to derive the phenomena of time dilation and length contraction.  The concepts of the invariant interval and timelike and spacelike separation also follow from the Lorentz transformation.  The significance of special relativity in the field of mechanics is then covered, including the relativistic forms of energy, momentum, and force, along with the mass-energy equivalence.  The relativistic Doppler effect, which has important applications in the field of electromagnetics, is also covered.  
 
 The course then moves on to some applications of mathematics to physics.  In this part of the course, students will review some vector calculus, including gradient, divergence, curl, line and surface integrals, the divergence theorem, and Stokes's theorem.  Using these concepts, they will be able to derive the relationship between the differential and integral forms of Maxwell’s equations.  Complex numbers are also reviewed, allowing for the introduction of the Fourier transform, a topic that has many applications in electrical engineering and physics, including in quantum mechanics.  Finally, students will then be able to examine the wave equation.  Throughout the course, various other math concepts relevant to physics will be covered, namely matrix multiplication, Taylor series, and vector fields.
 
@@ -24,7 +24,7 @@ The official prerequisite to PHYS225 is credit or concurrent registration in [PH
 
 ## When to Take It
 
-Physics majors generally take PHYS225 within their first two years to be able to graduate on time.  It is important to take this course concurrently with or after [MATH241](../MATH%20Course%20Offerings/MATH241.md) and [PHYS212](PHYS212.md), as multivariable calculus and basic electricity and magnetism will appear in the last few weeks of the course. This is generally the first course students going for a minor in physics take beyond their previous required courses.  For these students, it is recommended to take this course by the first semester of junior year.
+Physics majors generally take PHYS225 within their first two years to be able to graduate on time.  It is important to take this course concurrently with or after [MATH241](../MATH%20Course%20Offerings/MATH241.md) and [PHYS212](PHYS212.md), as multivariable calculus and basic electricity and magnetism will appear in the last few weeks of the course. This is generally the first course students going for a minor in physics take beyond their previous required courses.  For these students, it is recommended to take this course by the first semester of junior year.  This is also a good class to take for any student interested in electromagnetics.
 
 ## Course Structure
 
@@ -54,4 +54,6 @@ Special relativity has broad applications to many different fields of physics; s
 
 ## Resources
 
-Albert Einstein’s original paper on special relativity from 1905, On the Electrodynamics of Moving Bodies, is an excellent supplementary resource.  It can be found [here](https://courses.physics.illinois.edu/phys225/sp2023/Einstein1905.pdf). 
+In addition to the textbook, Albert Einstein’s original paper on special relativity from 1905, On the Electrodynamics of Moving Bodies, is an excellent supplementary resource.  It can be found [here](https://courses.physics.illinois.edu/phys225/sp2023/Einstein1905.pdf). 
+
+Professor Kudeki has written an excellent document on special relativity, meant specifically for ECE students, which can be found [here](https://courses.engr.illinois.edu/ece350/SpRelativity.pdf).  In this document, special relativity is derived from the Doppler effect and Maxwell's equations.  Many examples relevant to ECE students are also provided.
