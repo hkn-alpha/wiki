@@ -31,4 +31,15 @@ This is pretty formal so it's probably easier to just see what's in the `docs` f
 
 ## Editing
 
-Anyone is welcome to submit a PR. PRs that change markdown files must be approved by an HKN wiki editor, and any other PRs that change appearance or code must be approved by an HKN website developer.
+Anyone is welcome to submit a PR. PRs must be reviewed by a member of the HKN website team before being merged.
+
+### Modifying the Course Graph
+
+Each semester, you should regenerate the following files:
+
+- `cs_graph.js`
+- `ece_graph.js`
+- `ce_graph.js`
+- `ee_graph.js`
+
+following the instructions from the [course graph repository](https://github.com/hkn-alpha/coursegraph).
