@@ -55,6 +55,8 @@ input::placeholder {
   width: calc(100% + 2 * var(--graph-extension));
   margin-left: calc(-1 * var(--graph-extension));
   background-color: white;
+  background-image: radial-gradient(circle at 1px 1px, #999 1px, transparent 0);
+  background-size: 25px 25px;
 }
 
 @media (min-width: 960px) and (max-width: 1220px) {
