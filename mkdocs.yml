@@ -9,6 +9,9 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.tabs
+  custom_dir: overrides
+  static_templates:
+    - 404.html
 extra_css:
   - styles/theme.css
 extra:
