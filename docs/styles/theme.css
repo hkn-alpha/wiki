@@ -32,3 +32,78 @@ input::placeholder {
 .md-footer {
   display: none;
 }
+
+@media (min-width: 1300px) {
+  :root {
+    --graph-extension: 14.5rem;
+  }
+}
+
+@media (max-width: 1300px) {
+  :root {
+    --graph-extension: 12.5rem;
+  }
+}
+
+@media (max-width: 1220px) {
+  :root {
+    --graph-extension: 0px;
+  }
+}
+
+.curriculum-graph {
+  width: calc(100% + 2 * var(--graph-extension));
+  margin-left: calc(-1 * var(--graph-extension));
+  background-color: white;
+  background-image: radial-gradient(circle at 1px 1px, #999 1px, transparent 0);
+  background-size: 25px 25px;
+}
+
+@media (min-width: 960px) and (max-width: 1220px) {
+  .curriculum-graph {
+    width: calc(100% + 12.5rem);
+  }
+}
+
+@media (min-width: 600px) {
+  .graphwarning {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .curriculum-graph {
+    display: none;
+  }
+}
+
+/**
+Start curriculum graph styles
+*/
+.coursename {
+  text-align: center;
+  font-size: 14px;
+  color: #0f2040;
+  width: 100%;
+}
+
+.containerdiv {
+  width: 200px;
+  height: 75px;
+  min-width: 30px;
+  min-height: 30px;
+  white-space: normal;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Arrowhead */
+marker path {
+  fill: #0f2040;
+  stroke: #0f2040;
+}

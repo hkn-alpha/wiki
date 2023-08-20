@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 mkdocs-material = "*"
+mkdocs-simple-hooks = "*"
 
 [requires]
 python_version = "3.8"
