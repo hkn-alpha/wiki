@@ -1,4 +1,5 @@
 site_name: Dr. Everitt's Neighborhood
+site_url: https://wiki.hkn.illinois.edu
 theme:
   name: material
   palette:
