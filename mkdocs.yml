@@ -1,4 +1,5 @@
 site_name: Dr. Everitt's Neighborhood
+site_url: https://wiki.hkn.illinois.edu
 theme:
   name: material
   palette:
@@ -20,3 +21,5 @@ plugins:
   - mkdocs-simple-hooks:
       hooks:
         on_post_build: "docs.hooks:copy_static_files"
+  - redirects:
+      redirect_maps:
