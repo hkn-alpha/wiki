@@ -1,6 +1,6 @@
 # PHYS213
 
-PHYS213 (Thermal Physics) is a 2-credit hour, 8-week long, course that is required for physics majors. It is required for ECE majors. It is offered in the fall, spring, and summer semesters.
+PHYS213 (University Physics: Thermal Physics) is a 2-credit hour, second half 8-week long, course that is required for ECE majors as a part of the Foundational Mathematics and Science requirement. It is also required for physics majors It is required for ECE majors. It is offered in the fall, spring, and summer semesters.
 
 ## Content Covered
 
@@ -23,7 +23,7 @@ The official prerequisites for PHYS213 are [PHYS211](PHYS211.md) and credit or c
 
 ## When to Take It
 
-ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same semester after taking [PHYS212](PHYS212.md). The two courses are designed to be taken in the same semester, so it ends up filling roughly the same amount of time as a normal 4 credit hour, with the content changing halfway through.
+ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same semester after taking [PHYS212](PHYS212.md). The two courses are designed to be taken in the same semester and are in opposite halves, so it ends up filling roughly the same amount of time as a normal 4 credit hour, with the content changing halfway through.
 
 ## Course Structure
 
@@ -45,7 +45,7 @@ The key to this course is the equation sheet. Learn how to use all the equations
 
 ## Life After
 
-Graduation
+Students who wish to go more in depth into thermal physics should take the undergraduate course in statistical mechanics, [PHYS427](PHYS427.md) - Thermal and Statistical Physics.
 
 ## Infamous Topics
 

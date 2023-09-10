@@ -1,6 +1,6 @@
 # PHYS214
 
-PHYS214 (Quantum Physics) is a 2-credit hour, 8-week long, course that is required for physics majors. It is required for ECE majors. It is offered in the fall, spring, and summer semesters.
+PHYS214 (University Physics: Quantum Physics) is a 2-credit hour, 8-week long, course that is required for ECE majors as a part of the Foundational Mathematics and Science requirement. It is also required for physics majors. It is offered in the fall, spring, and summer semesters.
 
 ## Content Covered
 
@@ -21,7 +21,7 @@ The official prerequisite for PHYS214 is [PHYS212](PHYS212.md), although there i
 
 ## When to Take It
 
-ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same semester after taking [PHYS212](PHYS212.md). The two courses are designed to be taken in the same semester, so it ends up filling roughly the same amount of time as a normal 4 credit hour, with the content changing halfway through.
+ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same semester after taking [PHYS212](PHYS212.md). The two courses are designed to be taken in the same semester and in opposite halves, so it ends up filling roughly the same amount of time as a normal 4 credit hour, with the content changing halfway through.
 
 ## Course Structure
 
