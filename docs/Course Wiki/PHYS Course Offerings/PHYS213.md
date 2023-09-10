@@ -52,5 +52,3 @@ Students who wish to go more in depth into thermal physics should take the under
 - Entropy: It is a very strange concept, so watching the prelecture a few times is recommended.
 
 ## Resources
-
-Course website

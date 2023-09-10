@@ -50,5 +50,3 @@ The introduction to waves and the weird world of quantum physics leads into EE c
 - Wave Particle Duality: If you have never been introduced to this it is very wacky. Just hold on tight!
 
 ## Resources
-
-Course website
