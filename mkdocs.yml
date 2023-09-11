@@ -17,6 +17,9 @@ extra_css:
   - styles/theme.css
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-01G0XDGEP8
 plugins:
   - mkdocs-simple-hooks:
       hooks:
