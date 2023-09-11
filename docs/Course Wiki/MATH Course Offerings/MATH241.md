@@ -17,4 +17,10 @@ Calculus III continues where Calculus II left off, introducing the cross and dot
 
 Students are required to have completed MATH231 (Calculus II) or received at least a 4 on AP Calculus BC.
 
-##
+## When to Take it
+
+This course should be taken in either semester freshman year assuming you have previously taken Calculus AB or BC, or as soon as possible. Many other courses (PHYS213/214, MATH285, ECE210) require Calculus III as prerequisites. PHYS212 allows for concurrent registration.
+
+## Course Structure
+
+
