@@ -1,6 +1,6 @@
 # PHYS212
 
-PHYS212 (ELectricity and Magnetism) is a 4-credit hour course that is required for both EEs and CEs as a part of the Foundational Mathematics and Science requirement. It is offered in the fall, spring and summer semesters.
+PHYS212 (Electricity and Magnetism) is a 4-credit hour course that is required for both EEs and CEs as a part of the Foundational Mathematics and Science requirement. It is offered in the fall, spring and summer semesters.
 
 ## Content Covered
 
@@ -17,13 +17,13 @@ PHYS212 (ELectricity and Magnetism) is a 4-credit hour course that is required f
 - polarization
 - geometrical optics.
   
-PHYS212 begins with an introduction to the basics of electricity such as Coulomb's Law, electric fields and Gauss's Law. Then the course introduces DC circuit and circuits elements, such as resistors and capacitors. After the that, the course moves on to magnetism with topics such as Biot-Savart Law, Ampere's Law and Faraday's Law. AC circuits are then introduced with inductors. The course then relates electicity and magnetism by introducing electromagnetic waves. At the end of the semester, Polarization and Optics are introduced.
+PHYS212 begins with an introduction to the basics of electricity such as Coulomb's Law, electric fields and Gauss's Law. Then the course introduces DC circuit and circuit elements, such as resistors and capacitors. After that, the course moves on to magnetism with topics such as Biot-Savart Law, Ampere's Law and Faraday's Law. AC circuits are then introduced with inductors. The course then relates electicity and magnetism by introducing electromagnetic waves. At the end of the semester, Polarization and Optics are introduced.
 
 ## Prerequisites
 
 - [MATH241](MATH241.md) (corequisite)
 
-The official prerequisite to PHYS212 are credit in [PHYS211](PHYS211.md)(although they are not directly related) and credit or concurrent registration in [MATH241](MATH241.md). (Understanding of various concepts from Calculus will be helpful in PHYS214 although the calculations used in PHYS214 are relatively simple) 
+The official prerequisites to PHYS212 are credit in [PHYS211](PHYS211.md)(although they are not directly related) and credit or concurrent registration in [MATH241](MATH241.md). (Understanding of various concepts from Calculus will be helpful in PHYS214 although the calculations used in PHYS214 are relatively simple) 
 
 ## When to Take It
 
