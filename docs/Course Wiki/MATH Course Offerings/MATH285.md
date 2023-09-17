@@ -1,49 +1,38 @@
 MATH 285
-MATH 285 (Intro to Differential Equations) is a 4 credit hour course that is specifically required for all ECE majors as part of the Electrical and Computer Engineering Core Curriculum. It is offered in the fall, spring, and summer semesters.
+MATH 285 (Intro to Differential Equations) is a 3 credit hour course that is required for all ECE majors as part of the Electrical and Computer Engineering Core Curriculum. It is offered in the fall, spring, and summer semesters.
 
 Content Covered
-Basic circuit analysis
+Integrable differential equations
+Separable differential equations
+Linear ordinary differential equations
+Non-linear ordinary differential equations
+Basic partial differential equations
+Finding general solutions to ODEs
+Finding homogeneous and particular solutions to ODEs
 Complex numbers
-Superposition and linearity
-Ideal op-amps
-Linear time-invariant systems
-Transient and steady-state responses
 Phasors
-Frequency response
+Simple matrix mathematics
+Laplace Transform
 Fourier series
-Fourier transform
-Signal bandwidth
-Amplitude modulation, coherent demodulation, envelope detectors
-Sampling, reconstruction of analog signals
-Convolution
-Dirac delta function, impulse response of LTI systems
-Causality, BIBO stability of systems
-Laplace transform, transfer functions
-ECE210 is, for most students, the first real synthesis of electrical engineering and mathematics. The first part of the course covers basic circuit analysis. This includes Thevenin and Norton equivalent circuits, source transformations, the node voltage method, the loop current method, superposition, and circuits with ideal op-amps. Complex numbers are reviewed, including Euler’s formula and the exponential form of sine and cosine.
+Mechanical harmonic oscillators
+Electrical harmonic oscillators
 
-ECE210 then moves on to analysis of RL and RC circuits. Students will learn to solve differential equations to determine voltages and currents and RL and RC circuits. The concept of a linear time-invariant (LTI) system is introduced, and students will learn to determine the transient and steady-state responses of LTI systems. They will recognize that an analog circuit is an LTI system with inputs being voltage and current sources and outputs being voltages and currents. Phasors are introduced, which simplify computations immensely. Using phasors, students can understand the concepts of impedance and frequency response.
+MATH285 is an important course for all engineers as differential equations appear naturally when it comes to describing time-varying systems. The first few lectures of this course are mostly just used to review concepts from Calculus 1 and 2. 
 
-The course becomes increasingly mathematical when the Fourier series and Fourier transform are introduced. Using the Fourier series, students will be able to determine the steady-state response of an LTI system to any periodic input. The Fourier transform allows for representation of aperiodic signals in the frequency domain, leading students to be able to determine the steady-state response of an LTI system to aperiodic inputs. Electrical engineering majors will find many future uses of Fourier transforms and should master their understanding of the topic. For example, the Fourier transform and its modulation property have applications to AM radio, which are discussed in lecture and expanded upon further in the lab.
+MATH285 then moves on to solving differential equations that are not easily separable or integrable. To do this, there are many mathematical techniques that one will learn to solve certain types of differential equations (i.e. linear, first order, Nth order, etc.). Most of the semester is dedicated to discussing different methods for solving ordinary differential equations and investigating their properties.
 
-Students will then learn convolution, the Dirac delta function, and the impulse response of an LTI system. Convolution allows for an alternative method of determining the steady-state response of an LTI system, that is, by convolving the system input with the system’s impulse response. The Dirac delta function also has applications to sampling and signal reconstruction, which are covered in ECE210. The concepts of causality and bounded-input, bounded-output (BIBO) stability for LTI systems and their relations to the system’s impulse response are then covered.
-
-Finally, the Laplace transform is introduced, which converts signals to the s-domain. Using the Laplace transform, students will be able to determine the transfer function of a linear, time-invariant, causal (LTIC) system. Analysis of LTIC circuits in the s-domain is covered, allowing students to determine the general response of an LTIC system.
-
-To complement the material covered in lecture, lab work involves the development of an AM radio receiver. In each lab, students construct and analyze a component of the receiver using an ADALM-2000 as an oscilloscope, function generator, and power supply.
+Nearing the end of the course, a few introductory partial differential equations, like the heat equation in 1D, are solved using a complex mathematical tool: the Fourier Series.
 
 Prerequisites
-ECE110
-PHYS212
-MATH285 (corequisite)
-ECE110, PHYS212, and credit or concurrent registration in MATH285 are listed as official prerequisites of this course. Although MATH285 can be taken concurrently, it is recommended to take it beforehand, if possible, as ECE210 relies heavily on the ability to solve differential equations. A student that takes them concurrently might have to learn some topics in ECE210 before MATH285, which can be tricky. Fourier series and transforms, for example, are covered in ECE210 before they are covered in MATH285. Note that there are slight differences in methods used for many overlapping topics between MATH285 and ECE210 which make these courses somewhat challenging to take concurrently. For example, ECE210 teaches Fourier transforms in terms of strictly complex numbers, while MATH285 reduces these expressions to real sine and cosine functions.
+MATH 241
 
-Relevant topics from ECE110 include DC circuit analysis - Thevenin and Norton equivalents, the node-voltage method, and source transformations - and lab work involving breadboards, oscilloscopes, and function generators. An understanding of basic AC circuit analysis, i.e., voltages and currents in RC, RL, and LC circuits, resonance, and phasors from PHYS212 is also important. In MATH285, paying extra attention to topics of first order solutions, Fourier series, Fourier transforms, and Laplace transforms will come in handy.
+MATH 241 is the only prerequisite for this course. This is a required prerequisite as important fundamental concepts such as partial derivatives and gradients are taught in MATH 241.
 
 When to Take It
-Students interested in electrical engineering should take ECE210 as soon as possible. It is strongly recommended for electrical engineering majors to take this course by the second semester of their sophomore year to graduate in time. ECE210 is the backbone of the electrical engineering curriculum as it covers fundamental concepts used in almost every upper level electrical engineering course. It is a prerequisite for many required and elective intermediate electrical engineering courses, including ECE310, ECE329, ECE330, ECE340, and ECE342. While ECE210 largely covers introductory circuit analysis and analog signal processing, the course also develops one's intellectual maturity applicable in other areas of electrical engineering. Computer engineering students can be a bit more flexible with when they take this class, but should still take it sooner rather than later in order to open up future elective and upper level coursework. To take ECE210 as soon as possible, start taking required MATH and PHYS courses right away, so that you are able to take MATH285 and PHYS212 as soon as possible.
+For ECE students, it is a good idea to try and complete MATH 285 as being able to solve differential equations is a necessary skill in early courses like ECE210. 
 
 Course Structure
-ECE210 has a fairly heavy workload and is also conceptually difficult. Expect this course to be more difficult than any other course you have taken before.
+MATH285 has a fair workload and is not too conceptually difficult. If you did fine in MATH 241, this class should be easy for you.
 
 ECE210 is unusual in that it meets four times a week for lecture. Lecture attendance is not required but is recorded using iClickers, with students who attend at least 76% of lectures being allowed to retake quizzes. Some topics may require more than one lecture, sometimes even three, to fully cover one section of the chapter. Don’t be fooled, this class moves at a fast pace consistently, and requires you to have a strong comfort level with material every day. It can be easy to fall behind if you stop attending lectures.
 
