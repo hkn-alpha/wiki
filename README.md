@@ -29,6 +29,16 @@ Consider an arbitrary folder `f`. The file `f/index.md` _must exist_ and is the 
 
 This is pretty formal so it's probably easier to just see what's in the `docs` folder and learn by example.
 
+### Cross-listed courses
+
+For cross-listed courses with sections that differ by department (i.e. CS374/ECE374), create a wiki page for _both_ courses. For all other cross-listed courses, only create an ECE course page, and configure a redirect in `mkdocs.yml`:
+
+```yaml
+- redirects:
+    redirect_maps:
+      "Course Wiki/CS Course Offerings/CS123.md": "Course Wiki/ECE Course Offerings/ECE456.md"
+```
+
 ## Editing
 
 Anyone is welcome to submit a PR. PRs must be reviewed by a member of the HKN website team before being merged.
