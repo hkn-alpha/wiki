@@ -11,7 +11,7 @@ PHYS214 (University Physics: Quantum Physics) is a 2-credit hour, 8-week long, c
 - Oscillators
 - HBand structure
   
-PHYS214 is the introduction to quantum physics for ECE majors. Being only 8 weeks long, the course does not go too in depth about most topics, but its introduction to waves and bandstructure is sufficient for future classes.
+PHYS214 is the introduction to quantum physics for ECE majors. Being only 8 weeks long, the course does not go too in depth about most topics, but its introduction to waves and band structure is sufficient for future classes.
 
 ## Prerequisites
 
@@ -39,14 +39,18 @@ In the past, this course has been taught by Professors Wagner and Covey.
 
 ## Course Tips
 
-The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study.
+The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study. Also, the discussion worksheets are the most difficult, then the homework, then the exams. So, if you understand the concepts in the discussion worksheets and homework, you will be fine in the exam.
 
 ## Life After
 
-The introduction to waves and the weird world of quantum physics leads into EE courses such as [ECE329](../ECE%20Course%20Offerings/ECE329.md) and [ECE340](../ECE%20Course%20Offerings/ECE340.md). Students wishing to go more in-depth into quamtum phsyics should look into the dedicated physics courses, [PHYS486](PHYS486.md) and [PHYS487](PHYS487.md).
+The introduction to waves and the weird world of quantum physics leads into EE courses such as [ECE329](../ECE%20Course%20Offerings/ECE329.md) and [ECE340](../ECE%20Course%20Offerings/ECE340.md). Students wishing to go more in-depth into quamtum phsyics should look into the dedicated physics courses, [PHYS486](PHYS486.md) and [PHYS487](PHYS487.md). There is also a relatively new course: PHYS370 Intro to Quantum Information and Computing, which sounds quite exciting.
 
 ## Infamous Topics
 
 - Wave Particle Duality: If you have never been introduced to this it is very wacky. Just hold on tight!
+- Wave Function: This is a pretty abstract concept that includes dealing with complex numbers and probability.
 
 ## Resources
+- The course provides Pre-Lecture documents, which are different from the videos given in PHYS213. The disadvantage is that it's more tiring to read through the documents, but the advantage is that the document includes more detailed explanations for some concepts.
+- The lecture slides are also great study resources. They usually contain a rough summary of equations for each unit, the steps to solving simple questions, and concept checks.
+- The practice exam provided before each exam is in the same format as the actual exam. You may even get an identical question in the actual exam. 
