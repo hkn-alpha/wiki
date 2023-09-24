@@ -14,10 +14,9 @@ MATH 285 (Intro to Differential Equations) is a 3 credit hour course that is req
 - Finding homogeneous and particular solutions to ODEs
 - Complex numbers
 - Simple matrix mathematics
-- Fourier transform
 - Signal bandwidth
 - Laplace Transform
-- Fourier series
+- Fourier Series
 - Convolution
 - Mechanical harmonic oscillators
 - Electrical harmonic oscillators
