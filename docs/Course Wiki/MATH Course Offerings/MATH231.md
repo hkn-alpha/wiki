@@ -1,16 +1,18 @@
 # MATH231
 
+MATH231 (Calculus II) is a four credit hour calculus course, typically required for most engineering majors at UIUC, and is slightly more difficult than [MATH221 (Calculus I)](./MATH221.md).
+
 ## Content Covered
 
 - Integration by parts
 - Trigonometric integrals and substitution
-- Partial fraction ntegration & advanced integration (approximate, improper, etc.)
+- Partial fraction ntegration and advanced integration (approximate, improper, etc.)
 - Arc length and surfaces of revolution, and engineering applications
-- Series and sequences (tests, power series, Taylor & Taclaurin)
+- Series and sequences (tests, power series, Taylor and Maclaurin)
 - Parametric curves
 - Polar coordinates and applications
 
-This class continues MATH220 (Calculus) and MATH221 (Calculus I), with the beginning of the class dedicated to integrals covered at the end of previous courses. MATH221 next covers more advanced integration techniques which can require some memorization. Afterwards, MATH231 covers sequencies and series, which are difficult topics that are the source of MATH231's reputation for being difficult.
+This class continues MATH220 (Calculus) and MATH221, with the beginning of the class dedicated to integrals covered at the end of previous courses. MATH221 next covers more advanced integration techniques which can require some memorization. Afterwards, MATH231 covers sequencies and series, which are difficult topics that are the source of MATH231's reputation for being difficult.
 
 The majority of the content covered in this course is similar to AP Calculus BC, with most deviations in covering additional applications.
 
@@ -19,7 +21,7 @@ The majority of the content covered in this course is similar to AP Calculus BC,
 There are a two possible paths to take MATH231:
 
 - An AP Calculs AB score (or subscore) of 4 or higher
-- Credit in MATH220 or MATH221
+- Credit in [MATH220 (Calculus)](./MATH220.md) or [MATH221 (Calculus I)](./MATH221.md)
 
 It is important to be comfortable with integration concepts covered in whichever previous course you take.
 

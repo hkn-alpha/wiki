@@ -1,6 +1,6 @@
 # MATH221
 
-MATH221 (Calculus I) is an introductory calculus course intended for freshman students with some previous exposure to calculus concepts.
+MATH221 (Calculus I) is an introductory, four credit hour calculus course intended for freshman students with some previous exposure to calculus concepts.
 
 ## Content Covered
 
@@ -42,7 +42,7 @@ The instructors for this course change frequently, although Professor Whittlesey
 
 ## Course Tips
 
-MATH221 is often descibed as the "calm before the storm" of MATH231, so it is important to fully understand all the topics covered in MATH221 to make future courses easier. Since MATH221 requires previous exposure to calculus, most students will not attend office hours, which makes them a great opportunity to solidify and gaps in your knowledge.
+MATH221 is often described as the "calm before the storm" of [MATH231 (Calculus II)](./MATH231.md), so it is important to fully understand all the topics covered in MATH221 to make future courses easier. Since MATH221 requires previous exposure to calculus, most students will not attend office hours because they already (sometimes incorrectly) feel confident with material - this makes office hours a great opportunity to solidify any gaps in your knowledge since you'll have lots of time to ask questions.
 
 Since the exam and homework format may change drastically semester by semester, use the generic advice of:
 
@@ -53,7 +53,7 @@ Since the exam and homework format may change drastically semester by semester, 
 ## Life After
 
 The fundamentals of calculus are a vital skill in an engineer’s toolbox, with classes like ECE210 and ECE330 heavily relying on understanding of derivatives and their properties.
-After completing this class, a lot more doors will open for future coursework. MATH231 (Calculus II) and & MATH257 (Linear Algebra with Computational Applications) can both be taken immediately after MATH221.
+After completing this class, a lot more doors will open for future coursework. MATH231 and MATH257 (Linear Algebra with Computational Applications) can both be taken immediately after MATH221.
 
 ## Infamous Topics
 
