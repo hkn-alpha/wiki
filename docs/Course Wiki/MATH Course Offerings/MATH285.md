@@ -1,7 +1,9 @@
-MATH 285
+# MATH285
+
 MATH 285 (Intro to Differential Equations) is a 3 credit hour course that is required for all ECE majors as part of the Electrical and Computer Engineering Core Curriculum. It is offered in the fall, spring, and summer semesters.
 
-Content Covered
+## Content Covered
+
 Integrable differential equations
 Separable differential equations
 Linear ordinary differential equations
@@ -23,15 +25,18 @@ MATH285 then moves on to solving differential equations that are not easily sepa
 
 Nearing the end of the course, a few introductory partial differential equations, like the heat equation in 1D, are solved using a complex mathematical tool: the Fourier Series.
 
-Prerequisites
+## Prerequisites
+
 MATH 241
 
 MATH 241 is the only prerequisite for this course. This is a required prerequisite as important fundamental concepts such as partial derivatives and gradients are taught in MATH 241.
 
-When to Take It
+## When to Take It
+
 For ECE students, it is a good idea to try and complete MATH 285 as being able to solve differential equations is a necessary skill in early courses like ECE210. 
 
-Course Structure
+## Course Structure
+
 MATH285 has a fair workload and is not too conceptually difficult. If you did fine in MATH 241, this class should be relatively easy for you.
 
 Before each lecture, it is suggested to read the assigned chapters in the course textbook so that you can develop a stronger understanding of course material and ask better questions in class.
@@ -44,16 +49,19 @@ MATH285 has three midterms, all held at the CBTF. The final exam is to be taken 
 
 Note that the course structure of MATH285 often varies slightly from semester to semester. For the most up to date information, view the syllabus or the course website.
 
-Instructors
-This course is currently directed by Professor Kudeki. Instructors vary from semester to semester and typically have backgrounds in a wide variety of fields of electrical engineering, namely signal processing, communications, electromagnetics, power systems, and solid-state electronics. Professors who have taught ECE210 recently include Professors Alvarez, Schmitz, Waldrop, Lee, Mironov, Mironenko, Chen, Schuh, Shao, and He. Professor Alvarez has taught this course every semester since Fall 2019.
+## Instructors
 
-Course Tips
+Past instructors for this course include Professor Manfroi, Professor Yang, and Professor Bronski. 
+
+## Course Tips
+
 MATH285 is a course that builds important mathematical foundation for engineers of any discipline. It is essential to become accustomed to the methods used in the course to solve differential equations. Try your best to do many practice problems and practice exams so that you can solve problems faster and find patterns that are useful for finding solutions to differential equations.
 
 Many practice exams are posted on Prairielearn as midterms approach. Going through these practice exams is a good idea since the real exams tend to cover very similar structure/problems to that of the practice tests.
 
 
-Life After
+## Life After
+
 MATH285 provides essential, fundamental knowledge for many engineers as circuits, mechanical systems, aerodynamics, and electromagnetics are just a few topics that differential equations naturally describe.
 
 Students who really enjoyed MATH285 and are curious to learn more should consider taking MATH 442: Intro to Partial Differential Equations. This course covers partial differential equations and methods to solve them in a very practical context, covering the wave, diffusion, Laplace, and Schrodinger equations for instance.
