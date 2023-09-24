@@ -20,7 +20,7 @@ MATH 285 (Intro to Differential Equations) is a 3 credit hour course that is req
 - Convolution
 - Mechanical harmonic oscillators
 - Electrical harmonic oscillators
-- The Wronskian with Linear Dependence and Independence
+- The Wronskian with linear independence/dependence
 
 
 
