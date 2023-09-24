@@ -4,6 +4,7 @@ MATH 285 (Intro to Differential Equations) is a 3 credit hour course that is req
 
 ## Content Covered
 
+
 - Integrable differential equations
 - Separable differential equations
 - Linear ordinary differential equations
@@ -12,12 +13,17 @@ MATH 285 (Intro to Differential Equations) is a 3 credit hour course that is req
 - Finding general solutions to ODEs
 - Finding homogeneous and particular solutions to ODEs
 - Complex numbers
-- Phasors
 - Simple matrix mathematics
+- Fourier transform
+- Signal bandwidth
 - Laplace Transform
 - Fourier series
+- Convolution
 - Mechanical harmonic oscillators
 - Electrical harmonic oscillators
+- The Wronskian with Linear Dependence and Independence
+
+
 
 MATH285 is an important course for all engineers as differential equations appear naturally when it comes to describing time-varying systems. The first few lectures of this course are mostly just used to review concepts from Calculus 1 and 2. 
 
