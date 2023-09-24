@@ -1,6 +1,6 @@
 # MATH447
 
-MATH447 (Real Variables) is an introductory Real Analysis course targeted towards undergraduates with prior proofs exposure. It is more rigorous and in-depth than MATH444 (Elementary Real Analysis).
+MATH447 (Real Variables) is an introductory, three credit hour Real Analysis course targeted towards undergraduates with prior proofs exposure. It is more rigorous and in-depth than [MATH444 (Elementary Real Analysis)](./MATH444.md).
 
 ## Content Covered
 
@@ -16,14 +16,14 @@ Depending on the instructor, additional topics, such as formal development of ex
 
 ## Prerequisites
 
-- MATH241 (Calculus III)
-- MATH347 (Fundamental Mathematics)
+- [MATH241 (Calculus III)](./MATH241.md)
+- [MATH347 (Fundamental Mathematics)](./MATH347.md)
 
-It is important to have a solid grasp of proof writing before entering MATH447. Students with this understanding who have not completed MATH374 (or MATH241) can enroll into the course with instructor consent.
+It is important to have a solid grasp of proof writing before entering MATH447. Students with this understanding who have not completed MATH347 (or MATH241) can enroll into the course with instructor consent.
 
 ## When to Take It
 
-MATH447 is most frequently taken as part of a math minor, and doesn't serve as a prerequisite for any undergraduate CS or ECE courses, so it can be taken at any time. The course is best taken while a student is still fresh with proof-writing, whether through MATH374 or other theoretical courses, such as [CS374A (Intro to Algorithms and Models of Computation)](../CS%20Course%20Offerings/CS374A.md).
+MATH447 is most frequently taken as part of a math minor, and doesn't serve as a prerequisite for any undergraduate CS or ECE courses, so it can be taken at any time. The course is best taken while a student is still fresh with proof-writing, whether through MATH347 or other proof-heavy courses, such as [CS374A (Intro to Algorithms and Models of Computation)](../CS%20Course%20Offerings/CS374A.md).
 
 ## Course Structure
 
