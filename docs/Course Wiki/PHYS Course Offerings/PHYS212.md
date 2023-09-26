@@ -21,7 +21,6 @@ PHYS212 is a solid foundational course in many concepts absolutely essential for
 
 ## Prerequisites
 
-[PHYS211][PHYS211.md]
 The official prerequisite for PHYS212 is PHYS211. 
 
 ## When to Take It
@@ -50,11 +49,11 @@ This course, as mentioned before, helps a lot in understanding concepts in elect
 
 ## Infamous Topics
 
-LRC Circuits and Phasors 
-Magnetic forces and torques, which can involve some complicated spatial visualization.
+- LRC Circuits and Phasors 
+- Magnetic forces and torques, which can involve some complicated spatial visualization.
 
 ## Resources
 
-https://dynalist.io/d/ZSNTfJjkttO2-81xaZhSMMM2 A solid cheat-sheat for equations, good for exams.
-Rewatch the prelectures as needed.
+- https://dynalist.io/d/ZSNTfJjkttO2-81xaZhSMMM2 A solid cheat-sheat for equations, good for exams.
+- Rewatch the prelectures as needed.
 
