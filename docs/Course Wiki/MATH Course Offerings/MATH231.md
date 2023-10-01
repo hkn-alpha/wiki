@@ -51,9 +51,9 @@ While MATH231 is sometimes called a "weed out" course, this is not entirely true
 
 ## Life After
 
-Series skills from MATH231 will be useful in ECE210.
+Series skills from MATH231 will be useful in [ECE210](../ECE%20Course%20Offerings/ECE210.md).
 
-After completing MATH231, most students take MATH241 (Calculus III) and/or MATH257 (Linear Algebra). If taking MATH231 during a spring semester, it is recommended to take MATH241 over the summer to get to postrequisite courses faster.
+After completing MATH231, most students take [MATH241 (Calculus III)](./MATH241.md) and/or [MATH257 (Linear Algebra)](./MATH257.md). If taking MATH231 during a spring semester, it is recommended to take MATH241 over the summer to get to postrequisite courses faster.
 
 ## Infamous Topics
 
