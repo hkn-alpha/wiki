@@ -18,6 +18,7 @@ extra_css:
 extra:
   generator: false
 plugins:
+  - search
   - mkdocs-simple-hooks:
       hooks:
         on_post_build: "docs.hooks:copy_static_files"
