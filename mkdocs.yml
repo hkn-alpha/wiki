@@ -17,7 +17,11 @@ extra_css:
   - styles/theme.css
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-01G0XDGEP8
 plugins:
+  - search
   - mkdocs-simple-hooks:
       hooks:
         on_post_build: "docs.hooks:copy_static_files"
