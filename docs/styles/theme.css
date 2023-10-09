@@ -107,3 +107,7 @@ marker path {
   fill: #0f2040;
   stroke: #0f2040;
 }
+
+.md-nav__item {
+  font-variant-numeric: tabular-nums;
+}
