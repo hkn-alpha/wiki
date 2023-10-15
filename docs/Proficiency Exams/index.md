@@ -7,3 +7,4 @@ Generally, academic advisors prevent students from registering for courses that 
 Below is a list of proficiency exams with active wiki pages.
 - [CS124](CS124.md)
 - [CS128](CS128.md)
+- [PHYS211](PHYS211.md)
