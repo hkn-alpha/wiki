@@ -27,3 +27,4 @@ plugins:
         on_post_build: "docs.hooks:copy_static_files"
   - redirects:
       redirect_maps:
+        "Course Wiki/CS Course Offerings/CS483.md": "Course Wiki/ECE Course Offerings/ECE408.md"
