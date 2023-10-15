@@ -32,7 +32,7 @@ PHYS211 holds two lectures each week. There are prelectures and checkpoints befo
 
 ## Instructors
 
-Recently, this course has been taught by Professor Tim Stelzer and Professor Jorge Leite Noronha Jr.
+Recently, this course has been taught by Professor Tim Stelzer and Professor Jorge Leite Noronha Jr. Professor Tim Stelzer's lectures are rated very highly. However, do note that electronics are not allowed in lectures to take notes. 
 
 ## Course Tips
 
