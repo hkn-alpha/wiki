@@ -12,7 +12,7 @@ PHYS211 (University Physics: Mechanics) is a 4-credit hour course that is requir
 - Center of Mass
 - Momentum
 - Collisions, Impulse and Reference Frames
-- Ratations, Torque, Angular Momentum
+- Rotations, Torque, Angular Momentum
 - Simple Harmonic Motion, Pendula, Waves
 - Fluid Statics, Fluid Dynamics
 
@@ -44,7 +44,7 @@ Students will generally take [PHYS212](PHYS212.md) the semester after taking PHY
 
 ## Infamous Topics
 
-Ratations and waves can be difficult for students who are seeing them for the first time. Understanding how to use the formulas on the formula sheet is extremely helpful for dealing with those topics in exams. 
+Rotations and waves can be difficult for students who are seeing them for the first time. Understanding how to use the formulas on the formula sheet is extremely helpful for dealing with those topics in exams. 
 
 ## Resources
 
