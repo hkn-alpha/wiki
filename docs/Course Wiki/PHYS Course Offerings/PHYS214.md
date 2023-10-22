@@ -39,11 +39,11 @@ In the past, this course has been taught by Professors Wagner and Covey.
 
 ## Course Tips
 
-The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study.
+The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study. The difficulty ranking of problems you will encounter is: Discussion Worksheets, smartPhysics Homework, Exams. So if you understand the discussions and homeworks, you will do fine on exams.
 
 ## Life After
 
-The introduction to waves and the weird world of quantum physics leads into EE courses such as [ECE329](../ECE%20Course%20Offerings/ECE329.md) and [ECE340](../ECE%20Course%20Offerings/ECE340.md). Students wishing to go more in-depth into quamtum phsyics should look into the dedicated physics courses, [PHYS486](PHYS486.md) and [PHYS487](PHYS487.md).
+The introduction to waves and the weird world of quantum physics leads into EE courses such as [ECE329](../ECE%20Course%20Offerings/ECE329.md) and [ECE340](../ECE%20Course%20Offerings/ECE340.md). Students wishing to go more in-depth into quamtum phsyics should look into the dedicated physics courses, [PHYS486](PHYS486.md) and [PHYS487](PHYS487.md). There is also a relatively new course: [PHYS 370](PHYS370.md) Intro to Quantum Information and Computing, which sounds quite exciting.
 
 ## Infamous Topics
 
