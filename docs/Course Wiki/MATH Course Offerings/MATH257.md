@@ -1,4 +1,4 @@
-# MATH 257
+# MATH257
 
 MATH257 (Linear Algebra with Computational Applications) is a 3-credit-hour class that is one of the math courses required for both EE and CE majors as part of the ECE core curriculum. It is offered in the fall, spring, and summer.
 
@@ -19,25 +19,22 @@ MATH257 (Linear Algebra with Computational Applications) is a 3-credit-hour clas
 MATH257 is the first linear algebra course that covers many fundamental concepts in linear algebra. It starts with linear equations and linear systems, and introducing the concept of vectors and matrices to solve linear systems. The course then delves into matrix operations such as addition and multiplication, and the different types of matrices such as elementary and inverse matrices. All of these concepts are regularly utilized as you proceed onto more difficult topics such as subspaces, eigenvectors, linear transformations, and orthogonal projections, so make sure you are comfortable with the fundamentals.
 
 ## Prerequisites
- - [MATH 221](MATH221.md)
+ - [MATH221](MATH221.md). Calculus is used in the course.
 
 
-## When to take it
+## When to Take It
 
 Students should take it whenever available after they have gained credit for [MATH221](MATH221.md), but most students take it after and while taking [MATH241](MATH241.md). The course is a prerequisite for [ECE313](../ECE%20Course%20Offerings/ECE313.md). 
 
 ## Course structure
-Every week there are online lecture videos, two in-person lectures, one discussion, and one online lab. Generally, you start off watching the online lecture videos to learn new concepts, and then go to in-person lectures to learn more in-depth about those new concepts. Dicussions are in-person, where you work in groups to complete a dicussion worksheet. The lab is online on Zoom every Friday, where you work by yourself or with other students to complete Python programming assignments on Prairelearn/Jupiter Notebook. 
+Every week there are online lecture videos, two in-person lectures, one discussion, and one online lab. Generally, you start off watching the online lecture videos to learn new concepts, and then go to in-person lectures to learn more in-depth about those new concepts. Dicussions are in-person, where you work in groups to complete a dicussion worksheet. The lab is online on Zoom every Friday, where you work by yourself or with other students to complete Python programming assignments on PrairieLearn/Jupyter Notebook. 
 
-The course has homework assigned weekly on Prairlearn, where you practice the concepts learned in lecture. The time to finish each homework varies, but most of them take about 1-2 hours. The homeworks give you unlimited attempts to get full credit, but most questions requires you to correctly answer 2-3 different variants to obtain full credit. 
+The course has homework assigned weekly on Prairlearn, where you practice the concepts learned in lecture. The time to finish each homework varies, but most of them take about 1-2 hours. The homeworks give you unlimited attempts to get full credit, but most questions require you to correctly answer 2-3 different variants to obtain full credit. 
 
-There are four midterms and one final exam in the course. Each midterm is 50 minutes long with about 12-13 questions, consisting of conceptual, computational questions, and one Python question based on the labs. They are administered at CBTF. It is recommended to review homework problems and tests from MATH 415 (previous version of MATH 257), but unfortunately there are no practice midterms directly related to the actual midterms. The final exam is similar to the midterm, except that it is twice the length and 3 hours long. In the past, the final exam was administered on Zoom. If your final exam score is higher than any of your midterm scores, it will replace your lowest midterm score.
+There are four midterms and one final exam in the course. Each midterm is 50 minutes long with about 12-13 questions, consisting of conceptual, computational questions, and one Python question based on the labs. They are administered at CBTF. It is recommended to review homework problems and tests from [MATH415](MATH415.md) (previous version of MATH257), but unfortunately there are no practice midterms directly related to the actual midterms. The final exam is similar to the midterm, except that it is twice the length and 3 hours long. In the past, the final exam was administered on Zoom. If your final exam score is higher than any of your midterm scores, it will replace your lowest midterm score.
 
 ## Instructors
 The instructors for this course vary based on availability and student demand. The current course director is Professor Chuang. This semester (Fall 2023), the instructor list includes Professors Jer-Chin Chuang and Jenny Srikant.
-
-## Life After
-After taking MATH257, ECE students are required to take [ECE313](../ECE%20Course%20Offerings/ECE313.md), which delves into probability theory. 
 
 ## Course tips
  - The midterms are only 50 minutes long, so be sure to be allocate your time wisely when taking the exams.
