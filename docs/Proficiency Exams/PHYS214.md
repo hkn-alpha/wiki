@@ -17,11 +17,11 @@ For students who have a solid physics background or who wants to finish the clas
 
 ## Exam Format
 
-The exam consists of both multiple choice and fill in the blank questions given through Prairietest. The content is similar to that of the class's final exams. A formula sheet will be given. The exam is also used as a makeup exam for students who missed the final exam in a previous semester. 
+The exam consists of both multiple choice and fill in the blank questions given through Prairietest at CBTF. The content is similar to that of the class's final exams. A formula sheet will be given. The exam is also used as a makeup exam for students who missed the final exam in a previous semester. 
 
 ## How to Prepare
 
-
+Lecture recording are avalibale on [media space](https://mediaspace.illinois.edu/channel/Physics+214+Summer+2020/165144871). Register for the PHYS214 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam you will find a class on PrairieLearn 
 
 ## Life After
 
