@@ -21,7 +21,7 @@ The exam consists of both multiple choice and fill in the blank questions given 
 
 ## How to Prepare
 
-Lecture recording are avalibale on [media space](https://mediaspace.illinois.edu/channel/Physics+214+Summer+2020/165144871). Register for the PHYS214 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam you will find a class on PrairieLearn 
+Lecture recording are avalibale on [media space](https://mediaspace.illinois.edu/channel/Physics+214+Summer+2020/165144871). Register for the PHYS214 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam you will find a class on PrairieLearn labeled "PHYS 214: University Physics Quantum & Modern, PHYS 214 Study Exams." The study exams on PrarieLearn is very similar to the actual exam. They are the best tool to study.
 
 ## Life After
 
