@@ -14,6 +14,7 @@ MATH257 (Linear Algebra with Computational Applications) is a 3-credit-hour clas
 - Orthogonality, orthogonal projections, linear regression
 - Equilibrium, linear dynamical systems
 - Gram-Schmidt method, QR decomposition
+- Principle Component Analysis
 - Singular value decomposition, pseudo-inverse
 
 MATH257 is the first linear algebra course that covers many fundamental concepts in linear algebra. It starts with linear equations and linear systems, and introducing the concept of vectors and matrices to solve linear systems. The course then delves into matrix operations such as addition and multiplication, and the different types of matrices such as elementary and inverse matrices. All of these concepts are regularly utilized as you proceed onto more difficult topics such as subspaces, eigenvectors, linear transformations, and orthogonal projections, so make sure you are comfortable with the fundamentals.
