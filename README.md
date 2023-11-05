@@ -39,6 +39,18 @@ For cross-listed courses with sections that differ by department (i.e. CS374/ECE
       "Course Wiki/CS Course Offerings/CS123.md": "Course Wiki/ECE Course Offerings/ECE456.md"
 ```
 
+### Tagging Pages
+
+The very top of each wiki page should contain relevant tags, in the format below:
+
+```
+tags:
+  - Signal Processing
+  - Another Tag
+```
+
+You should only use tags specified in the `allowed_tags` section in `mkdocs.yml`. If the tag you want to add is missing from `mkdocs.yml`, add it. Please make sure to only have _one spelling_ of each tag in the `mkdocs.yml` file.
+
 ## Editing
 
 Anyone is welcome to submit a PR. PRs must be reviewed by a member of the HKN website team before being merged.
