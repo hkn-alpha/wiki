@@ -30,7 +30,7 @@ ECE majors typically take MATH285 in their freshman year spring semester or duri
 
 ## Course Structure
 
-This class meets three times a week for a 50-minute Lecture-Discussion. 
+This class meets three times a week for a 50-minute Lecture-Discussion. There are weekly homeworks on PrairieLearn, with an additional written homework nearly every week. There are three 50-minute Midterm Exams and a Final.
 
 ## Instructors
 
