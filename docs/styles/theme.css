@@ -111,3 +111,17 @@ marker path {
 .md-nav__item {
   font-variant-numeric: tabular-nums;
 }
+
+.md-tag[href]:hover,
+.md-tag[href]:focus {
+  background-color: var(--md-default-fg-color--lightest) !important;
+  border: 2px solid #0f2040 !important;
+}
+
+.md-tag[href] {
+  color: #0f2040 !important;
+}
+
+.md-tag {
+  border: 2px solid var(--md-default-fg-color--lightest);
+}
