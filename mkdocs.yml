@@ -25,7 +25,7 @@ plugins:
   - tags:
       tags: false
   - bettertags:
-      indices:
+      indexes:
         "Proficiency Exams/index.md": "*subfolder"
         "Course Wiki/index.md": "*subfolder"
         "Example Schedules/index.md": "*subfolder"
