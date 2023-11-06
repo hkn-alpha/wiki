@@ -5,3 +5,9 @@ For students coming in with prior experience or who are looking to graduate earl
 Generally, academic advisors prevent students from registering for courses that depend on them passing a proficiency exam until they have actually passed the exam. While this can be stressful, this is not a reason to avoid taking proficiency exams: advisors will help students register for the classes they need after they pass their proficiency exams.
 
 [TAGS]
+
+Below is a list of proficiency exams with active wiki pages.
+
+- [CS124](CS124.md)
+- [CS128](CS128.md)
+- [PHYS211](PHYS211.md)
