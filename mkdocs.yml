@@ -22,8 +22,6 @@ extra:
     property: G-01G0XDGEP8
 plugins:
   - search
-  - tags:
-      tags: false
   - bettertags:
       indexes:
         "Proficiency Exams/index.md": "*subfolder"

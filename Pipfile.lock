@@ -26,11 +26,11 @@
         },
         "bettertags": {
             "hashes": [
-                "sha256:aaa592878c79f6e4d9d90a57089f5328c0862c56b69cd7f3d0b4f83928c1fa1c",
-                "sha256:b4150aee403bc710da9c666d7be90bb9c8a6e393a0a41ba3b50ce46eb54b8765"
+                "sha256:3afc2826f63a2be37a41b6abfc29b9396ec10f254bb7e9a79994a650551d62e3",
+                "sha256:ea5bf79958f9a4be78342744ad65d59eb029a4a48143ef1e78ef4765aad97f5f"
             ],
             "index": "pypi",
-            "version": "==1.0.2"
+            "version": "==1.0.3"
         },
         "certifi": {
             "hashes": [
