@@ -27,6 +27,7 @@ plugins:
         "Proficiency Exams/index.md": "*subfolder"
         "Course Wiki/index.md": "*subfolder"
         "Example Schedules/index.md": "*subfolder"
+  - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
         on_post_build: "docs.hooks:copy_static_files"

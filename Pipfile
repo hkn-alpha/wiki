@@ -8,6 +8,8 @@ mkdocs-material = "*"
 mkdocs-simple-hooks = "*"
 mkdocs-redirects = "*"
 bettertags = "*"
+install = "*"
+mkdocs-git-revision-date-localized-plugin = "*"
 
 [requires]
 python_version = "3.8"
