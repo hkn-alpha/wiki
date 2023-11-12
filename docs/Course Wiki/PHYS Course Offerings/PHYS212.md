@@ -1,3 +1,9 @@
+---
+tags:
+  - Electrostatics
+  - Circuits
+  - Magnetism
+---
 # PHYS212 
 
 PHYS212 (University Physics: Electricity and Magnetism) is a 4-credit hour course that is required for ECE majors as a part of the Foundational Mathematics and Science requirement. It is also required for most other engineering majors, including Computer Science majors. It is offered in the fall, spring, and summer semesters.
