@@ -1,3 +1,11 @@
+---
+tags:
+ - Matrices
+ - Vectors
+ - Subspaces
+ - Eigenvalues
+ - Linear Systems
+---
 # MATH257
 
 MATH257 (Linear Algebra with Computational Applications) is a 3-credit-hour class that is one of the math courses required for both EE and CE majors as part of the ECE core curriculum. It is offered in the fall, spring, and summer.
