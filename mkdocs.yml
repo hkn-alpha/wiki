@@ -22,6 +22,7 @@ extra:
     property: G-01G0XDGEP8
 plugins:
   - search
+  - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
         on_post_build: "docs.hooks:copy_static_files"
