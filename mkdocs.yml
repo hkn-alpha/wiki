@@ -29,6 +29,114 @@ plugins:
         "Example Schedules/index.md": "*subfolder"
       tags_allowed:
         - Circuits
+        - Intro
+        - BJTs
+        - Voltage
+        - C
+        - Assembly
+        - Boolean Algebra
+        - FSM
+        - Analog Signals
+        - ODEs
+        - Phasors
+        - LC-3
+        - C++
+        - Stacks
+        - Digital Signals
+        - Fourier
+        - Analog
+        - DFT
+        - Z-Transforms
+        - Probability
+        - Random Variables
+        - Python
+        - Fields
+        - Waves
+        - Electrostatics
+        - Maxwell’s Equations
+        - Electromechanics
+        - Power
+        - Electric
+        - Energy
+        - Semiconductors
+        - MOSFETs
+        - CMOS
+        - Diodes
+        - Lab
+        - Antennas
+        - Algorithms
+        - Problem
+        - Computation
+        - FPGAs
+        - Verilog
+        - I/O
+        - Operating Systems
+        - GPUs
+        - CUDA C
+        - NVIDIA
+        - Memory
+        - ISAs
+        - Control Unit
+        - DC
+        - Machines
+        - Physics
+        - Diffusion
+        - Fabrication
+        - Processes
+        - Systems
+        - Design Methodology
+        - BIBO Stability
+        - Senior
+        - Research
+        - Thesis
+        - Presentation
+        - Boolean Logic
+        - Sets
+        - Induction
+        - Proofs
+        - Number Theory
+        - Data Structures
+        - Algorithms
+        - Trees
+        - Big-O
+        - DFAs
+        - NFAs
+        - CFGs
+        - Derivatives
+        - Integrals
+        - Limits
+        - Continuity
+        - Series
+        - Sequences
+        - Polar Coordinates
+        - Multivariable
+        - Line Integrals
+        - Surface Integrals
+        - Vectors
+        - Matrices
+        - Subspaces
+        - Eigenvalues
+        - Linear Systems
+        - Laplace’s
+        - Fourier Series
+        - Real Space
+        - Metric Spaces
+        - Sequences
+        - Kinematics
+        - Forces
+        - Rotation
+        - Magnetism
+        - Thermodynamics
+        - Heat
+        - Equilibrium
+        - Entropy
+        - Quantum
+        - Eigenstates
+        - Oscillators
+        - Relativity
+        - Doppler effect
+        - Lorentz Transformation
+        - Mechanics
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
