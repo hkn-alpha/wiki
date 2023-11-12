@@ -1,3 +1,9 @@
+---
+tags:
+  - Relativity
+  - Doppler effect
+  - Lorentz Transformation
+---
 # PHYS225
 
 PHYS225 (Relativity and Math Applications) is a 2-credit hour course that is required for physics majors.  It is also required for the physics minor.  It counts as a technical elective for both EEs and CEs.  It is offered in the fall and spring semesters.
