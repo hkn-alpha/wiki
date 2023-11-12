@@ -1,3 +1,10 @@
+---
+tags:
+  - Multivariable
+  - Line Integrals
+  - Surface Integrals
+  - Vectors
+---
 # MATH241
 
 MATH241 (Calculus III) is a 4-credit-hour class that is a important prerequisite for later courses, and is required for the Math and Sciences requirement for both EE and CE students. It is offered in the Fall, Spring, and Summer.
