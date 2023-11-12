@@ -2,7 +2,7 @@
 tags:
   - Quantum
   - Waves
-  - EigenStates
+  - Eigenstates
   - Oscillators
 ---
 # PHYS214
