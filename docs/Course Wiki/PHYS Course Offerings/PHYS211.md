@@ -1,3 +1,10 @@
+---
+tags:
+  - Kinematics
+  - Forces
+  - Energy
+  - Rotations
+---
 # PHYS211
 
 PHYS211 (University Physics: Mechanics) is a 4-credit hour course that is required for both EEs and CEs as a part of the Foundational Mathematics and Science requirement. It is offered in the fall, spring and summer semesters.
