@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: pip install pipenv pyenv && pipenv install && pipenv run mkdocs build
+      - run: pip install pipenv asdf && pipenv install && pipenv run mkdocs build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
