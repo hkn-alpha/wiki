@@ -1,3 +1,9 @@
+---
+tags:
+  - ODEs
+  - Laplace's
+  - Fourier Series
+---
 # MATH285 
 
 MATH285 (Intro Differential Equations) is a 3-credit hour course that is required for ECE majors as a part of the Foundational Mathematics and Science requirement. It is also required for many other engineering majors. It is offered in the fall, spring, and summer semesters.
