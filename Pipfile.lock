@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6719e8348de9cea033a7a3130852709c9a2733b79694064115a7e7e83685072c"
+            "sha256": "c7d1b4513d0289b6cfcfe75c9d4943d9bc8a3225a5a09c503b0a369558e010a3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.13.1"
+        },
+        "bettertags": {
+            "hashes": [
+                "sha256:3afc2826f63a2be37a41b6abfc29b9396ec10f254bb7e9a79994a650551d62e3",
+                "sha256:ea5bf79958f9a4be78342744ad65d59eb029a4a48143ef1e78ef4765aad97f5f"
+            ],
+            "index": "pypi",
+            "version": "==1.0.3"
         },
         "certifi": {
             "hashes": [
@@ -352,11 +360,11 @@
         },
         "platformdirs": {
             "hashes": [
-                "sha256:cf8ee52a3afdb965072dcc652433e0c7e3e40cf5ea1477cd4b3b1d2eb75495b3",
-                "sha256:e9d171d00af68be50e9202731309c4e658fd8bc76f55c11c7dd760d023bda68e"
+                "sha256:118c954d7e949b35437270383a3f2531e99dd93cf7ce4dc8340d3356d30f173b",
+                "sha256:cb633b2bcf10c51af60beb0ab06d2f1d69064b43abf4c185ca6b28865f3f9731"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.11.0"
+            "version": "==4.0.0"
         },
         "pygments": {
             "hashes": [
@@ -368,11 +376,11 @@
         },
         "pymdown-extensions": {
             "hashes": [
-                "sha256:8cba67beb2a1318cdaf742d09dff7c0fc4cafcc290147ade0f8fb7b71522711a",
-                "sha256:f6c79941498a458852853872e379e7bab63888361ba20992fc8b4f8a9b61735e"
+                "sha256:bc46f11749ecd4d6b71cf62396104b4a200bad3498cb0f5dad1b8502fe461a35",
+                "sha256:cfc28d6a09d19448bcbf8eee3ce098c7d17ff99f7bd3069db4819af181212037"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==10.3.1"
+            "version": "==10.4"
         },
         "python-dateutil": {
             "hashes": [

@@ -22,6 +22,11 @@ extra:
     property: G-01G0XDGEP8
 plugins:
   - search
+  - bettertags:
+      indexes:
+        "Proficiency Exams/index.md": "*subfolder"
+        "Course Wiki/index.md": "*subfolder"
+        "Example Schedules/index.md": "*subfolder"
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
