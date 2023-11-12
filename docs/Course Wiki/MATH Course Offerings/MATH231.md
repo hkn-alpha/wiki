@@ -1,3 +1,10 @@
+---
+tags:
+  - Integration
+  - Series
+  - Sequences
+  - Polar Coordinates
+---
 # MATH231
 
 MATH231 (Calculus II) is a four credit hour calculus course, typically required for most engineering majors at UIUC, and is slightly more difficult than [MATH221 (Calculus I)](./MATH221.md).
