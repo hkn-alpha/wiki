@@ -1,3 +1,10 @@
+---
+tags:
+  - Derivatives
+  - Integrals
+  - Limits
+  - Continuity
+---
 # MATH221
 
 MATH221 (Calculus I) is an introductory, four credit hour calculus course intended for freshman students with some previous exposure to calculus concepts.
