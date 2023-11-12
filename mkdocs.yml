@@ -27,6 +27,8 @@ plugins:
         "Proficiency Exams/index.md": "*subfolder"
         "Course Wiki/index.md": "*subfolder"
         "Example Schedules/index.md": "*subfolder"
+      tags_allowed:
+        - Circuits
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
