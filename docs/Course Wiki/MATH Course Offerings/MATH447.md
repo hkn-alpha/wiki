@@ -1,3 +1,7 @@
+---
+tags:
+- Analysis
+---
 # MATH447
 
 MATH447 (Real Variables) is an introductory, three credit hour Real Analysis course targeted towards undergraduates with prior proofs exposure. It is more rigorous and in-depth than [MATH444 (Elementary Real Analysis)](./MATH444.md).

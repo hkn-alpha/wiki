@@ -1,3 +1,7 @@
+---
+tags:
+- Calculus
+---
 # MATH231
 
 MATH231 (Calculus II) is a four credit hour calculus course, typically required for most engineering majors at UIUC, and is slightly more difficult than [MATH221 (Calculus I)](./MATH221.md).
@@ -6,7 +10,7 @@ MATH231 (Calculus II) is a four credit hour calculus course, typically required 
 
 - Integration by parts
 - Trigonometric integrals and substitution
-- Partial fraction ntegration and advanced integration (approximate, improper, etc.)
+- Partial fraction integration and advanced integration (approximate, improper, etc.)
 - Arc length and surfaces of revolution, and engineering applications
 - Series and sequences (tests, power series, Taylor and Maclaurin)
 - Parametric curves
@@ -18,7 +22,7 @@ The majority of the content covered in this course is similar to AP Calculus BC,
 
 ## Prerequisites
 
-There are a two possible paths to take MATH231:
+There are two possible paths to take MATH231:
 
 - An AP Calculs AB score (or subscore) of 4 or higher
 - Credit in [MATH220 (Calculus)](./MATH220.md) or [MATH221 (Calculus I)](./MATH221.md)
