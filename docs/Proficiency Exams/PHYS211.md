@@ -8,7 +8,7 @@ If you have a solid background in Physics Mechanics at the level of at least AP 
 
 You can still take PHYS211 even if you pass the proficiency exam, and there is no penalty for failing the proficiency exam.
 
-## Content Convered
+## Content Covered
 
 The content of the exams has typically been consistent with the contents of the final exam for this course. You can also look at the course website of the current or past semester for a list of topics in the schedule tab. Though the topics have been very consistent over semesters.
 
