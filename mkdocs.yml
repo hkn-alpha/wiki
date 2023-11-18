@@ -74,6 +74,12 @@ plugins:
         - Research
         - Thesis
         - Senior design
+        - Data structures
+        - Discrete math
+        - Calculus
+        - Differential equations
+        - Linear algebra
+        - Real analysis
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
