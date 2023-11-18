@@ -80,6 +80,11 @@ plugins:
         - Differential equations
         - Linear algebra
         - Real analysis
+        - Mechanics
+        - Thermodynamics
+        - Statistical mechanics
+        - Relativity
+        - Quantum mechanics
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:

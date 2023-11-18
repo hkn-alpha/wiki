@@ -1,3 +1,7 @@
+---
+tags:
+- Quantum mechanics
+---
 # PHYS214
 
 PHYS214 (University Physics: Quantum Physics) is a 2-credit hour, 8-week long, course that is required for ECE majors as a part of the Foundational Mathematics and Science requirement. It is also required for physics majors. It is offered in the fall, spring, and summer semesters.
