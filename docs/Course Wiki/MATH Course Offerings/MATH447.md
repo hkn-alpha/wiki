@@ -1,6 +1,6 @@
 ---
 tags:
-- Real analysis
+- Analysis
 ---
 # MATH447
 

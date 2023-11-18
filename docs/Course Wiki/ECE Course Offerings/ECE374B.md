@@ -1,7 +1,6 @@
 ---
 tags:
 - Algorithms
-- Software
 ---
 # ECE374B
 ECE374B is one of two **independent** sections of CS/ECE374, Introduction to Algorithms and Models of Computation. It is a 4-credit hour course that is specifically required for CEs and qualifies as a technical elective for EEs. It is offered in both the fall and spring. The B section is unofficially the 'ECE' version of 374. Notes on the differences between the two sections can be found [here](../X%20versus%20Y/CS374A%20vs%20ECE374B.md).

@@ -40,10 +40,8 @@ plugins:
         - Software
         - Digital signal processing
         - Image processing
-        - Probability
         - Random processes
         - Radio frequency
-        - Microwaves
         - Remote sensing
         - Optics
         - Power
@@ -53,7 +51,6 @@ plugins:
         - Renewable energy
         - Power electronics
         - Semiconductors
-        - Semiconductor devices
         - Semiconductor fabrication
         - Microelectronics
         - Photonics
@@ -73,7 +70,7 @@ plugins:
         - Calculus
         - Differential equations
         - Linear algebra
-        - Real analysis
+        - Analysis
         - Mechanics
         - Thermodynamics
         - Statistical mechanics
