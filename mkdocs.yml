@@ -27,6 +27,53 @@ plugins:
         "Proficiency Exams/index.md": "*subfolder"
         "Course Wiki/index.md": "*subfolder"
         "Example Schedules/index.md": "*subfolder"
+      tags_allowed:
+        - Electronics
+        - Circuits
+        - Analog circuits
+        - Digital circuits
+        - Electromagnetics
+        - Digital logic
+        - Computer architecture
+        - Digital design
+        - Analog signals
+        - Signal processing
+        - Communications
+        - Computer systems
+        - Software
+        - Digital signal processing
+        - Image processing
+        - Video processing
+        - Probability
+        - Random processes
+        - Radio frequency
+        - Microwaves
+        - Remote sensing
+        - Optics
+        - Power
+        - Power systems
+        - Electric machines
+        - Circuits
+        - Renewable energy
+        - Power electronics
+        - Semiconductors
+        - Semiconductor devices
+        - Semiconductor fabrication
+        - Microelectronics
+        - Photonics
+        - Integrated circuits
+        - Antennas
+        - Algorithms
+        - Hardware
+        - Computer systems
+        - Embedded systems
+        - Operating systems
+        - Semiconductor modeling
+        - Controls
+        - Control systems
+        - Research
+        - Thesis
+        - Senior design
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
