@@ -3,7 +3,7 @@ tags:
 - Statistical mechanics
 - Thermodynamics
 ---
-# PHYS325
+# PHYS427
 
 PHYS427 (Thermal and Statistical Physics) is a 4-credit hour course that counts as a technical elective for both EEs and CEs.  It is offered in the fall and spring semesters.
 
