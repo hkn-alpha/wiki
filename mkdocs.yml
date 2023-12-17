@@ -76,6 +76,7 @@ plugins:
         - Statistical mechanics
         - Relativity
         - Quantum mechanics
+        - Robotics
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:
