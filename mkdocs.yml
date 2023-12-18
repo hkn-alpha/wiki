@@ -29,54 +29,64 @@ plugins:
         "Example Schedules/index.md": "*subfolder"
       tags_allowed:
         - Circuits
+        - Integrated circuits
         - Analog circuits
         - Digital circuits
+
         - Electromagnetics
-        - Computer architecture
-        - Digital design
-        - Signal processing
-        - Communications
-        - Computer systems
-        - Software
-        - Digital signal processing
-        - Image processing
-        - Random processes
         - Radio frequency
-        - Remote sensing
         - Optics
+        - Antennas
+        - Remote sensing
+
+        - Microelectronics
+        - Semiconductor devices
+        - Semiconductor processing
+        - Computational electronics
+
         - Power
         - Power systems
         - Electric machines
-        - Circuits
-        - Renewable energy
         - Power electronics
-        - Semiconductors
-        - Semiconductor fabrication
-        - Microelectronics
-        - Photonics
-        - Integrated circuits
-        - Antennas
-        - Algorithms
-        - Hardware
+
+        - Communications
+
+        - Control systems
+
+        - Signal processing
+        - Digital signal processing
+        - Image processing
+
+        - Computer architecture
         - Computer systems
         - Embedded systems
         - Operating systems
-        - Semiconductor modeling
-        - Control systems
+        - Software
+
+        - Robotics
+        - Artificial intelligence
+        - Machine learning
+
+        - Random processes
+        - Algorithms
+
         - Research
         - Senior design
-        - Data structures
+
         - Discrete math
+        - Data structures
+
         - Calculus
         - Differential equations
         - Linear algebra
         - Analysis
-        - Mechanics
+
+        - Classical mechanics
         - Thermodynamics
         - Statistical mechanics
-        - Relativity
         - Quantum mechanics
-        - Robotics
+        - Relativity
+
   - git-revision-date-localized
   - mkdocs-simple-hooks:
       hooks:

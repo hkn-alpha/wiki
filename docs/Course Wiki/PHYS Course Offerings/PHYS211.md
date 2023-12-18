@@ -1,6 +1,6 @@
 ---
 tags:
-- Mechanics
+- Classical mechanics
 ---
 # PHYS211
 

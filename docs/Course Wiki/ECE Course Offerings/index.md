@@ -25,7 +25,10 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE431](ECE431.md) - Electric Machinery
 - [ECE441](ECE441.md) - Physics and Modeling of Semiconductor Devices
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
+- [ECE464](ECE464.md) - Power Electronics
+- [ECE469](ECE464.md) - Power Electronics Laboratory
 - [ECE470](ECE470.md) - Introduction to Robotics
+- [ECE482](ECE464.md) - Digital IC Design
 - [ECE486](ECE486.md) - Control Systems
-- [ECE496](ECE496.md) - Senoir Research Project
-- [ECE499](ECE499.md) - Senoir Thesis
+- [ECE496](ECE496.md) - Senior Research Project
+- [ECE499](ECE499.md) - Senior Thesis
