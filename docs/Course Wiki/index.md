@@ -3,8 +3,7 @@
 The course wiki contains information about course offerings and their structure. It is a guide to ECE and ECE-adjacent courses at Illinois, written by students for students. Pages for each course contain details like the content covered, when to take it, course tips, life after, and infamous topics.
 
 [TAGS]
-
-
+##
 - See [ECE Course Offerings](ECE%20Course%20Offerings/index.md) for information about ECE courses.
 - See [CS Course Offerings](CS%20Course%20Offerings/index.md) for information about CS courses.
 - See [MATH Course Offerings](MATH%20Course%20Offerings/index.md) for information about math courses.
