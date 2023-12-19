@@ -52,23 +52,34 @@ plugins:
         - Communications
 
         - Control systems
+        - Robotics
 
         - Signal processing
         - Digital signal processing
         - Image processing
+        - Acoustics
+        
+        - Artificial intelligence
+        - Machine learning
 
         - Computer architecture
         - Computer systems
         - Embedded systems
         - Operating systems
-        - Software
 
-        - Robotics
-        - Artificial intelligence
-        - Machine learning
+        - Computer networking
+
+        - Computer security
+
+        - Quantum computing
+
+        - Bioengineering
 
         - Random processes
+        
         - Algorithms
+
+        - Software
 
         - Research
         - Senior design

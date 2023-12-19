@@ -20,15 +20,19 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE374B](ECE374B.md) - Introduction to Algorithms and Models of Computation
 - [ECE385](ECE385.md) - Digital Systems Laboratory
 - [ECE391](ECE391.md) - Computer Systems Engineering
+- [ECE407](ECE407.md) - Cryptography
 - [ECE408](ECE408.md) - Applied Parallel Programming
 - [ECE411](ECE411.md) - Computer Organization and Design
 - [ECE431](ECE431.md) - Electric Machinery
 - [ECE441](ECE441.md) - Physics and Modeling of Semiconductor Devices
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
+- [ECE445](ECE445.md) - Senior Design Project Laboratory
 - [ECE464](ECE464.md) - Power Electronics
 - [ECE469](ECE464.md) - Power Electronics Laboratory
 - [ECE470](ECE470.md) - Introduction to Robotics
+- [ECE476](ECE476.md) - Power System Analysis
 - [ECE482](ECE464.md) - Digital IC Design
+- [ECE483](ECE464.md) - Analog IC Design
 - [ECE486](ECE486.md) - Control Systems
 - [ECE496](ECE496.md) - Senior Research Project
 - [ECE499](ECE499.md) - Senior Thesis
