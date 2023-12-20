@@ -29,72 +29,42 @@ plugins:
         "Example Schedules/index.md": "*subfolder"
       tags_allowed:
         - Circuits
-        - Integrated circuits
-        - Analog circuits
-        - Digital circuits
-
         - Electromagnetics
         - Radio frequency
         - Optics
-        - Antennas
-        - Remote sensing
-
-        - Microelectronics
-        - Semiconductor devices
-        - Semiconductor processing
-        - Computational electronics
-
+        - Semiconductors
         - Power
-        - Power systems
-        - Electric machines
-        - Power electronics
-
         - Communications
-
         - Control systems
         - Robotics
-
         - Signal processing
-        - Digital signal processing
-        - Image processing
         - Acoustics
-        
-        - Artificial intelligence
-        - Machine learning
-
-        - Computer architecture
-        - Computer systems
-        - Embedded systems
-        - Operating systems
-
-        - Computer networking
-
-        - Computer security
-
-        - Quantum computing
-
         - Bioengineering
 
-        - Random processes
-        
-        - Algorithms
+        - Artificial intelligence and machine learning
+        - Computer architecture
+        - Digital design
+        - Embedded systems
+        - Operating systems
+        - Computer networking
+        - Computer security
+        - Quantum computing
 
+        - Algorithms
         - Software
 
         - Research
         - Senior design
 
-        - Discrete math
-        - Data structures
-
         - Calculus
         - Differential equations
         - Linear algebra
         - Analysis
+        - Probability
+        - Discrete mathematics
 
         - Classical mechanics
-        - Thermodynamics
-        - Statistical mechanics
+        - Thermal and statistical physics
         - Quantum mechanics
         - Relativity
 

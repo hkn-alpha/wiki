@@ -1,7 +1,6 @@
 ---
 tags:
-- Statistical mechanics
-- Thermodynamics
+- Thermal and statistical physics
 ---
 # PHYS427
 

@@ -1,7 +1,6 @@
 ---
 tags:
-- Thermodynamics
-- Statistical mechanics
+- Thermal and statistical physics
 ---
 # PHYS213
 
