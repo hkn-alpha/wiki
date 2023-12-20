@@ -1,8 +1,6 @@
 ---
 tags:
-- Hardware
-- Computer architecture
-- Digital design
+- Digital design and computer architecture
 ---
 # ECE498SJP
 
