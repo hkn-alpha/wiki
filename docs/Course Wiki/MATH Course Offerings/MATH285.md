@@ -1,7 +1,6 @@
 ---
 tags:
 - Calculus
-- Differential equations
 ---
 # MATH285 
 
