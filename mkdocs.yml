@@ -48,7 +48,7 @@ plugins:
         - Security
         - Quantum computing
 
-        - Algorithms
+        - Theoretical computer science
         - Software engineering
         - Numerical analysis
         - Parallel programming
@@ -62,7 +62,6 @@ plugins:
         - Linear algebra
         - Analysis
         - Probability
-        - Discrete mathematics
 
         - Classical mechanics
         - Thermal and statistical physics
