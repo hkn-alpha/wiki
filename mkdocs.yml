@@ -84,5 +84,7 @@ plugins:
   - redirects:
       redirect_maps:
         "Course Wiki/CS Course Offerings/CS483.md": "Course Wiki/ECE Course Offerings/ECE408.md"
+        "Course Wiki/CS Course Offerings/CS446.md": "Course Wiki/ECE Course Offerings/ECE449.md"
+        "Course Wiki/CS Course Offerings/CS440.md": "Course Wiki/ECE Course Offerings/ECE448.md"
 markdown_extensions:
   - footnotes

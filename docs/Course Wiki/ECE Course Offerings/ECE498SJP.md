@@ -6,7 +6,7 @@ tags:
 ---
 # ECE498SJP
 
-ECE 498 SJP (Accelerator Architectures) is a 4-credit-hour course that can currently only be used to fulfill technical elective credit, should it be offered again in the near future.
+ECE 498 SJP (Accelerator Architectures) is a 4-credit-hour course that satisfies the Technical Electives requirement for ECE majors, should it be offered again in the near future.
 
 ## Content Covered
 
@@ -48,7 +48,7 @@ You get out what you put in - make sure you meet very often with your teammates,
 
 ## Life After
 
-Much of the advice for life after is going to be the same as the advice in [ECE411](ECE411.md) - start applying to top hardware companies like Apple, Qualcomm, Intel, AMD, and NVIDIA, and even the notorious software companies that have recently branched out and started producing their own ASICs, whether you're looking to land a full-time job or hardware internships. And, if you're looking for more coursework in computer architecture, consider the grad-level courses ECE511 (Computer Architecture), ECE512 (Computer Microarchitecture), ECE522 (Emerging Memory and Storage Systems), and ECE527 (SoC Design).
+Much of the advice for life after is going to be the same as the advice in [ECE411](ECE411.md) - start applying to top hardware companies like Apple, Qualcomm, Intel, AMD, and NVIDIA, and even the notorious software companies that have recently branched out and started producing their own ASICs, whether you're looking to land a full-time job or hardware internships. And, if you're looking for more coursework in computer architecture, consider the grad-level courses [ECE511 - Computer Architecture](ECE511.md), [ECE512 - Computer Microarchitecture](ECE512.md), [ECE522 - Emerging Memory and Storage Systems](ECE522.md), and [ECE527 - SoC Design](ECE527.md).
 
 ## Infamous Topics
 
