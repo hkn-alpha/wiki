@@ -48,7 +48,7 @@ You get out what you put in - make sure you meet very often with your teammates,
 
 ## Life After
 
-Much of the advice for life after is going to be the same as the advice in [ECE411](ECE411.md) - start applying to top hardware companies like Apple, Qualcomm, Intel, AMD, and NVIDIA, and even the notorious software companies that have recently branched out and started producing their own ASICs, whether you're looking to land a full-time job or hardware internships. And, if you're looking for more coursework in computer architecture, consider the grad-level courses [ECE511 - Computer Architecture](ECE511.md), [ECE512 - Computer Microarchitecture](ECE512.md), [ECE522 - Emerging Memory and Storage Systems](ECE522.md), and [ECE527 - SoC Design](ECE527.md).
+Much of the advice for life after is going to be the same as the advice in [ECE411](ECE411.md) - start applying to top hardware companies like Apple, Qualcomm, Intel, AMD, and NVIDIA, and even the notorious software companies that have recently branched out and started producing their own ASICs, whether you're looking to land a full-time job or hardware internships. And, if you're looking for more coursework in computer architecture, consider the grad-level courses [ECE511 - Computer Architecture](ECE511.md), [ECE512 - Computer Microarchitecture](ECE512.md), [ECE522 - Emerging Memory and Storage Systems](ECE522.md), [ECE527 - SoC Design](ECE527.md), and [CS533 - Parallel Computer Architecture](../CS%20Course%20Offerings/CS533.md).
 
 ## Infamous Topics
 
