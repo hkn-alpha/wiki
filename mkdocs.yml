@@ -44,14 +44,16 @@ plugins:
         - Artificial intelligence and machine learning
         - Computer architecture
         - Digital design
-        - Embedded systems
-        - Operating systems
-        - Computer networking
-        - Computer security
+        - Systems
+        - Networking
+        - Security
         - Quantum computing
 
         - Algorithms
-        - Software
+        - Software engineering
+        - Numerical analysis
+        - Parallel programming
+        - Programming languages and compilers
 
         - Research
         - Senior design
