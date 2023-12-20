@@ -23,6 +23,7 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE407](ECE407.md) - Cryptography
 - [ECE408](ECE408.md) - Applied Parallel Programming
 - [ECE411](ECE411.md) - Computer Organization and Design
+- [ECE417](ECE417.md) - Multimedia Signal Processing
 - [ECE431](ECE431.md) - Electric Machinery
 - [ECE441](ECE441.md) - Physics and Modeling of Semiconductor Devices
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
@@ -35,4 +36,5 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE483](ECE464.md) - Analog IC Design
 - [ECE486](ECE486.md) - Control Systems
 - [ECE496](ECE496.md) - Senior Research Project
+- [ECE498SJP](ECE498SJP.md) - Accelerator Architectures
 - [ECE499](ECE499.md) - Senior Thesis

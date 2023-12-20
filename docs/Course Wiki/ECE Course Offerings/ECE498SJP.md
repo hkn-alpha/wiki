@@ -1,6 +1,5 @@
 ---
 tags:
-- Hardware
 - Computer architecture
 - Digital design
 ---
