@@ -1,4 +1,9 @@
-# Computer Engineering, Statistics Minor, 7-8 Semesters
+---
+tags:
+- Robotics
+- Artificial intelligence and machine learning
+---
+# Robotics, Statistics Minor, 8 Semesters
 
 Hi, I'm Keegan, currently a second-semester Junior (CE '25) and I'm pursuing a Statistics minor. I'm focused on software, robotics, autonomy, and controls. Originally, I had planned to use one semester as a co-op but decided to take more technical electives instead. My schedule is definitely on the heavy side but it allows you to spend most of Junior and Senior year taking tech electives that you're interested in, while never having to double up on the big 4 ECE classes.
 
@@ -6,11 +11,10 @@ Hi, I'm Keegan, currently a second-semester Junior (CE '25) and I'm pursuing a S
 
 - Can be easily modified to 7 semesters (or less)
 - No summer or winter classes, so internship options every summer
+- Covers most of the required classes for MEng in Robotics and Autonomy in undergrad
 - Statistics minor + James Scholar
 
 ## Schedule
-
-*Difficulty rating is subjective to the time I took the courses, so YMMV*
 
 ### AP Credits and Proficiency Tests
 | Course Name | Credit Hours |
@@ -27,8 +31,7 @@ Hi, I'm Keegan, currently a second-semester Junior (CE '25) and I'm pursuing a S
 | PHYS 211 | 4 |
 | PS 101 | 3 |
 | RHET 105 | 4 |
-| &nbsp; | &nbsp; |
-| Total | 42 |
+| **Total** | **42** |
 
 I had a lot of AP credit, these are the ones that actually gave me credit for a class. The most useful AP credits for progressing in ECE are Calculus BC and Physics C. I used RHET 105 credit, ECON 102/103, and PS 101 to get out of gen ed requirements. Chem and Bio are not required for CE, and CS 101 is essentially useless credit for ECE. I also took Calc 3 and Linear Algebra in high school but was not offered community college credit, so I had to retake them freshman year.
 
@@ -42,8 +45,7 @@ I had a lot of AP credit, these are the ones that actually gave me credit for a 
 | TE 200 | 1 | 1 |
 | ME 199 | 1 | 1 |
 | ENG 100 | 0 | 1 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 17 | 14 |
+| **Total** | **17** | **14** |
 
 I had already taken Calc 3 and AP Physics C: E&M so MATH 241 and PHYS 212 were mostly review. I also took PLTW DE in high school which covered a lot of ECE 120 material so much of that was review as well. Since I had extra hours, I decided to take REL 110 for the Non-Western requirement + 3 Humanities and Arts hours. TE 200 is a required class for Innovation LLC residents, and ME 199 is an optional (essentially free credit) class for students involved with project team RSOs. 
 
@@ -64,8 +66,7 @@ I took the extra time I had this semester to join Illini Formula Electric (now I
 | RST 230 | 3 | 1 |
 | ME 199 | 1 | 1 |
 | KIN 103 | 1 | 1 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 18 | 17 |
+| **Total** | **18** | **17** |
 
 This semester was harder, mostly due to ECE 220 and MATH 213. I would recommend taking CS 173 if possible, but I missed the test time for the CS 124 proficiency test so I couldn't take it this semester. I took MATH 213 instead, which is a fine class, but definitely more difficult and math focused instead of CS focused.
 
@@ -86,8 +87,7 @@ ECE 110 is a pretty easy class if you've taken PHYS 212 or equivalent and/or had
 | STAT 400 | 4 | 3 |
 | PHYS 214 | 2 | 3 |
 | PHYS 213 | 2 | 3 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 19 | 25 |
+| **Total** | **19** | **25** |
 
 This semester was quite difficult, as ECE 210 is widely considered the hardest of the 4 intro ECE courses. It is both conceptually challenging (introducing brand-new topics such as phasors, Fourier series/transform, and Laplace transforms) and a lot of work. There are a lot of resources to help you learn the material, take advantage of them.
 
@@ -112,8 +112,7 @@ In order to do a minor as my James Scholar contract, I started taking statistics
 | STAT 410 | 3 | 6 |
 | STAT 207 | 2 | 2 |
 | ECE 200 | 0 | 0 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 17 | 21 |
+| **Total** | **17** | **21** |
 
 ECE 385 is a great class, especially if you enjoyed ECE 120. However, it is definitely underrated for 3 credit hours of work, since there is a lab due every week. Lab 2 (breadboard based) was the most time-consuming but all of the labs are well explained by Professor Cheng. I would highly recommend getting a strong partner as well as starting early and going to office hours if you get stuck. Since there are no exams (only demo quizzes) it's mostly just staying on top of the labs.
 
@@ -133,8 +132,7 @@ STAT 410 is a big step up in difficulty from 400 but Professor Stepanov is a gre
 | CS 498 GC | 3 | 4 |
 | CLCV 115 | 3 | 2 |
 | STAT 107 | 4 | 1 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 17 | 22 |
+| **Total** | **17** | **22** |
 
 ECE 391 has the reputation as the most difficult class in the ECE department (possibly the university) and for good reason. This class is more lab/MP work than ECE 385 and also has exams with ECE 210-like averages. Despite this, it is very interesting and taught well. There are many CAs available in-person and online to help you with the MPs, although to succeed in this course you need to understand how to debug on your own very well. Find a well-balanced group for MP3, otherwise it'll be very difficult to finish all the checkpoints. The exams are mostly short-answer questions and fill-in-the-blank code and are written on paper. They do not have the time crunch of ECE 210, but there are a lot more possible topics. While this class is difficult, I enjoyed it so much that I became a CA.
 
@@ -158,8 +156,7 @@ CLCV 115 fulfills the Western culture requirement and 3 hours of Humanities and 
 | PHYS 446 | 3 | - |
 | ENG 377 | 1 | - |
 | ECE 200 | 0 | 0 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 14 | - |
+| **Total** | **14** | **-** |
 
 ### 7th Semester, Senior Year, Fall 2024
 | Course Name | Credit Hours | Difficulty Rating (1-10) |
@@ -169,8 +166,7 @@ CLCV 115 fulfills the Western culture requirement and 3 hours of Humanities and 
 | STAT 420 | 3 | - |
 | ME 487 | 4 | - |
 | ECE 200 | 0 | 0 |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 14 | - |
+| **Total** | **14** | **-** |
 
 Teaching ENG 100.
 
@@ -179,7 +175,6 @@ Teaching ENG 100.
 | --- | --- | --- |
 | ECE 489 | 4 | - |
 | ECE 445 | 4 | - |
-| CS 444 | 3 | - |
+| ECE 484 | 4 | - |
 | ECE 422 | 4 | - |
-| &nbsp; | &nbsp; | &nbsp; |
-| Total | 15 | - |
+| **Total** | **16** | **-** |
