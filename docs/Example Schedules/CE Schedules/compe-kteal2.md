@@ -74,7 +74,7 @@ The programming in ECE 220 is not bad if you have prior experience, but the comp
 
 ECE 110 is a pretty easy class if you've taken PHYS 212 or equivalent and/or had previous circuit experience. MATH 257 was also review for me, and RST 230 is a fully asynchronous class that fulfills the US Minority requirement. I took ME 199 again for IFE (now IEM), and KIN 103 was badminton.
 
-### Tips:
+#### Tips:
 - Taking ECE 220 and MATH 213/CS 173 this semester lets you take CS 225 in the fall, which is very helpful for SWE interviews.
 - Taking MATH 285 instead of MATH 257 here is fine, but I recommend taking the path that your friends are taking.
 
