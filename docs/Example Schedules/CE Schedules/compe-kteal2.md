@@ -19,18 +19,18 @@ Hi, I'm currently a second-semester Junior (CE '25) also pursuing a Statistics m
 ### AP Credits and Proficiency Tests
 | Course Name | Credit Hours |
 | --- | --- |
-| [CHEM102](../../Course%20Wiki/Other%20Course%20Offerings/CHEM102.md) | 3 |
-| [CHEM104](../../Course%20Wiki/Other%20Course%20Offerings/CHEM104.md) | 3 |
-| [CS101](../../Course%20Wiki/CS%20Course%20Offerings/CS101.md) | 3 |
-| ECON102 | 3 |
-| ECON103 | 3 |
-| IB150 | 4 |
-| [MATH220](../../Course%20Wiki/MATH%20Course%20Offerings/MATH220.md) | 5 |
-| [MATH231](../../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) | 3 |
-| MCB150 | 4 |
-| [PHYS211](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS211.md) | 4 |
-| PS101 | 3 |
-| RHET105 | 4 |
+| [CHEM102 - General Chemistry I](../../Course%20Wiki/Other%20Course%20Offerings/CHEM102.md) | 3 |
+| [CHEM104 - General Chemistry II](../../Course%20Wiki/Other%20Course%20Offerings/CHEM104.md) | 3 |
+| [CS101 - Intro Computing: Engrg & Sci](../../Course%20Wiki/CS%20Course%20Offerings/CS101.md) | 3 |
+| ECON102 - Microeconomic Principles | 3 |
+| ECON103 - Macroeconomic Principles | 3 |
+| IB150 - Organismal & Evolutionary Biol | 4 |
+| [MATH220 - Calculus](../../Course%20Wiki/MATH%20Course%20Offerings/MATH220.md) | 5 |
+| [MATH231 - Calculus II](../../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) | 3 |
+| MCB150 - Molec & Cellular Basis of Life | 4 |
+| [PHYS211 - University Physics: Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS211.md) | 4 |
+| PS101 - Intro to US Gov & Pol | 3 |
+| RHET105 - Writing and Research | 4 |
 | **Total** | **42** |
 
 I had a lot of AP credit, these are the ones that actually gave me credit for a class. The most useful AP credits for progressing in ECE are Calculus BC and Physics C. I used RHET105 credit, ECON102/103, and PS101 to get out of gen ed requirements. Chem and Bio are not required for CE, and CS101 is essentially useless credit for ECE. I also took Calc 3 and Linear Algebra in high school but was not offered community college credit, so I had to retake them freshman year.
@@ -38,13 +38,13 @@ I had a lot of AP credit, these are the ones that actually gave me credit for a 
 ### 1st Semester, Freshman Year, Fall 2021
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE120](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) (Honors) | 4 |
-| [ENG100](../../Course%20Wiki/Other%20Course%20Offerings/ENG100.md) | 0 |
-| [MATH241](../../Course%20Wiki/MATH%20Course%20Offerings/MATH241.md) | 4 |
-| [ME199](../../Course%20Wiki/Other%20Course%20Offerings/ME199.md) | 1 |
-| [PHYS212](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS212.md) | 4 |
-| REL110 | 3 |
-| TE200 | 1 |
+| [ECE120 - Introduction to Computing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) (Honors) | 4 |
+| [ENG100 - Engineering Orientation](../../Course%20Wiki/Other%20Course%20Offerings/ENG100.md) | 0 |
+| [MATH241 - Calculus III](../../Course%20Wiki/MATH%20Course%20Offerings/MATH241.md) | 4 |
+| [ME199 - Automotive Design Projects-SAE](../../Course%20Wiki/Other%20Course%20Offerings/ME199.md) | 1 |
+| [PHYS212 - University Physics: Elec & Mag](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS212.md) | 4 |
+| REL110 - World Religions | 3 |
+| TE200 - Introduction to Innovation | 1 |
 | **Total** | **17** |
 
 I had already taken Calc 3 and AP Physics C: E&M so MATH241 and PHYS212 were mostly review. I also took PLTW DE in high school which covered a lot of ECE120 material so much of that was review as well. Since I had extra hours, I decided to take REL110 for the Non-Western requirement + 3 Humanities and Arts hours. TE200 is a required class for Innovation LLC residents, and ME199 is an optional (essentially free credit) class for students involved with project team RSOs. 
@@ -59,13 +59,13 @@ I took the extra time I had this semester to join Illini Formula Electric (now I
 ### 2nd Semester, Freshman Year, Spring 2022
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE110](../../Course%20Wiki/ECE%20Course%20Offerings/ECE110.md) (Honors) | 3 |
-| [ECE220](../../Course%20Wiki/ECE%20Course%20Offerings/ECE220.md) | 4 |
-| KIN103 | 1 |
-| [MATH213](../../Course%20Wiki/MATH%20Course%20Offerings/MATH213.md) | 3 |
-| [MATH257](../../Course%20Wiki/MATH%20Course%20Offerings/MATH257.md) | 3 |
-| [ME199](../../Course%20Wiki/Other%20Course%20Offerings/ME199.md) | 1 |
-| RST230 | 3 |
+| [ECE110 - Introduction to Electronics](../../Course%20Wiki/ECE%20Course%20Offerings/ECE110.md) (Honors) | 3 |
+| [ECE220 - Computer Systems & Programming](../../Course%20Wiki/ECE%20Course%20Offerings/ECE220.md) | 4 |
+| KIN103 - Badminton | 1 |
+| [MATH213 - Basic Discrete Mathematics](../../Course%20Wiki/MATH%20Course%20Offerings/MATH213.md) | 3 |
+| [MATH257 - Linear Algebra with Computational Applications](../../Course%20Wiki/MATH%20Course%20Offerings/MATH257.md) | 3 |
+| [ME199 - Undergraduate Open Seminar](../../Course%20Wiki/Other%20Course%20Offerings/ME199.md) | 1 |
+| RST230 - Diversity in RST | 3 |
 | **Total** | **18** |
 
 This semester was harder, mostly due to ECE220 and MATH213. I would recommend taking CS173 if possible, but I missed the test time for the CS124 proficiency test so I couldn't take it this semester. I took MATH213 instead, which is a fine class, but definitely more difficult and math focused instead of CS focused.
@@ -81,12 +81,12 @@ ECE110 is a pretty easy class if you've taken PHYS212 or equivalent and/or had p
 ### 3rd Semester, Sophomore Year, Fall 2022
 | Course Name | Credit Hours |
 | --- | --- |
-| [CS225](../../Course%20Wiki/CS%20Course%20Offerings/CS225.md) | 4 |
-| [ECE210](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) | 4 |
-| [MATH285](../../Course%20Wiki/MATH%20Course%20Offerings/MATH285.md) | 3 |
-| [PHYS213](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) | 2 |
-| [PHYS214](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) | 2 |
-| [STAT400](../../Course%20Wiki/Other%20Course%20Offerings/STAT400.md) | 4 |
+| [CS225 - Data Structures](../../Course%20Wiki/CS%20Course%20Offerings/CS225.md) | 4 |
+| [ECE210 - Analog Signal Processing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) | 4 |
+| [MATH285 - Intro Differential Equations](../../Course%20Wiki/MATH%20Course%20Offerings/MATH285.md) | 3 |
+| [PHYS213 - Univ Physics: Thermal Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) | 2 |
+| [PHYS214 - Univ Physics: Quantum Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) | 2 |
+| [STAT400 - Statistics and Probability I](../../Course%20Wiki/Other%20Course%20Offerings/STAT400.md) | 4 |
 | **Total** | **19** |
 
 This semester was quite difficult, as ECE210 is widely considered the hardest of the 4 intro ECE courses. It is both conceptually challenging (introducing brand-new topics such as phasors, Fourier series/transform, and Laplace transforms) and a lot of work. There are a lot of resources to help you learn the material, take advantage of them.
@@ -106,12 +106,12 @@ In order to do a minor as my James Scholar contract, I started taking statistics
 ### 4th Semester, Sophomore Year, Spring 2023
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE200](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
-| [ECE333](../../Course%20Wiki/ECE%20Course%20Offerings/ECE333.md) | 3 |
-| [ECE385](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) | 3 |
-| [ECE470](../../Course%20Wiki/ECE%20Course%20Offerings/ECE470.md) | 4 |
-| [STAT207](../../Course%20Wiki/Other%20Course%20Offerings/STAT207.md) | 2 |
-| [STAT410](../../Course%20Wiki/Other%20Course%20Offerings/STAT410.md) | 3 |
+| [ECE200 - Seminar](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
+| [ECE333 - Green Electric Energy](../../Course%20Wiki/ECE%20Course%20Offerings/ECE333.md) | 3 |
+| [ECE385 - Digital Systems Laboratory](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) | 3 |
+| [ECE470 - Introduction to Robotics](../../Course%20Wiki/ECE%20Course%20Offerings/ECE470.md) | 4 |
+| [STAT207 - Data Science Exploration](../../Course%20Wiki/Other%20Course%20Offerings/STAT207.md) | 2 |
+| [STAT410 - Statistics and Probability II](../../Course%20Wiki/Other%20Course%20Offerings/STAT410.md) | 3 |
 | **Total** | **17** |
 
 ECE385 is a great class, especially if you enjoyed ECE120. However, it is definitely underrated for 3 credit hours of work, since there is a lab due every week. Lab 2 (breadboard based) was the most time-consuming but all of the labs are well explained by Professor Cheng. I would highly recommend getting a strong partner as well as starting early and going to office hours if you get stuck. Since there are no exams (only demo quizzes) it's mostly just staying on top of the labs.
@@ -127,11 +127,11 @@ STAT410 is a big step up in difficulty from 400 but Professor Stepanov is a grea
 ### 5th Semester, Junior Year, Fall 2023
 | Course Name | Credit Hours |
 | --- | --- |
-| CLCV115 | 3 |
-| [CS498GC](../../Course%20Wiki/CS%20Course%20Offerings/CS498GC.md) | 3 |
-| [ECE391](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) | 4 |
-| [ECE448](../../Course%20Wiki/ECE%20Course%20Offerings/ECE448.md) | 3 |
-| [STAT107](../../Course%20Wiki/Other%20Course%20Offerings/STAT107.md) | 4 |
+| CLCV115 - Mythology of Greece and Rome | 3 |
+| [CS498GC - Mobile Robotics for CS](../../Course%20Wiki/CS%20Course%20Offerings/CS498GC.md) | 3 |
+| [ECE391 - Computer Systems Engineering](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) | 4 |
+| [ECE448 - Artificial Intelligence](../../Course%20Wiki/ECE%20Course%20Offerings/ECE448.md) | 3 |
+| [STAT107 - Data Science Discovery](../../Course%20Wiki/Other%20Course%20Offerings/STAT107.md) | 4 |
 | **Total** | **17** |
 
 ECE391 has the reputation as the most difficult class in the ECE department (possibly the university) and for good reason. This class is more lab/MP work than ECE385 and also has exams with ECE210-like averages. Despite this, it is very interesting and taught well. There are many CAs available in-person and online to help you with the MPs, although to succeed in this course you need to understand how to debug on your own very well. Find a well-balanced group for MP3, otherwise it'll be very difficult to finish all the checkpoints. The exams are mostly short-answer questions and fill-in-the-blank code and are written on paper. They do not have the time crunch of ECE210, but there are a lot more possible topics. While this class is difficult, I enjoyed it so much that I became a CA.
@@ -150,22 +150,22 @@ CLCV115 fulfills the Western culture requirement and 3 hours of Humanities and A
 ### 6th Semester, Junior Year, Spring 2024
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE200](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
-| [ECE428](../../Course%20Wiki/ECE%20Course%20Offerings/ECE428.md) | 4 |
-| [ECE434](../../Course%20Wiki/ECE%20Course%20Offerings/ECE434.md) | 3 |
-| [ECE438](../../Course%20Wiki/ECE%20Course%20Offerings/ECE438.md) | 3 |
-| ENG377 | 1 |
-| [PHYS446](../../Course%20Wiki/ECE%20Course%20Offerings/PHYS446.md) | 3 |
+| [ECE200 - Seminar](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
+| [ECE428 - Distributed Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE428.md) | 4 |
+| [ECE434 - Real-World Algorithms for IoT and Data Science](../../Course%20Wiki/ECE%20Course%20Offerings/ECE434.md) | 3 |
+| [ECE438 - Communication Networks](../../Course%20Wiki/ECE%20Course%20Offerings/ECE438.md) | 3 |
+| ENG377 - Pedagogy & Mentoring for ELAs | 1 |
+| [PHYS446 - Modern Computational Physics](../../Course%20Wiki/ECE%20Course%20Offerings/PHYS446.md) | 3 |
 | **Total** | **14** |
 
 ### 7th Semester, Senior Year, Fall 2024
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE200](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
-| [ECE374](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md) | 4 |
-| [ECE486](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) | 3 |
-| [ME487](../../Course%20Wiki/Other%20Course%20Offerings/ME487.md) | 4 |
-| [STAT420](../../Course%20Wiki/Other%20Course%20Offerings/STAT420.md) | 3 |
+| [ECE200 - Seminar](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
+| [ECE374 - Introduction to Algorithms & Models of Computation](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md) | 4 |
+| [ECE486 - Control Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) | 3 |
+| [ME487 - MEMS-NEMS Theory & Fabrication](../../Course%20Wiki/Other%20Course%20Offerings/ME487.md) | 4 |
+| [STAT420 - Methods of Applied Statistics](../../Course%20Wiki/Other%20Course%20Offerings/STAT420.md) | 3 |
 | **Total** | **14** |
 
 Teaching ENG100.
@@ -173,8 +173,8 @@ Teaching ENG100.
 ### 8th Semester, Senior Year, Spring 2025
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE422](../../Course%20Wiki/ECE%20Course%20Offerings/ECE422.md) | 4 |
-| [ECE445](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
-| [ECE484](../../Course%20Wiki/ECE%20Course%20Offerings/ECE484.md) | 4 |
-| [ECE489](../../Course%20Wiki/ECE%20Course%20Offerings/ECE489.md) | 4 |
+| [ECE422 - Computer Security I](../../Course%20Wiki/ECE%20Course%20Offerings/ECE422.md) | 4 |
+| [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
+| [ECE484 - Principles of Safe Autonomy](../../Course%20Wiki/ECE%20Course%20Offerings/ECE484.md) | 4 |
+| [ECE489 - Robot Dyanmics and Control](../../Course%20Wiki/ECE%20Course%20Offerings/ECE489.md) | 4 |
 | **Total** | **16** |
