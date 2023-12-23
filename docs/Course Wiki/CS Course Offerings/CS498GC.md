@@ -14,9 +14,13 @@ Much of this course is designed as a survey into modern mobile robotics, so the 
 
 ## Prerequisites
 
-- [MATH221](../MATH%20Course%20Offerings/MATH221.md), MATH225 or equivalent, [MATH285](../MATH%20Course%20Offerings/MATH285.md) or equivalent, STAT400 or equivalent, [CS225](./CS225.md)
+- [MATH221](../MATH%20Course%20Offerings/MATH221.md), 
+- MATH225 or equivalent
+- [MATH285](../MATH%20Course%20Offerings/MATH285.md) or equivalent
+- [STAT400](../Other%20Course%20Offerings/STAT400.md) or equivalent 
+- [CS225](./CS225.md)
 
-CS498GC focuses on the software development of mobile robotics, so it is important to have a solid understanding of data structures and algorithms. Although the official prerequisite is only CS225, the syllabus states that "students are expected to have taken introductory differential equations, introduction to probability and statistics, linear algebra, and software programming." Generally, these preqrequisites are filled by [MATH257](../MATH%20Course%20Offerings/MATH257.md), MATH285, STAT400 or [ECE313](../ECE%20Course%20Offerings/ECE313.md), and CS225. Graduate standing or instructor approval can be used to waive these prerequisites.
+CS498GC focuses on the software development of mobile robotics, so it is important to have a solid understanding of data structures and algorithms. Although the official prerequisite is only [CS225](./CS225.md), the syllabus states that "students are expected to have taken introductory differential equations, introduction to probability and statistics, linear algebra, and software programming." Generally, these prerequisites are filled by [MATH257](../MATH%20Course%20Offerings/MATH257.md), [MATH285](../MATH%20Course%20Offerings/MATH285.md), [STAT400](../Other%20Course%20Offerings/STAT400.md) or [ECE313](../ECE%20Course%20Offerings/ECE313.md), and CS225. Graduate standing or instructor approval can be used to waive these prerequisites.
 
 Although not required, [ECE470](../ECE%20Course%20Offerings/ECE470.md) will give you good background information for this course since it is expected that you have some knowledge of robot kinematics.
 
@@ -49,5 +53,3 @@ This course covers a lot of topics quite briefly, so which courses you decide to
 ## Resources
 
 - [Textbook](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955006309205899)
-- [Fall 2023 Website](http://daslab.illinois.edu/coursesfall2023.html#cs498)
-- [Fall 2023 Syllabus](https://uofi.app.box.com/s/ag4j39jnall7g5lr3xvrxb771cf6hnpb)
