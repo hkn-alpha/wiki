@@ -20,6 +20,6 @@ We would love your help making Dr. Everitt's Neighborhood better; please contrib
 
 If you see a course review that is outdated, let us know. If you think the author was crazy and the opinions are totally wrong, help us fix it. If you want to write a review for a course that doesn't have one yet, get to it. If you have some ideas of how to make DEN better, please give us your input by opening an issue on GitHub.
 
-## Course Reviews and Example Schedules by Subfield
+## Course Reviews by Subfield
 
 [TAGS]

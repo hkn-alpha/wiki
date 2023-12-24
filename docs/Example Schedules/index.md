@@ -1,7 +1,5 @@
 # Overview
 
-This page contains a list of schedules performed or currently being undertaken by students. If you'd like to add your own schedule, please contribute by reading the readme and opening a pull request on our [GitHub](https://github.com/hkn-alpha/wiki).
-
-- [Robotics, Statistics Minor, 8 Semesters](./CE%20Schedules/compe-kteal2.md)
+This page contains a list of schedules performed or currently being undertaken by students, organized by subfield. If you'd like to add your own schedule, please contribute by reading the readme and opening a pull request on our [GitHub](https://github.com/hkn-alpha/wiki).
 
 [TAGS]
