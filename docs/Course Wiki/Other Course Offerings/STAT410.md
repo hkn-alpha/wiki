@@ -61,7 +61,7 @@ Prof. Stepanov has an odd sense of humor that is not for everyone, but he clearl
 
 ## Life After
 
-STAT410 is used to replace [ECE313](../ECE%20Course%20Offerings/ECE313.md). ECE majors pursuing a Statistics minor may opt for STAT410 instead of ECE313 to fulfill the minor requirements. STAT410 is also a prerequisite for many upper-level statistics courses, such as [STAT425](STAT425.md), [STAT428](STAT428.md), and [STAT429](STAT429.md).
+STAT410 is used to replace [ECE313](../ECE%20Course%20Offerings/ECE313.md) so many machine learning/AI courses are available after taking STAT410. ECE majors pursuing a Statistics minor may opt for STAT410 instead of ECE313 to fulfill the minor requirements. STAT410 is also a prerequisite for many upper-level statistics courses, such as [STAT425](STAT425.md), [STAT428](STAT428.md), and [STAT429](STAT429.md).
 
 ## Resources
 
