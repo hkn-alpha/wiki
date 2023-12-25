@@ -21,18 +21,18 @@ STAT400 (Statistics and Probability I) is a four credit hour statistics and prob
 - Chi-square tests
 - Basic R usage
 
-STAT400 assumes very little knowledge of statistics but does require understaning of calculus. The introductory topics of statistics are covered quite quickly, and the course moves on to more advanced topics such as hypothesis testing and confidence intervals.
+STAT400 assumes very little knowledge of statistics but does require understanding of calculus. The introductory topics of statistics are covered quite quickly, and the course moves on to more advanced topics such as hypothesis testing and confidence intervals.
 
 ## Prerequisites
 
 - [MATH231](../MATH%20Course%20Offerings/MATH231.md)
-- Concurrent enrollment in [MATH241](../MATH%20Course%20Offerings/MATH241.md) is required
+- [MATH241](../MATH%20Course%20Offerings/MATH241.md) (corequisite)
 
 STAT400 requires calculus knowledge, including double integrals and partial derivatives.
 
 ## When to Take It
 
-This class is not strictly required for ECE, but it is a prerequisite for [STAT410](STAT410.md). This class is designed to be a first statistics course for math-oriented students, but can also be taken after a 100-level or 200-level statistics course. This course is not intended for first-time freshmen.
+This class is not strictly required for ECE, but it is a prerequisite for [STAT410](STAT410.md) which can be used to replace the requirement for [ECE313](../ECE%20Course%20Offerings/ECE313.md). This class is designed to be a first statistics course for math-oriented students, but can also be taken after a 100-level or 200-level statistics course. This course is not intended for first-time freshmen.
 
 ## Course Structure
 
