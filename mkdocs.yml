@@ -62,6 +62,7 @@ plugins:
         - Linear algebra
         - Analysis
         - Probability
+        - Data science
 
         - Classical mechanics
         - Thermal and statistical physics
