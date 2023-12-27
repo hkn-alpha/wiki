@@ -4,3 +4,4 @@ The following list contains all courses that do not fit in another category and 
 
 ### Statistics
 - [STAT400](STAT400.md) - Statistics and Probability I
+- [STAT410](STAT410.md) - Statistics and Probability II
