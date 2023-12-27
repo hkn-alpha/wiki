@@ -4,7 +4,7 @@ tags:
 ---
 # STAT410
 
-STAT410 (Statistics and Probability II) is a four credit hour statistics and probability course intended as a continuation of [STAT400](STAT400.md).
+STAT410 (Statistics and Probability II) is a 3 credit hour (4 graduate hour) statistics and probability course intended as a continuation of [STAT400](STAT400.md).
 
 ## Content Covered
 
