@@ -12,4 +12,4 @@ mkdocs-git-revision-date-localized-plugin = "*"
 bettertags = "*"
 
 [requires]
-python_version = "3.11"
+python_version = "3.8"
