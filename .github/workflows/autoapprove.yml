@@ -23,4 +23,6 @@ jobs:
     steps:
       - uses: hmarr/auto-approve-action@v3
         if: needs.decision.outputs.approve == 'true'
+        with:
+          github-token: ${{secrets.HKN_PAT}}
       
