@@ -10,13 +10,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: decide
-        run: sh ./wiki/autoapprove.sh
-  auto-approve:
-    runs-on: ubuntu-latest
-    needs: decision
-    permissions:
-      pull-requests: write
-    if: ${{needs.decision.outputs.approve}} == true
-    steps:
-      - uses: hmarr/auto-approve-action@v3
+        run: ls
+  # auto-approve:
+    # runs-on: ubuntu-latest
+    # needs: decision
+    # permissions:
+      # pull-requests: write
+    # if: ${{needs.decision.outputs.approve}} == true
+    # steps:
+      # - uses: hmarr/auto-approve-action@v3
       
