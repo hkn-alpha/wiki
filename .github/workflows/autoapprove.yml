@@ -1,7 +1,7 @@
 name: Auto-approve small changes
 on: pull_request
 env:
-  MAX_CHANGED: 40
+  MAX_CHANGED: 1000
   MY_REF: ${{ format('refs/heads/{0}', github.event.pull_request.head.ref) }}
 jobs:
   decision:
