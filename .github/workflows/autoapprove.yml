@@ -9,33 +9,18 @@ jobs:
     outputs:
       approve: ${{steps.decide.outputs.approve}}
     steps:
-      - name: 'PR commits + 1'
-        run: echo "PR_FETCH_DEPTH=$(( ${{ github.event.pull_request.commits }} + 1 ))" >> "${GITHUB_ENV}"
-      # - name: 'Checkout PR branch and all PR commits'
-        # uses: actions/checkout@v3
-        # with:
-          # ref: ${{ github.event.pull_request.head.ref }}
-          # fetch-depth: ${{ env.PR_FETCH_DEPTH }}
-      # - uses: actions/checkout@v4
-        # with:
-          # ref: ${{ env.MY_REF}}
-          # fetch-depth: 0
       - uses: actions/checkout@v2
       - run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
-      - run: git diff origin/main
-        
-          
-      # - uses: actions/checkout@v4
-      # - run: sudo apt install zsh
-      - run: git branch
-  #     - id: decide
-  #       run: zsh ./autoapprove.zsh
-  # auto-approve:
-  #   runs-on: ubuntu-latest
-  #   needs: decision
-  #   permissions:
-  #     pull-requests: write
-  #   if: ${{needs.decision.outputs.approve}} == true
-  #   steps:
-  #     - uses: hmarr/auto-approve-action@v3
+      - run: git diff origin/main          
+      - run: sudo apt install zsh
+      - id: decide
+        run: zsh ./autoapprove.zsh
+  auto-approve:
+    runs-on: ubuntu-latest
+    needs: decision
+    permissions:
+      pull-requests: write
+    if: ${{needs.decision.outputs.approve}} == true
+    steps:
+      - uses: hmarr/auto-approve-action@v3
       
