@@ -1,0 +1,20 @@
+name: Auto-approve small changes
+on: pull_request_target
+env:
+  MAX_CHANGED: 40
+jobs:
+  decision:
+    runs-on: ubuntu-latest
+    outputs:
+      approve: ${{steps.decide.outputs.approve}}
+    steps:
+      - id: decide
+        run: zsh ./autoapprove.sh
+  auto-approve:
+    needs: decision
+    permissions:
+      pull-requests: write
+    if: ${{needs.decision.outputs.approve}} == true
+    steps:
+      - uses: hmarr/auto-approve-action@v3
+      
