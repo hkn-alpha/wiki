@@ -9,8 +9,9 @@ jobs:
       approve: ${{steps.decide.outputs.approve}}
     steps:
       - uses: actions/checkout@v4
+      - run: sudo apt install zsh
       - id: decide
-        run: sh ./autoapprove.sh
+        run: zsh ./autoapprove.zsh
   auto-approve:
     runs-on: ubuntu-latest
     needs: decision
