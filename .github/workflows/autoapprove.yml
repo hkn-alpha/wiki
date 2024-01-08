@@ -21,6 +21,7 @@ jobs:
           # ref: ${{ env.MY_REF}}
           # fetch-depth: 0
       - run: sudo apt install zsh
+      - run: git branch
       - id: decide
         run: zsh ./autoapprove.zsh
   auto-approve:
