@@ -20,7 +20,7 @@ jobs:
     needs: decision
     permissions:
       pull-requests: write
-    if: steps.decide.outputs.approve == true
+    if: ${{steps.decide.outputs.approve}} == true
     steps:
       - uses: hmarr/auto-approve-action@v3
       
