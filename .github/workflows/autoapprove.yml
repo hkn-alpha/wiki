@@ -1,5 +1,5 @@
 name: Auto-approve small changes
-on: pull_request_target
+on: pull_request
 env:
   MAX_CHANGED: 40
 jobs:
