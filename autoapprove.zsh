@@ -1,5 +1,5 @@
 function git_words_added {
-  revision=${1:-origin/main}
+  revision=${1:-main}
 
   git diff --word-diff=porcelain $revision | \
     grep -e "^+[^+]" | \
@@ -8,7 +8,7 @@ function git_words_added {
 }
 
 function git_words_removed {
-  revision=${1:-origin/main}
+  revision=${1:-main}
 
   git diff --word-diff=porcelain $revision | \
     grep -e "^-[^-]" | \
@@ -17,7 +17,7 @@ function git_words_removed {
 }
 
 function git_words_abs_chg {
-  revision=${1:-origin/main}
+  revision=${1:-main}
 
   echo $(($(git_words_added $1) + $(git_words_removed $1)))
 }
