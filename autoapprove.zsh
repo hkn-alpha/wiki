@@ -22,11 +22,18 @@ function git_words_abs_chg {
   echo $(($(git_words_added $1) + $(git_words_removed $1)))
 }
 
+
+echo "Auto approve threshold is $MAX_CHANGED, checking diff..."
+
 delta=$(git_words_abs_chg)
 
-# if [[$(git_words_abs_chg) -gt 1]] then
-  # echo "big"
-# fi
+echo "Diff: $delta words were changed."
 
-echo $(git_words_abs_chg)
+if [[ $delta -gt $MAX_CHANGED ]]
+then
+  echo "Too many words have been changed, will not auto-approve."
+  echo "approve=false" >> "$GITHUB_OUTPUT"
+else
+  echo "approve=true" >> "$GITHUB_OUTPUT"
+fi
 
