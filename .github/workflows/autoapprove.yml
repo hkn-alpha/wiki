@@ -20,7 +20,7 @@ jobs:
     needs: decision
     permissions:
       pull-requests: write
-    if: needs.decision.outputs.approve
     steps:
       - uses: hmarr/auto-approve-action@v3
+        if: needs.decision.outputs.approve
       
