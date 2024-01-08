@@ -11,12 +11,11 @@ jobs:
     steps:
       - name: 'PR commits + 1'
         run: echo "PR_FETCH_DEPTH=$(( ${{ github.event.pull_request.commits }} + 1 ))" >> "${GITHUB_ENV}"
-
       - name: 'Checkout PR branch and all PR commits'
         uses: actions/checkout@v3
-          with:
-            ref: ${{ github.event.pull_request.head.ref }}
-            fetch-depth: ${{ env.PR_FETCH_DEPTH }}
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: ${{ env.PR_FETCH_DEPTH }}
       # - uses: actions/checkout@v4
         # with:
           # ref: ${{ env.MY_REF}}
