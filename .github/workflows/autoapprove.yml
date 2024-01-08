@@ -22,5 +22,5 @@ jobs:
       pull-requests: write
     steps:
       - uses: hmarr/auto-approve-action@v3
-        if: needs.decision.outputs.approve
+        if: needs.decision.outputs.approve == 'true'
       
