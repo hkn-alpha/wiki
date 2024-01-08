@@ -2,6 +2,7 @@ name: Auto-approve small changes
 on: pull_request
 env:
   MAX_CHANGED: 40
+  MY_REF: ${{ format('refs/heads/{0}', github.event.pull_request.head.ref) }}
 jobs:
   decision:
     runs-on: ubuntu-latest
@@ -10,7 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ env.MY_REF}}
+          fetch-depth: 0
       - run: sudo apt install zsh
       - id: decide
         run: zsh ./autoapprove.zsh
