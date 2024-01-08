@@ -22,7 +22,7 @@ jobs:
           # fetch-depth: 0
       - uses: actions/checkout@v2
       - run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
-      - run: git diff origin/main HEAD
+      - run: git diff origin/main
         
           
       # - uses: actions/checkout@v4
