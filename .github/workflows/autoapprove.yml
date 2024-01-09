@@ -11,7 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
-      - run: git diff origin/main          
       - run: sudo apt install zsh
       - id: decide
         run: zsh ./autoapprove.zsh
