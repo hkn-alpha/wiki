@@ -1,0 +1,27 @@
+name: Auto-approve small changes
+on: pull_request
+env:
+  MAX_CHANGED: 40
+  MY_REF: ${{ format('refs/heads/{0}', github.event.pull_request.head.ref) }}
+jobs:
+  decision:
+    runs-on: ubuntu-latest
+    outputs:
+      approve: ${{steps.decide.outputs.approve}}
+    steps:
+      - uses: actions/checkout@v2
+      - run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+      - run: sudo apt install zsh
+      - id: decide
+        run: zsh ./autoapprove.zsh
+  auto-approve:
+    runs-on: ubuntu-latest
+    needs: decision
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: hmarr/auto-approve-action@v3
+        if: needs.decision.outputs.approve == 'true'
+        with:
+          github-token: ${{secrets.HKN_PAT}}
+      
