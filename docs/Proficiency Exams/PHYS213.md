@@ -18,7 +18,7 @@ For students who have a solid physics background or who want to finish the class
 
 ## Exam Format
 
-The exam consists of both multiple choice and fill in the blank questions given through Prairietest at CBTF. The content is similar to that of the class's final exams. The assigned grade is Pass or Fail. An 80% score is required to receive a passing grade. A electronic formula sheet will be given in the exam. The exam is also used as a makeup exam for students who missed the final exam in a previous semester. 
+The exam consists of multiple choice questions given through Prairietest at CBTF. The content is similar to that of the class's final exams. The assigned grade is Pass or Fail. An 80% score is required to receive a passing grade. A electronic formula sheet will be given in the exam. The exam is also used as a makeup exam for students who missed the final exam in a previous semester. 
 
 ## How to Prepare
 
