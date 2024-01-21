@@ -22,7 +22,7 @@ The exam consists of multiple choice questions given through Prairietest at CBTF
 
 ## How to Prepare
 
-Lecture recordings are available on [media space](https://mediaspace.illinois.edu/channel/Physics+213+Summer+2020/165144651). Register for the PHYS213 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam, you will find a class on PrairieLearn labeled "PHYS 213: Thermal Physics, PHYS 213 Study Exams." The study exams on PrarieLearn is very similar to the actual exam. They are the best tool to study.
+Lecture recordings are available on [media space](https://mediaspace.illinois.edu/channel/Physics+213+Summer+2020/165144651). Register for the PHYS213 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam, you will find a class on PrairieLearn labeled "PHYS 213: Thermal Physics, PHYS 213 Study Exams." The study exams on PrarieLearn are very similar to the actual exam. They are the best tool to study.
 
 ## Life After
 
