@@ -8,7 +8,13 @@ For students who have a solid physics background or who want to finish the class
 
 ## Content Covered
 
-- 
+- Equilibrium and entropy
+- Heat and temperature
+- Ideal gases
+- Heat capacity
+- Thermodynamic/Reversible processes
+- Boltzmann factor
+- Helmholtz/Gibbs free energy
 
 ## Exam Format
 
