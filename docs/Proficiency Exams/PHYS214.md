@@ -25,6 +25,6 @@ Lecture recordings are available on [media space](https://mediaspace.illinois.ed
 
 ## Life After
 
-For ECE students who are interested in photonic devices or semiconductor, they can take [ECE304](../Course%20Wiki/ECE%20Course%20Offerings/ECE304.md) and [ECE340](../Course%20Wiki/ECE%20Course%20Offerings/ECE340.md) after passing the PHYS214 proficiency exam. You may also want to take a look at the [PHYS213 proficiency exam](../Proficiency%20Exmas/PHYS213.md). [PHYS213](../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) is another 2-credit hour, 8-week long required class for ECE majors. It's typically taken in the same semester as PHYS214. 
+For ECE students who are interested in photonic devices or semiconductor, they can take [ECE304](../Course%20Wiki/ECE%20Course%20Offerings/ECE304.md) and [ECE340](../Course%20Wiki/ECE%20Course%20Offerings/ECE340.md) after passing the PHYS214 proficiency exam. You may also want to take a look at the [PHYS213 proficiency exam](../Proficiency%20Exams/PHYS213.md). [PHYS213](../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) is another 2-credit hour, 8-week long required class for ECE majors. It's typically taken in the same semester as PHYS214. 
 
 If you didn't pass the PHYS214 proficiency exam, don't take it as a reflection of your skills. Your efforts to study the material before the semester will pay dividends and you will have an easier time than other students taking PHYS214.
