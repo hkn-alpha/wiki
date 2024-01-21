@@ -20,6 +20,6 @@ Lecture recordings are available on [media space](https://mediaspace.illinois.ed
 
 ## Life After
 
-Students who wish to go more in depth into thermal physics should take the undergraduate course in statistical mechanics, PHYS427 - Thermal and Statistical Physics. You may also want to take a look at the [PHYS214 proficiency exam](../Proficiency%20Exams/PHYS214.md). [PHYS214](../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) is another 2-credit hour, 8-week long required class for ECE majors. It's typically taken in the same semester as PHYS214. 
+Students who wish to go more in depth into thermal physics should take the undergraduate course in statistical mechanics, PHYS427 - Thermal and Statistical Physics. You may also want to take a look at the [PHYS214 proficiency exam](../Proficiency%20Exams/PHYS214.md). [PHYS214](../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) is another 2-credit hour, 8-week long required class for ECE majors. It's typically taken in the same semester as PHYS213. 
 
 If you didn't pass the PHYS213 proficiency exam, don't take it as a reflection of your skills. Your efforts to study the material before the semester will pay dividends and you will have an easier time than other students taking PHYS213.
