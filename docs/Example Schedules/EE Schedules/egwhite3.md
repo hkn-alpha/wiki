@@ -69,8 +69,6 @@ There is nothing too interesting about my first semester in terms of courses. Co
 
 I definitely recommend the 2nd semester combo of [ECE120](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md) and [ECE210](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) for EE majors if you have the prerequisites. You open up a lot more classes for your sophomore year the quicker you get through [ECE210](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md).
 
-[PHYS213](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) and [PHYS214](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) are a real snooze fest and pretty useless because they are so short. The only good thing about them is you do not have to buy the superfluous class materials like an IOlab or SmartPhysics.
-
 #### Tips:
 - [ECE210](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) knocks a lots of people down, do not let it scare you.
 
@@ -137,9 +135,9 @@ I highly recommend [ECE441](../../Course%20Wiki/ECE%20Course%20Offerings/ECE441.
 | CHP395 - Transitional Justice | 3 |
 | **Total** | **16** |
 
-I found [ECE385](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) to be pretty useless for what I want to do. It is a difficult class that takes a lot of time, but it is not hard to get a good grade in. I recommend EE majors stick to a very simple final project, your time is better spent elsewhere. Advisors are also pushing people to take this class closer to [ECE120](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md). For the EE majors who do not benefit from this class, I would say to take this class whenever you want. Knowledge from [ECE120](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md) only makes a big difference for the first real lab (technically Lab 2).
+I found [ECE385](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) to be not relevant for what I want to do. It is a difficult class that takes a lot of time, but it is not hard to get a good grade in. I recommend EE majors stick to a very simple final project, your time is better spent elsewhere. Advisors are also pushing people to take this class closer to [ECE120](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md). For the EE majors who do not benefit from this class, I would say to take this class whenever you want. Knowledge from [ECE120](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md) only makes a big difference for the first real lab (technically Lab 2).
 
-I am torn about whether to recommend [ECE444](../../Course%20Wiki/ECE%20Course%20Offerings/ECE444.md). Some of the lectures were useful, the lab was practically useless (because all the equipment and techniques are decades old), but I know some companies like to see cleanroom experience. If you can get cleanroom experience through some other means (internship, research) I would try to get the lectures slides from someone else and skip taking the class.
+I am torn about whether to recommend [ECE444](../../Course%20Wiki/ECE%20Course%20Offerings/ECE444.md). Some of the lectures were useful, the lab was not relevant for modern day semiconductors (because all the equipment and techniques are decades old), but I know some companies like to see cleanroom experience. If you can get cleanroom experience through some other means (internship, research) I would try to get the lectures slides from someone else and skip taking the class.
 
 
 #### Tips:
