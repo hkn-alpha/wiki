@@ -133,7 +133,7 @@ MSE 401 is somewhat useful for a semiconductor degree if you are interested in c
 | MUSC 484 | Concert Band | 1 |
 | **Total** | | **12** |
 
-Delay taking ECE 385 as long as possible as an EE because it is very irrelevant to this degree. The class takes up an insane amount of time and effort and is even more miserable if you aren't into FPGA's.
+ECE 385 takes up large amounts of time, so finding a good partner is essential. This class is required but gears more towards CompE than EE, so keep that in mind if your interests aren't aligned towards FPGAs. However, you learn tons in this class and even get a chance to make a final project on whatever you want like making Tetris from digital hardware.
 
 I highly recommend MSE 405 for anyone in semiconductors and nanotech if possible. Learning the theory and application behind imaging techniques is very useful when going into a subfield that operates on devices you physically cannot see. These skills also are valuable in internship applications for semiconductor companies to get a job in their yield or similar departments.
 
@@ -148,7 +148,7 @@ PHYS 486 is one of the most fun classes I have ever taken here. ECE 340 skips ov
 | :--------- | :-------- | :--------------- |
 | [ECE 313](../../Course%20Wiki/ECE%20Course%20Offerings/ECE313.md) | Probability with Engineering Applications | 3 |
 | [ECE 350](../../Course%20Wiki/ECE%20Course%20Offerings/ECE350.md) | Fields and Waves II | 3 |
-| ECE 498 | Manipulating Quantum Systems | 3 |
+| ECE 498 SB3 / SB 4 | Manipulating Quantum Systems | 3 |
 | MUSC 460 | Chamber Singers | 1 |
 | MUSC 487 | Marching Illini | 3 |
 |**Total** | | **13** |
@@ -175,4 +175,4 @@ ECE 350 is very intersting and the knowledge of waveguides is quite applicable t
 
 Because I had more non-ECE technical hours than ECE, I had to drop the MatSE minor to make room in my schedule to graduate. These classes are more typical EE courses like circuits and power, but I made sure to take ECE 443 to stay semiconductor adjacent. ECE 443 has lab in the nanofab in the ECEB and is like a specialized continuation of ECE 340. 
 
-ECE 445 should not be taken if you are interested in semiconductors. Please, please, please, find an advisor to do a senior thesis. The class is very PCB, programming, power, and robotics oriented and has very litle room for those who like physics, theory, quantum, and semiconductors. 
+ECE 445 should not be taken if you are interested in semiconductors. Please, find an advisor to do a senior thesis. The class is very PCB, programming, power, and robotics oriented and has litle room for those who like physics, theory, quantum, and semiconductors. 
