@@ -167,8 +167,8 @@ ECE 350 is very intersting and the knowledge of waveguides is quite applicable t
 | [ECE 445](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | Senior Design Laboratory | 3 |
 | [ECE 443](../../Course%20Wiki/ECE%20Course%20Offerings/ECE443.md) | LEDs and Solar Cells | 3 |
 | [ECE 342](../../Course%20Wiki/ECE%20Course%20Offerings/ECE342.md) | Electronic Circuits | 3 |
-| [ECE 343](../../Course%20Wiki/ECE%20Course%20Offerings/ECE313.md) | Electronic Circuits Lab | 1 |
-| [ECE 330](../../Course%20Wiki/ECE%20Course%20Offerings/ECE313.md) | Power Circuits and Electromagnetics | 3 |
+| [ECE 343](../../Course%20Wiki/ECE%20Course%20Offerings/ECE343.md) | Electronic Circuits Lab | 1 |
+| [ECE 330](../../Course%20Wiki/ECE%20Course%20Offerings/ECE330.md) | Power Circuits and Electromagnetics | 3 |
 | MUSC 460 | Chamber Singers | 1 |
 | MUSC 465 | Men's Glee Club | 1 |
 | **Total** | |**17** |
