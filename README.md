@@ -2,7 +2,7 @@
 
 This repository houses the Dr. Everitt's Neighborhood wiki and is powered by Mkdocs + material theme.
 
-## Setup   
+## Setup
 
 1. Make sure you've installed Python and pip
 2. Install pipenv: `pip install --user pipenv`
