@@ -31,13 +31,15 @@ ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same seme
 
 ## Course Structure
 
-PHYS213 holds 2 lectures per week, with prelectures and checkpoints to complete before each lecture. The prelectures and checkpoints are where students will do most of the learning, with the lectures being mainly for reexplaination and clarification. 
+PHYS213 holds 3 lectures per week, with prelectures and checkpoints to complete before each lecture. Usually, two lectures are spent covering new content and the 3rd lecture is a lecture that goes over examples. The prelectures and checkpoints are where students will do most of the learning, with the lectures being mainly for reexplaination and clarification. 
 
 Homework is assigned after each lecture in smartPhysics (free for PHYS213). The homework for each week's lectures are typically due at the same time early during the following week.
 
 There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the CBTF. 
 
-There are 3 bi-weekly labs.
+There are 3 bi-weekly labs. 
+
+There are 7 weekly discussions. These are extremely helpful is getting detailed explanations and clarification from the TAs. 
 
 ## Instructors
 
@@ -45,7 +47,9 @@ In the past, this course has been taught by Professors Wagner and Covey.
 
 ## Course Tips
 
-The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released prior to the real thing. They are usually very similar to the actual exam, so they are the best tool to study.
+The key to this course is the equation sheet. Learn how to use all the equations and the homework/exams should be fairly simple. There are also provided practice exams released before the real thing. They are usually very similar to the actual exam, so they are the best tool to study.
+
+The discussions are extremely helpful in understanding and mastering the concepts. The worksheets will go step by step in solving similar problems on the exam. Completing and fully understanding the discussion worksheets is highly recommended for success in this course. 
 
 ## Life After
 
