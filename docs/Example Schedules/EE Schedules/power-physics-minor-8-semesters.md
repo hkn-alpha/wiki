@@ -1,10 +1,11 @@
 ---
 tags:
 - Power
+- Circuits
 ---
 # Power, Physics Minor, 8 Semesters
 
-I am a senior in electrical engineering, graduating in Spring 2024.  I am mainly interested in power electronics and integrated circuits.  I did not start out as an electrical engineering major, so I hope this schedule shows that with hard work, it is still possible to graduate in 8 semesters while coming in from another department.
+Hello, I am an electrical engineering alumnus from UIUC, having graduated in Spring 2024.  I am mainly interested in power electronics and integrated circuits.  I did not start out as an electrical engineering major, so I hope this schedule shows that with hard work, it is still possible to graduate in 8 semesters while coming in from another department.
 
 ## Features of this Schedule
 
@@ -124,7 +125,7 @@ I was a CA for ECE210 this semester.  I recommend trying out being a CA for some
 | [PHYS325 - Classical Mechanics I](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS325.md) | 3 |
 | **Total** | **17** |
 
-This semester was very difficult.  [ECE385](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) requires a very large time commitment, unmatched by any prior course.  It is not fun to take it along with other time consuming lab courses.  [ECE431](../../Course%20Wiki/ECE%20Course%20Offerings/ECE431.md) is a continuation of [ECE330](../../Course%20Wiki/ECE%20Course%20Offerings/ECE330.md), focusing on electric motors and generators, with a time consuming lab component.  I had a lot of fun with the labs in this course, and dedicated as much time as I could to the reports so that I could get as much as possible out of the course.  I highly recommend this course for anybody who enjoyed ECE330.  
+This semester was difficult.  [ECE385](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) requires a very large time commitment, unmatched by any prior course.  It is not fun to take it along with other time consuming lab courses.  [ECE431](../../Course%20Wiki/ECE%20Course%20Offerings/ECE431.md) is a continuation of [ECE330](../../Course%20Wiki/ECE%20Course%20Offerings/ECE330.md), focusing on electric motors and generators, with a time consuming lab component.  I had a lot of fun with the labs in this course, and dedicated as much time as I could to the reports so that I could get as much as possible out of the course.  I highly recommend this course for anybody who enjoyed ECE330.  
 
 I was not sure whether to take [ECE310](../../Course%20Wiki/ECE%20Course%20Offerings/ECE310.md) or [ECE350](../../Course%20Wiki/ECE%20Course%20Offerings/ECE350.md) for my 3-of-5 requirement, but ended up taking ECE310 as I did not enjoy [ECE329](../../Course%20Wiki/ECE%20Course%20Offerings/ECE329.md) and didn't plan on going into radio frequency design.  This ended up being a good decision, as ECE310 was very useful, fun, and not too difficult.  [ECE340](../../Course%20Wiki/ECE%20Course%20Offerings/ECE340.md) is a very useful class for EEs, especially if you plan to work with circuits at all.  Despite being notorious for its difficulty, you can do well in ECE340 if you spend a lot of time reading the textbook and go to office hours.  [PHYS325](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS325.md) is the first "real" physics class in the physics curriculum, so take it seriously.  With a lot of hard work, I did manage to do well this semester.  
 
@@ -146,7 +147,7 @@ I was not sure whether to take [ECE310](../../Course%20Wiki/ECE%20Course%20Offer
 
 This semester was about the same difficulty as the last.  [ECE464](../../Course%20Wiki/ECE%20Course%20Offerings/ECE464.md) and [ECE469](../../Course%20Wiki/ECE%20Course%20Offerings/ECE469.md) were very fun and got me interested in power electronics, specifically.  [ECE476](../../Course%20Wiki/ECE%20Course%20Offerings/ECE476.md) is a more mathematical course in power systems (the grid), a very interesting and important course for students who want to work in power systems or go to graduate school in power.  
 
-I intended to take [ECE486](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) this semester, but could not due to a time conflict, so I pushed it to my last semester.  I took [ECE482](../../Course%20Wiki/ECE%20Course%20Offerings/ECE482.md) in its place, as I had an interest in circuit design, though it quickly became my most time consuming class by far, especially with its final project.  That being said, I highly recommend ECE482 for anyone interested in ICs.  It's less important of a course for students interested in power electronics, but still worthwhile.  I also decided to try out [ECE444](../../Course%20Wiki/ECE%20Course%20Offerings/ECE444.md), as I had enjoyed [ECE340](../../Course%20Wiki/ECE%20Course%20Offerings/ECE340.md) enough.  Looking back, the course wasn't really relevant to me, and I wouldn't recommend it for students interested in power.  [PHYS427](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS427.md) is one of the most difficult undergraduate physics courses, though it has applications to many areas of physics.  I was not able to study for this course as much as I should have, as I mostly focused on my ECE courses.
+I intended to take [ECE486](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) this semester, but could not due to a time conflict, so I pushed it to my last semester.  I took [ECE482](../../Course%20Wiki/ECE%20Course%20Offerings/ECE482.md) in its place, as I had an interest in circuit design, though it quickly became my most time consuming class by far, especially with its final project.  That being said, I highly recommend ECE482 for anyone interested in ICs, as it provides a lot of experience with layout.  I also decided to try out [ECE444](../../Course%20Wiki/ECE%20Course%20Offerings/ECE444.md), as I had enjoyed [ECE340](../../Course%20Wiki/ECE%20Course%20Offerings/ECE340.md) enough.  It was a fun experience; it is definitely worthwhile to take if you are interested in the IC fabrication process.  [PHYS427](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS427.md) is one of the most difficult undergraduate physics courses, though it has applications to many areas of physics.  I was not able to study for this course as much as I should have, as I mostly focused on my ECE courses, so I struggled a lot in the course.
 
 I joined a research group at the beginning of this semester, while also applying to graduate schools.  I highly recommend getting involved in research at UIUC, especially if you plan on going to graduate school.
 
@@ -159,14 +160,10 @@ After this semester, I satisfied all degree requirements, except the [ECE445](..
 ### 8th Semester, Senior Year, Spring 2024
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE350 - Fields and Waves II](../../Course%20Wiki/ECE%20Course%20Offerings/ECE350.md) | 3 |
 | [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
 | [ECE483 - Analog IC Design](../../Course%20Wiki/ECE%20Course%20Offerings/ECE483.md) | 3 |
 | [ECE486 - Control Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) | 4 |
 | [PHYS326 - Classical Mechanics II](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS326.md) | 3 |
-| **Total** | **17** |
+| **Total** | **14** |
 
-My current semester schedule.  I will update this after I graduate.  This semester is more difficult than I intended, due to not being able to take [ECE486](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) the previous semester.
-
-
-
+This semester was more difficult than I intended, due to not being able to take [ECE486](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) the previous semester, but ended up not being too bad.  [ECE445](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) really is a good experience to have as an electrical engineer, especially for students interested in power.  It is definitely challenging, but the course does a good job of preparing you for a professional career.  [ECE483](../../Course%20Wiki/ECE%20Course%20Offerings/ECE483.md) was probably my favorite course I took this semester.  It heavily builds off of the circuit analysis concepts taught in [ECE342](../../Course%20Wiki/ECE%20Course%20Offerings/ECE342.md), and provides great experience in amplifier simulation and design.  I particularly liked working through the design problems throughout the course. ECE483 is really an essential course for anybody interested in ICs.  [ECE486](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) is also an important course for anyone interested in power, ICs, or electrical engineering in general.  The course gives a good introduction of the control system design methods used in industry.  The inverted pendulum final project was pretty fun too.  [PHYS326 - Classical Mechanics II](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS326.md) was just a class I took to complete my minor, but the parts of the class relating to dynamics ended up being very interesting to me.  This was my last semester.  After this, I graduated and started pursuing an MS at UIUC in the fall.
