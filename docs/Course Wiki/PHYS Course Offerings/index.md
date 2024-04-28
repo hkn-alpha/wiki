@@ -8,4 +8,5 @@ The following list contains all physics courses that currently have an active wi
 - [PHYS214](PHYS214.md) - University Physics: Quantum Physics
 - [PHYS225](PHYS225.md) - Relativity and Math Applications
 - [PHYS325](PHYS325.md) - Classical Mechanics I
+- [PHYS326](PHYS326.md) - Classical Mechanics II
 - [PHYS427](PHYS427.md) - Thermal and Statistical Physics
