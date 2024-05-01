@@ -30,11 +30,11 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
 - [ECE445](ECE445.md) - Senior Design Project Laboratory
 - [ECE464](ECE464.md) - Power Electronics
-- [ECE469](ECE464.md) - Power Electronics Laboratory
+- [ECE469](ECE469.md) - Power Electronics Laboratory
 - [ECE470](ECE470.md) - Introduction to Robotics
 - [ECE476](ECE476.md) - Power System Analysis
-- [ECE482](ECE464.md) - Digital IC Design
-- [ECE483](ECE464.md) - Analog IC Design
+- [ECE482](ECE482.md) - Digital IC Design
+- [ECE483](ECE483.md) - Analog IC Design
 - [ECE486](ECE486.md) - Control Systems
 - [ECE496](ECE496.md) - Senior Research Project
 - [ECE498SJP](ECE498SJP.md) - Accelerator Architectures

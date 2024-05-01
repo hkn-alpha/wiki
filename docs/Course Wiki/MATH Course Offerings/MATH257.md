@@ -34,21 +34,24 @@ MATH257 is the first linear algebra course that covers many fundamental concepts
 Students should take it whenever available after they have gained credit for [MATH221](MATH221.md), but most students take it after and while taking [MATH241](MATH241.md). The course is a prerequisite for [ECE313](../ECE%20Course%20Offerings/ECE313.md). 
 
 ## Course Structure
+This is a relatively new course, so the course structure might change a lot every semester. Make sure to check the course website for the latest update. 
+
 Every week there are online lecture videos, two in-person lectures, one discussion, and one online lab. Generally, you start off watching the online lecture videos to learn new concepts, and then go to in-person lectures to learn more in-depth about those new concepts. Dicussions are in-person, where you work in groups to complete a dicussion worksheet. The lab is online on Zoom every Friday, where you work by yourself or with other students to complete Python programming assignments on PrairieLearn/Jupyter Notebook. 
 
-The course has homework assigned weekly on Prairlearn, where you practice the concepts learned in lecture. The time to finish each homework varies, but most of them take about 1-2 hours. The homeworks give you unlimited attempts to get full credit, but most questions require you to correctly answer 2-3 different variants to obtain full credit. 
+The course has homework assigned weekly on PrairieLearn, where you practice the concepts learned in lecture. The time to finish each homework varies, but most of them take about 1-2 hours. The homeworks give you unlimited attempts to get full credit, but most questions require you to correctly answer 2-3 different variants to obtain full credit. There is also a weekly lab assignment, which consists of 2-3 Python questions similar to the lab section.
 
-There are four midterms and one final exam in the course. Each midterm is 50 minutes long with about 12-13 questions, consisting of conceptual, computational questions, and one Python question based on the labs. They are administered at CBTF. It is recommended to review homework problems and tests from [MATH415](MATH415.md) (previous version of MATH257), but unfortunately there are no practice midterms directly related to the actual midterms. The final exam is similar to the midterm, except that it is twice the length and 3 hours long. In the past, the final exam was administered on Zoom. If your final exam score is higher than any of your midterm scores, it will replace your lowest midterm score.
+There are three midterms and one final exam in the course. Each midterm is 50 minutes long with about 12-13 questions, consisting of conceptual, computational questions, and one Python question based on the labs. Usually, midterms are more conceptual and less computational compared to homeworks. They are administered at CBTF. It is recommended to review homework problems and tests from [MATH415](MATH415.md) (previous version of MATH257). There are also practice problems provided on the PrairieLearn. The final exam is similar to the midterm, except that it is twice the length and 3 hours long. The final exam is also administered at CBTF. There might be a separate Python final depending on the availability of CBTF. If your final exam score is higher than any of your midterm scores, it will replace your lowest midterm score.
 
 ## Instructors
-The instructors for this course vary based on availability and student demand. The current course director is Professor Chuang. This semester (Fall 2023), the instructor list includes Professors Jer-Chin Chuang and Jenny Srikant.
+The instructors for this course vary based on availability and student demand. The current course director is Professor Chuang. This semester (Spring 2024), the instructor list includes Professors Jer-Chin Chuang and Felix Leditzky.
 
 ## Course Tips
- - The midterms are only 50 minutes long, so be sure to be allocate your time wisely when taking the exams.
+ - The midterms are only 50 minutes long, so be sure to allocate your time wisely when taking the exams.
  - Do Prairielearn homework problems for computational practice and the old MATH415 practice exams for conceptual practice for the midterms.
  - Try to get familiar with the notation used in the course as early as possible, as they are used constantly in later concepts.
  - Asks questions on Campuswire and on the MATH257 discord, as there are people available who are happy to help.
  - It is sometimes good to visualize concepts in lower dimensions (2D or 3D) before generalizing them in higher dimensions.
+ - Python part might be challenging, especially for students without prior experience. Make sure to follow lab assignments and understand every step of it, since Python questions in homeworks and exams are very similar to each other.
 
 ## Life After
 After taking MATH257, ECE students are required to take [ECE313](../ECE%20Course%20Offerings/ECE313.md), which delves into probability theory. 
