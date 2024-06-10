@@ -34,6 +34,7 @@ I started out kind of interested in bioengineering and applications of ECE for m
 |RHET-- | 3 |
 |[STAT100 - Statistics](../../Course%20Wiki/Other%20Course%20Offerings/STAT100.md) | 3 |
 | **Total** | **50** |
+
 ### 1st Semester, Freshman Year, Fall 2021
 | **Course Name** | **Credit Hours** |
 | --- | --- |
