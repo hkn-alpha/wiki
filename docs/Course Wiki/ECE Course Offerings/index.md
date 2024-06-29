@@ -25,6 +25,7 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE411](ECE411.md) - Computer Organization and Design
 - [ECE417](ECE417.md) - Multimedia Signal Processing
 - [ECE422](ECE422.md) - Introduction to Computer Security I
+- [ECE428](ECE428.md) - Distributed Systems
 - [ECE431](ECE431.md) - Electric Machinery
 - [ECE441](ECE441.md) - Physics and Modeling of Semiconductor Devices
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
