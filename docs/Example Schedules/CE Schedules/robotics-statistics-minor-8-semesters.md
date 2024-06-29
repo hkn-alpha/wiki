@@ -150,23 +150,37 @@ CLCV115 fulfills the Western culture requirement and 3 hours of Humanities and A
 ### 6th Semester, Junior Year, Spring 2024
 | Course Name | Credit Hours |
 | --- | --- |
+| [CS445 - Computational Photography](../../Course%20Wiki/CS%20Course%20Offerings/CS445.md) | 3 |
 | [ECE200 - Seminar](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
 | [ECE428 - Distributed Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE428.md) | 4 |
-| [ECE434 - Real-World Algorithms for IoT and Data Science](../../Course%20Wiki/ECE%20Course%20Offerings/ECE434.md) | 3 |
 | [ECE438 - Communication Networks](../../Course%20Wiki/ECE%20Course%20Offerings/ECE438.md) | 3 |
 | ENG377 - Pedagogy & Mentoring for ELAs | 1 |
 | [PHYS446 - Modern Computational Physics](../../Course%20Wiki/ECE%20Course%20Offerings/PHYS446.md) | 3 |
-| **Total** | **14** |
+| [STAT420 - Methods of Applied Statistics](../../Course%20Wiki/Other%20Course%20Offerings/STAT420.md) | 3 |
+| **Total** | **17** |
+
+This is kind of a running theme, but this semester was probably the hardest yet. 5 technical classes is not something I'd recommend to most people since it eats into a lot of your RSO/social time. If I were to redo this, I would probably not take CS445 since it was not very interesting/useful for me.
+
+ECE428 is my 2nd favorite class I've taken (besides ECE391) and was truly one of the first classes where I felt like an engineer. Most lower-level CS/ECE courses are more "fill-in-the-blank", where a framework is given to you and you're simply filling in the methods or classes. ECE428 is more open-ended, where you're given a problem and you have to architect, implement, and test a solution yourself. If you enjoy it, I would also take ECE438, which covers more of the lower-level networking that ECE428 abstracts away. Both classes had difficult exams, but the MPs were very fun and interesting.
+
+PHYS446 is one of the most conceptually difficult classes I've taken, since it's a mix of physics, math, and programming. I skipped [PHYS225](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS225.md) and [PHYS246](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS246.md) to take this class, and I would say that neither of them are strictly required as long as you're willing to put in some extra work outside of class. Prof Clark does a great job of teaching enough to make you understand the concepts without handholding you too much.
+
+STAT420 was mostly the same as STAT107/207, but in R instead of Python. I took ENG377 to become an ELA in the fall and ECE200 to fulfill my James Scholar contract.
+
+#### Tips:
+- Get a good partner for ECE428 and ECE438, bonus points if they're the same person.
+- If you're interested in computational physics or scientific computation in general, PHYS446 is a great class. If you're not, it's probably not worth the time.
+- There's usually no good reason to take 5 technical classes at the same time, if you plan ahead a bit more you can spread them out better.
 
 ### 7th Semester, Senior Year, Fall 2024
 | Course Name | Credit Hours |
 | --- | --- |
 | [ECE200 - Seminar](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
-| [ECE374 - Introduction to Algorithms & Models of Computation](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md) | 4 |
-| [ECE486 - Control Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) | 3 |
+| [ECE374A - Introduction to Algorithms & Models of Computation](../../Course%20Wiki/ECE%20Course%20Offerings/CS374A.md) | 4 |
+| [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
+| [ECE486 - Control Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) | 4 |
 | [ME487 - MEMS-NEMS Theory & Fabrication](../../Course%20Wiki/Other%20Course%20Offerings/ME487.md) | 4 |
-| [STAT420 - Methods of Applied Statistics](../../Course%20Wiki/Other%20Course%20Offerings/STAT420.md) | 3 |
-| **Total** | **14** |
+| **Total** | **16** |
 
 Teaching ENG100.
 
@@ -174,7 +188,6 @@ Teaching ENG100.
 | Course Name | Credit Hours |
 | --- | --- |
 | [ECE422 - Computer Security I](../../Course%20Wiki/ECE%20Course%20Offerings/ECE422.md) | 4 |
-| [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
 | [ECE484 - Principles of Safe Autonomy](../../Course%20Wiki/ECE%20Course%20Offerings/ECE484.md) | 4 |
 | [ECE489 - Robot Dyanmics and Control](../../Course%20Wiki/ECE%20Course%20Offerings/ECE489.md) | 4 |
-| **Total** | **16** |
+| **Total** | **12** |
