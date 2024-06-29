@@ -37,6 +37,8 @@ There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the
 
 There are 3 bi-weekly labs.
 
+There are 7 weekly discussions. These are extremely helpful in getting detailed explanations and clarification from the TAs. 
+
 ## Instructors
 
 In the past, this course has been taught by Professors Wagner and Covey.
