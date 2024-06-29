@@ -5,7 +5,7 @@ tags:
 ---
 # Robotics, Statistics Minor, 8 Semesters
 
-Hi, I'm currently a second-semester Junior (CE '25) also pursuing a Statistics minor. I'm focused on software, robotics, autonomy, and controls. Originally, I had planned to use one semester as a co-op but decided to take more technical electives instead. My schedule is definitely on the heavy side but it allows you to spend most of Junior and Senior year taking tech electives that you're interested in, while never having to double up on the big 4 ECE classes.
+Hi, I'm currently a first-semester Senior (CE '25) also pursuing a Statistics minor. I'm focused on software, robotics, autonomy, and controls. Originally, I had planned to use one semester as a co-op but decided to take more technical electives instead. My schedule is definitely on the heavy side but it allows you to spend most of Junior and Senior year taking tech electives that you're interested in, while never having to double up on the big 4 ECE classes.
 
 ## Features of this Schedule
 
@@ -24,16 +24,21 @@ Hi, I'm currently a second-semester Junior (CE '25) also pursuing a Statistics m
 | [CS101 - Intro Computing: Engrg & Sci](../../Course%20Wiki/CS%20Course%20Offerings/CS101.md) | 3 |
 | ECON102 - Microeconomic Principles | 3 |
 | ECON103 - Macroeconomic Principles | 3 |
+| HIST1-- | 3 |
+| HIST1-- | 3 |
 | IB150 - Organismal & Evolutionary Biol | 4 |
 | [MATH220 - Calculus](../../Course%20Wiki/MATH%20Course%20Offerings/MATH220.md) | 5 |
 | [MATH231 - Calculus II](../../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) | 3 |
 | MCB150 - Molec & Cellular Basis of Life | 4 |
+| PHYS2-- | 4 |
 | [PHYS211 - University Physics: Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS211.md) | 4 |
 | PS101 - Intro to US Gov & Pol | 3 |
 | RHET105 - Writing and Research | 4 |
-| **Total** | **42** |
+| **Total** | **52** |
 
-I had a lot of AP credit, these are the ones that actually gave me credit for a class. The most useful AP credits for progressing in ECE are Calculus BC and Physics C. I used RHET105 credit, ECON102/103, and PS101 to get out of gen ed requirements. Chem and Bio are not required for CE, and CS101 is essentially useless credit for ECE. I also took Calc 3 and Linear Algebra in high school but was not offered community college credit, so I had to retake them freshman year.
+**Note:** The courses/credits marked with X-- mean they don't count for a particular course, but count as credit hours towards the 128 credit hour requirement for the degree.
+
+I had a lot of AP credit coming in which was useful for getting through intro requirements. The most useful AP credits for progressing in ECE are Calculus BC and Physics C. I used RHET105 credit, ECON102/103, and PS101 to get out of gen ed requirements. Chem and Bio are not required for CE, and CS101 is essentially useless credit for ECE. I also took Calc 3 and Linear Algebra in high school but was not offered community college credit, so I had to retake them freshman year.
 
 ### 1st Semester, Freshman Year, Fall 2021
 | Course Name | Credit Hours |
