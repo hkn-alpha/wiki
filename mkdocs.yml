@@ -79,6 +79,7 @@ plugins:
         "Course Wiki/CS Course Offerings/CS446.md": "Course Wiki/ECE Course Offerings/ECE449.md"
         "Course Wiki/CS Course Offerings/CS440.md": "Course Wiki/ECE Course Offerings/ECE448.md"
         "Course Wiki/CS Course Offerings/CS461.md": "Course Wiki/ECE Course Offerings/ECE422.md"
+        "Course Wiki/CS Course Offerings/CS425.md": "Course Wiki/ECE Course Offerings/ECE428.md"
 markdown_extensions:
   - footnotes
   - pymdownx.tilde
