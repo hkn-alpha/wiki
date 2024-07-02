@@ -4,8 +4,11 @@ The following list contains all ECE courses that currently have an active wiki p
 
 - [ECE110](ECE110.md) - Introduction to Electronics
 - [ECE120](ECE120.md) - Introduction to Computing
+- [ECE199](ECE199.md) - Undergraduate Open Seminar
+- [ECE200](ECE200.md) - Seminar
 - [ECE210](ECE210.md) - Analog Signal Processing
 - [ECE220](ECE220.md) - Computer Systems & Programming
+- [ECE304](ECE304.md) - Photonic Devices
 - [ECE310](ECE310.md) - Digital Signal Processing
 - [ECE311](ECE311.md) - Digital Signal Processing Lab
 - [ECE313](ECE313.md) - Probability with Engineering Applications
@@ -17,16 +20,29 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE342](ECE342.md) - Electronic Circuits
 - [ECE343](ECE343.md) - Electronic Circuits Laboratory
 - [ECE350](ECE350.md) - Fields and Waves II
+- [ECE365](ECE365.md) - Data Science and Engineering
 - [ECE374B](ECE374B.md) - Introduction to Algorithms and Models of Computation
+- [ECE380](ECE380.md) - Biomedical Imaging
 - [ECE385](ECE385.md) - Digital Systems Laboratory
 - [ECE391](ECE391.md) - Computer Systems Engineering
+- [ECE395](ECE395.md) - Advanced Digital Projects Lab
+- [ECE402](ECE402.md) - Electronic Music Synthesis
 - [ECE407](ECE407.md) - Cryptography
 - [ECE408](ECE408.md) - Applied Parallel Programming
 - [ECE411](ECE411.md) - Computer Organization and Design
+- [ECE414](ECE414.md) - Biomedical Instrumentation
+- [ECE416](ECE416.md) - Biosensors
 - [ECE417](ECE417.md) - Multimedia Signal Processing
-- [ECE422](ECE422.md) - Introduction to Computer Security I
+- [ECE418](ECE418.md) - Image and Video Processing
+- [ECE420](ECE420.md) - Embedded DSP Lab
+- [ECE422](ECE422.md) - Computer Security I
+- [ECE424](ECE424.md) - Computer Security II
+- [ECE425](ECE425.md) - Intro to VLSI System Design
 - [ECE428](ECE428.md) - Distributed Systems
 - [ECE431](ECE431.md) - Electric Machinery
+- [ECE434](ECE434.md) - Real-World Algorithms for IoT and Data Science
+- [ECE437](ECE437.md) - Sensors and Instrumentation
+- [ECE438](ECE438.md) - Communication Networks
 - [ECE441](ECE441.md) - Physics and Modeling of Semiconductor Devices
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
 - [ECE445](ECE445.md) - Senior Design Project Laboratory
