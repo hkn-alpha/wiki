@@ -20,4 +20,4 @@ Dr. Everitt's Neighborhood (DEN) is managed by [Eta Kappa Nu](https://hkn.illino
 
 ## Contributing to the wiki
 
-We manage contributions on [GitHub](https://github.com/hkn-alpha/wiki). Please feel free to open a pull request by following the readme there.
+We manage contributions on [GitHub](https://github.com/hkn-alpha/wiki). Please feel free to open a pull request by following the readme there. You can also contribute to our [Course Wiki](Course%20Wiki/index.md) via this [form](https://docs.google.com/forms/d/e/1FAIpQLScdRSo1C0KG2tSnKUOfJI4qAmMi9b6WxfpsEt57BticCvi9vg/viewform) for Technical Electives. Or, if you are graduating this semester or are an alum/grad student and did your undergrad here, you can contribute your undergrad schedule as an [example schedule](Example%20Schedules/index.md) via this [form](https://docs.google.com/forms/d/e/1FAIpQLSdQYU9vaZdrIyfekYViBh0TdHyCkBiC-4L7vppTFbdqhuzcPQ/viewform).

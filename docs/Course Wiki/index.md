@@ -18,7 +18,7 @@ Please note that the course reviews were written based on the way courses were t
 
 We would love your help making Dr. Everitt's Neighborhood better; please contribute! We manage contributions on [GitHub](https://github.com/hkn-alpha/wiki). Please feel free to open a pull request by following the readme there.
 
-If you see a course review that is outdated, let us know. If you think the author was crazy and the opinions are totally wrong, help us fix it. If you want to write a review for a course that doesn't have one yet, get to it. If you have some ideas of how to make DEN better, please give us your input by opening an issue on GitHub.
+If you see a course review that is outdated, let us know. If you think the author was crazy and the opinions are totally wrong, help us fix it. If you want to write a review for a course that doesn't have one yet, get to it. A quick and easy way to give your review is via this [form](https://docs.google.com/forms/d/e/1FAIpQLScdRSo1C0KG2tSnKUOfJI4qAmMi9b6WxfpsEt57BticCvi9vg/viewform). If you have some ideas of how to make DEN better, please give us your input by opening an issue on GitHub.
 
 ## Course Reviews by Subfield
 
