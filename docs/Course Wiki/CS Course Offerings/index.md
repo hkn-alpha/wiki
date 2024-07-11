@@ -13,6 +13,7 @@ The following list contains all CS courses that currently have an active wiki pa
 - [CS438](CS438.md) - Communication Networks
 - [CS440](CS440.md) - Artificial Intelligence
 - [CS446](CS446.md) - Machine Learning
+- [CS450](CS450.md) - Numerical Analysis
 - [CS461](CS461.md) - Computer Security I
 - [CS463](CS463.md) - Computer Security II
 - [CS483](CS483.md) - Applied Parallel Programming
