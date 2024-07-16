@@ -75,13 +75,17 @@ plugins:
         on_post_build: "docs.hooks:copy_static_files"
   - redirects:
       redirect_maps:
+        "Course Wiki/CS Course Offerings/CS407.md": "Course Wiki/ECE Course Offerings/ECE407.md"
         "Course Wiki/CS Course Offerings/CS483.md": "Course Wiki/ECE Course Offerings/ECE408.md"
         "Course Wiki/CS Course Offerings/CS446.md": "Course Wiki/ECE Course Offerings/ECE449.md"
         "Course Wiki/CS Course Offerings/CS440.md": "Course Wiki/ECE Course Offerings/ECE448.md"
         "Course Wiki/CS Course Offerings/CS461.md": "Course Wiki/ECE Course Offerings/ECE422.md"
+        "Course Wiki/CS Course Offerings/CS463.md": "Course Wiki/ECE Course Offerings/ECE424.md"
         "Course Wiki/CS Course Offerings/CS425.md": "Course Wiki/ECE Course Offerings/ECE428.md"
         "Course Wiki/CS Course Offerings/CS438.md": "Course Wiki/ECE Course Offerings/ECE438.md"
         "Course Wiki/CS Course Offerings/CS434.md": "Course Wiki/ECE Course Offerings/ECE434.md"
+        "Course Wiki/CS Course Offerings/CS450.md": "Course Wiki/ECE Course Offerings/ECE491.md"
+
 markdown_extensions:
   - footnotes
   - pymdownx.tilde
