@@ -22,11 +22,11 @@ Hello! I just graduated from Computer Engineering (May 2024) with a minor in Phy
 | [CHEM104 - General Chemistry II](../../Course%20Wiki/Other%20Course%20Offerings/CHEM104.md) | 3 |
 | [CS101 - Intro Computing: Engrg & Sci](../../Course%20Wiki/CS%20Course%20Offerings/CS101.md) | 3 |
 | ECON103 - Macroeconomic Principles | 3 |
-| HIST1-- | 3 |
 | ENG1--  | 3 |
 | FR103 - Intermediate French I | 4 |
 | FR104 - Intermediate French II| 4 |
 | FR205 - French in Conversation| 2 |
+| HIST1-- | 3 |
 | [MATH220 - Calculus](../../Course%20Wiki/MATH%20Course%20Offerings/MATH220.md) | 5 |
 | [MATH231 - Calculus II](../../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) | 3 |
 | [MATH231 - Calculus III](../../Course%20Wiki/MATH%20Course%20Offerings/MATH241.md) | 4 |
@@ -40,21 +40,21 @@ Not all of these classes counted towards satisfying degree requirements, but wou
 ### Semester 1, Freshman Fall, Fall 2021
 | Course Name | Credit Hours |
 | --- | --- |
-| [ENG100 - Engineering Orientation](../../Course%20Wiki/Other%20Course%20Offerings/ENG100.md) | 0 |
-| [MATH285 - Intro Differential Equations](../../Course%20Wiki/MATH%20Course%20Offerings/MATH285.md) | 3 |
-| TE100 - Intro to ILEE | 1 |
 | CLCV120 - Storytelling & Transformation | 3 |
+| [ENG100 - Engineering Orientation](../../Course%20Wiki/Other%20Course%20Offerings/ENG100.md) | 0 |
 | [ECE120 - Introduction to Computing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md) | 4 |
-| [PHYS213 - Thermal Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) | 2 |
 | [MATH257 - Linear Algebra w Computational Appl](../../Course%20Wiki/MATH%20Course%20Offerings/MATH257.md) | 3 |
+| [MATH285 - Intro Differential Equations](../../Course%20Wiki/MATH%20Course%20Offerings/MATH285.md) | 3 |
+| [PHYS213 - Thermal Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) | 2 |
+| TE100 - Intro to ILEE | 1 |
 | **TOTAL** | 16 |
 
 #### Reflection and Class Tips
+- CLCV120: An entertaining half-semester class that I took as a GenEd requirement double dipper (Humanities & the Arts + Western/Comparative). 
 - ECE120: Great introductory class to the major, and I recommend occasionally reading sections from the corresponding Patt and Patel textbook because they give context to some foreign technical ideas. The exams seemed daunting because they were strucutred on PrairieLearn so that if you get your first answer attempt wrong you already lose points, but there weren't any curveballs on the questions and their material, so just study everything and double check your work.
 - MATH257: This class consumed most of my mental bandwidth and time out of classes this semester. There was always work to do for it, from the online HWs, to the labs, to studying for the exams. Great class though, and if you take the time to properly learn LinAlg now it will yield many dividends in the future.
 - MATH285: Personally one of the more easier math classes I took. Do the practice exams and they prepare you pretty well for the actual exams.
 - PHYS213: Half semester class and was a straight forward physics class. It was definitely a lot of formula plug-and-chug but it covered interesting material and labs.
-- CLCV120: An entertaining half-semester class that I took as a GenEd requirement double dipper (Humanities & the Arts + Western/Comparative). 
 - TE100: A class that I took for fun because I was interested in ILEE. It was taught by a very upbeat and intelligent professor and I recommend taking this class to anyone interested in entrepreneurship! It is a pretty low-input class and you just discuss interesting stories and concepts.
 
 You'll probably undergo more changes in the first semester of college than you will in the rest of your time here, so going a little lighter on class load to make time to have new experiences, make friends, and join RSOs is definitely valid. I also spent a lot of time this semester getting a job at Research Park which I 100% recommend. Research Park is a corporate cluster right next to UIUC and offers a lot of great introductory work experience for students. I did not have any technical work experience going into college, and the job at Research Park was the way that I could begin that process. Also, make it a point to make new friends, chances are the friends you make will last longer than the knowledge you gained studying for a particular exam. It is perfectly understandable to feel a bit overwhelmed with the wealth of new things you are responsible for when you start college, from making friends to making sure your grades are good to job hunting for the first time, but just remember that everyone is in the same boat and take it one step at a time! 
@@ -63,20 +63,20 @@ You'll probably undergo more changes in the first semester of college than you w
 | Course Name | Credit Hours |
 | --- | --- |
 | [CS173 - Discrete Structures](../../Course%20Wiki/CS%20Course%20Offerings/CS173.md) | 3 |
-| [PHYS214 - Univ Physics: Quantum Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) | 2|
-| [ECE110 - Introduction to Electronics](../../Course%20Wiki/ECE%20Course%20Offerings/ECE110.md) | 3 |
-| [PHYS225 - Relativity & Math Applications](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS225.md) | 2 |
-| [ECE220 - Computer Systems & Programming](../../Course%20Wiki/ECE%20Course%20Offerings/ECE220.md) | 4 |
 | CWL207 - Indian Cinema in Context | 3 |
+| [ECE110 - Introduction to Electronics](../../Course%20Wiki/ECE%20Course%20Offerings/ECE110.md) | 3 |
+| [ECE220 - Computer Systems & Programming](../../Course%20Wiki/ECE%20Course%20Offerings/ECE220.md) | 4 |
+| [PHYS214 - Univ Physics: Quantum Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) | 2|
+| [PHYS225 - Relativity & Math Applications](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS225.md) | 2 |
 | **Total** | 17 |
 
 #### Reflection and Class Tips
 - CS173: The structure of this class is that there are weekly quizzes on the material of the previous week, and these quizzes essentially constitute your entire grade. It is a great way to learn and reinforce the material, and the knowledge I learned in this class I retained for a long time and was very useful for software engineering interviews. I could take this class only after taking the CS124 proficiency exam over winter break. 
-- PHYS214: The other half-semester physics class required for ECE majors. Make sure you do all the work for this class and ask questions if you are confused, some of the material is novel and abstract. 
+- CWL207: Another GenEd choice that was a double dipper (Social & Behavioral Science + Non-Western Cultures). 
 - ECE110: I personally loved the labs in this class, as you get some breadboard experience and get to understand some basic electrical engineering concepts in the real world. 
 - ECE220: This class also had really good MPs in my opinion. You get some experience building and debugging in C which will prove useful later on in classes like 391.
+- PHYS214: The other half-semester physics class required for ECE majors. Make sure you do all the work for this class and ask questions if you are confused, some of the material is novel and abstract. 
 - PHYS225: Definitely the hardest material I ran into throughout my college experience. Relativity was very unintuitive for me and trying to learn these concepts on top of my otherwise hectic schedule was not easy. The class is really cool however and is the first  physics class I took as part of my physics minor. The homework problems will confuse you at times, but go to office hours and work dilligently and you will be good. I'll leave a little aside at the end as to why I chose to be a physics minor at the end and this class played a large part in that decision.
-- CWL207: Another GenEd choice that was a double dipper (Social & Behavioral Science + Non-Western Cultures). 
 
 This semester was probably my personal hardest semester in college because I was still getting acclimated and trying to balance 5 technical classes with my Research Park job. Nonetheless, it was very rewarding as I learned an important lesson that most often you will force yourself to learn how to time manage. At the beginning of the semester I took on all these classes with my job half-expecting to drop one or two of the classes. But as the semester progressed, I was able to successfully carve out time to manage each class, my job, and life. I think college is not just about learning new things and meeting new people, but also expanding on what you are capable of. If you are worried about not being able to do something, whether its an extra class or an RSO or even a new sport, give it a try and see whether you can do it or not. Generally I am speaking against the idea of saying before the semester even begins "Oh I won't have time to do X", and instead advocating for "Let's try doing X and we'll see how it goes". Obviously you should want to do each thing properly and not overwhelm yourself, but don't count yourself out prematurely!
 
@@ -84,15 +84,15 @@ This semester was probably my personal hardest semester in college because I was
 | Course Name | Credit Hours |
 | --- | --- |
 | [CS225 - Data Structures](../../Course%20Wiki/CS%20Course%20Offerings/CS225.md) | 4 |
-| [ECE385 - Digital Systems Laboratory](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) | 3 |
 | [ECE210 - Analog Signal Processing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) | 4 |
+| [ECE385 - Digital Systems Laboratory](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) | 3 |
 | SHS222 - Lang & Culture of Deaf Communities | 3 |
 | **Total** | 14 |
 
 #### Reflection and Class Tips
 - CS225: The MPs from this class will dominate your time but I honestly think I learned the most from the labs and the new data structures they introduced. This class is a great way to build some confidence in your programming ability and the issues you face debugging the C++ MPs will give you programming battle scars that are useful for jobs. There is ample amount of extra credit in this class so you shouldn't be too stressed about your grade.
-- ECE385: This class consumed most of my time this semester. The weekly projects weighed on me as a problem that I needed to solve before I could do anything else but I had a great partner that made working on each lab an enjoyable experience. This was one of the favorite classes because of the fulfillment you would get each week when your project would work and when you built your final project from the ground up.
 - ECE210: A pretty hard class that introduces a lot of abstract and initially confusing material. I would highly recommend going to lecture and making sure you are following along incrementally. 
+- ECE385: This class consumed most of my time this semester. The weekly projects weighed on me as a problem that I needed to solve before I could do anything else but I had a great partner that made working on each lab an enjoyable experience. This was one of the favorite classes because of the fulfillment you would get each week when your project would work and when you built your final project from the ground up.
 - SHS222: GenEd requirement fulfiller that satisfied both U.S. minority cultures and Social & Behavioral Science.
 
 To graduate in 3 years for computer engineering you are going to need a hell semester, or basically a semester where you combine a bunch of heavy-hitting classes and take them all at the same time. For me, that was this semester, taking 225, 385, and 210 at the same time. I think however this is the easiest combination of classes out of potential hell semesters since they are all still relatively early on in the curriculum. For example, I wouldn't recommend having 391 in your hell semester since the time you spend on that class has high variation. I was still doing my Research Park during this semester, and this was when I started heavily recruiting for software internships which honestly took up more bandwidth than any single one of these classes. My advice is to be patient with each class, 225 and 385 are project-based so they can take up a lot more time than necessary if you are facing errors, but if you've been learning the material, getting help when you need it, and are calm, you should be able to complete everything in a reasonable amount of time. For fall semesters, don't neglect how much time the job search and recruiting will take up and factor that in when deciding whether to take certain classes or not. There is plenty of advice on the Wiki for applying and getting internships but my best advice is to be vigilant in applying early in the fall semester, practice a lot, and apply to as many places as you can. This is an interesting time in your career where you may have some experience but not a whole lot of experience but be confident in your ability to learn and leverage what you have done so far!
@@ -101,59 +101,56 @@ To graduate in 3 years for computer engineering you are going to need a hell sem
 | Course Name | Credit Hours |
 | --- | --- |
 | [CS498MP - Machine Perception](../../Course%20Wiki/CS%20Course%20Offerings/CS498MP.md) | 3 |
-| [ECE391 - Computer Systems Engineering](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) | 4 |
 | [ECE310 - Digital Signal Processing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE310.md) | 3 |
 | [ECE311 - Digital Signal Processing Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE311.md) | 1 |
+| [ECE391 - Computer Systems Engineering](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) | 4 |
 | GLBL392 - International Diplomacy and Negotiation | 3 |
 | **Total** | 14 |
 
 #### Reflection and Class Tips
 - CS498MP: One of my favorite classes I have taken in college. Professor Shenlong Wang introduces advanced topics that are currently in industry and then you implement them as part of various MPs. This class also taught me basic optimization and rotation/camera knowledge that I would directly use the summer afterwards while working as a robotics intern. The MPs cover state estimation, basics of computer vision, and even has you read a deep learning paper and then implement the architecture in PyTorch. 
-- ECE391: This class has been covered a lot on the wiki so I won't dig too deep but my main suggestions are to make sure you allocate a good amount of time to the class and also to try and have fun with it. I have fond memories of sitting in the lab with my groupmates trying to get things to work and also became peers with a lot of other people in ECE as a result of just constantly seeing them in lab. 391 is a tough class, but most definitely rewarding.
 - ECE310: A useful class that I took primarily because I thought DSP would be hard to learn myself. In my opinion, it is easier than 210 and covers more interesting and relevant material. If you are looking to satisfy the EE foundation req, this is a great choice. Sometimes in the most random places a concept from this class will appear and it makes me grateful I was exposed to it earlier.
-- ECE311: In my opinion a must-take alongside 310. If you are learning the concepts in class you might as well implement them in code because you then understand the concepts better + see the actual result + the labs themselves weren't too long. Also a good way to learn some cool Python tricks and get relevant experience manipulating images, audio, and other data. 
+- ECE311: In my opinion a must-take alongside 310. If you are learning the concepts in class you might as well implement them in code because you then understand the concepts better + see the actual result + the labs themselves weren't too long. Also a good way to learn some cool Python tricks and get relevant experience manipulating images, audio, and other data.
+- ECE391: This class has been covered a lot on the wiki so I won't dig too deep but my main suggestions are to make sure you allocate a good amount of time to the class and also to try and have fun with it. I have fond memories of sitting in the lab with my groupmates trying to get things to work and also became peers with a lot of other people in ECE as a result of just constantly seeing them in lab. 391 is a tough class, but most definitely rewarding.
 - GLBL392: At the time I was planning on taking ECE411 in my last semester, in which I would need to take an Advanced Composition, so I chose this class because I was interested in global affairs. A pretty straightforward GenEd that satisfied the Advanced Comp. I think I had to do slightly more work for it than other Advanced Comp choices but I didn't mind because the readings were on pretty cool military history and diplomacy events. The final project was a 20 page paper on essentially one negotiation, which was time consuming but essentially banged out within the last 2/3 days of the semester. The professor was Prof Wedig who was a cool storyteller and gave you some insider perspective to what it was like working with the government. 
-
 
 391 is deep and took up most of the time and mental bandwidth this semester, but as I said I had a lot of fun with it. I also recommend taking classes completely out of your discipline, like I did with Diplomacy, as it forces you to think differently and exposes you to people outside of your major. I have seen people take Advanced Comps because others have said that it was easy but the class material itself is something they do not care about, so I'd advise to take one in a subject that you at least care about. No matter what for Advanced Comps, you are going to have to do a good amount of reading and writing, and I think its easier to do slightly more work for something I care about than to drag myself to do the bare minimum for something else. 
 
 ### Semester 5, Junior Fall, Fall 2023
 | Course Name | Credit Hours |
 | --- | --- |
-| [PHYS370 - Intro to Quantum Information and Computing](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS370.md) | 3 |
+| [CS498RC - Law and Policy Issues in CS](../../Course%20Wiki/CS%20Course%20Offerings/CS498RC.md) | 3 |
 | [ECE313 - Probability w Engineering Application](../../Course%20Wiki/ECE%20Course%20Offerings/ECE313.md) | 3 |
 | [ECE374 - Intro to Algs & Models of Computation](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md) | 4 |
 | [ECE428 - Distributed Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE428.md) | 4 |
-| [CS498RC - Law and Policy Issues in CS](../../Course%20Wiki/CS%20Course%20Offerings/CS498RC.md) | 3 |
+| [PHYS370 - Intro to Quantum Information and Computing](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS370.md) | 3 |
 | **Total** | 17 |
 
 #### Reflection and Class Tips
-- PHYS370: A class I took as part of the physics minor that was not required. It was a great class that introduced tough and abstract concepts of quantum computing through a very friendly professor and great reading passages. The class was essentially a weekly homework and then 3 exams, all of which were definitely do-able if you followed along the notes and went to office hours. I was interested in building up my quantum computing foundational knowledge so I chose this over other physics electives. 
+- CS498RC: Really enjoyed this class. It is labeled as a CS course but it is not actually a CS course but more a law school class. Professor Cunningham is very passionate about the intersection of law and computer science and that passion will infect you as you attend his lectures. The material of this class opens your mind to information that you probably never would have learned about or cared about otherwise, but is nonetheless important. I really enjoyed reading the case transcripts and thinking about technical work through the lens of a lawyer and considering its legal and moral implications. I firmly believe that engineers become better engineers when they become multidisciplinary and this class is a great stepping off point to thinking more than just technically.
 - ECE313: A required class for ECE majors. The exams can throw a few curveballs at you but the whole class is graded on a curve. In brutal honesty I never went to lecture and just did the homework each week by reading from the textbook, which I think better served me. 
 - ECE374: Some people really love this class and I can see some of the appeal, as you break down complex problem solving into cool and interesting techniques. I personally did not like the theoretical HW + exam structure more than any of the project based classes but it was nonetheless a good class. It will most definitely help you for software engineering interview skills, so taking it during your junior year fall, where your recruiting will probably be at its highest is a good choice.
-- CS498RC: Really enjoyed this class. It is labeled as a CS course but it is not actually a CS course but more a law school class. Professor Cunningham is very passionate about the intersection of law and computer science and that passion will infect you as you attend his lectures. The material of this class opens your mind to information that you probably never would have learned about or cared about otherwise, but is nonetheless important. I really enjoyed reading the case transcripts and thinking about technical work through the lens of a lawyer and considering its legal and moral implications. I firmly believe that engineers become better engineers when they become multidisciplinary and this class is a great stepping off point to thinking more than just technically.
 - ECE428: LoveLoveLOVED this class. I took the 4 credit hour Distributed with Indy where you  build a fully working distributed system through 4 MPs, and that was an extremely rewarding project. I highly recommend taking the 4 credit hour version of the class, as only through building the projects do you really develop a feel and an intuition for the concepts you learn. However, if you are taking a really serious load and are on your final semester, I still recommend taking the 3 credit hour class because it exposes you to some vital topics (basics of client/server, mutual exclusion, intuition when dealing with all things distributed).
+- PHYS370: A class I took as part of the physics minor that was not required. It was a great class that introduced tough and abstract concepts of quantum computing through a very friendly professor and great reading passages. The class was essentially a weekly homework and then 3 exams, all of which were definitely do-able if you followed along the notes and went to office hours. I was interested in building up my quantum computing foundational knowledge so I chose this over other physics electives. 
 
+Both my early sophomore and junior fall semesters (Aug-mid October) were dominated by recruiting, not just in terms of time but because of what you are thinking about/stressed about. You'll probably find yourself more concerned about performing well on your next interview than your next exam, and rightfully so, so consider that when debating how heavy of a course load to take in fall semesters. 
 
- Both my early sophomore and junior fall semesters (Aug-mid October) were dominated by recruiting, not just in terms of time but because of what you are thinking about/stressed about. You'll probably find yourself more concerned about performing well on your next interview than your next exam, and rightfully so, so consider that when debating how heavy of a course load to take in fall semesters. 
+### Semester 6, Junior Spring, Spring 2024
+| Course Name | Credit Hours |
+| --- | --- |
+| [ECE434 - Real World Algorithms - IoT/DS](../../Course%20Wiki/ECE%20Course%20Offerings/ECE434.md) | 3 |
+| [ECE438 - Communication Networks](../../Course%20Wiki/ECE%20Course%20Offerings/ECE438.md) | 3 |
+| [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
+| [PHYS325 - Classical Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS325.md) | 3 |
+| [PHYS446 - Modern Computational Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS446.md) | 3 |
+| **Total** | 16 |
 
- ### Semester 6, Junior Spring, Spring 2024
- | Course Name | Credit Hours |
- | --- | --- |
- | [ECE438 - Communication Networks](../../Course%20Wiki/ECE%20Course%20Offerings/ECE438.md) | 3 |
- | [PHYS446 - Modern Computational Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS446.md) | 3 |
- | [PHYS325 - Classical Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS325.md) | 3 |
- | [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
- | [ECE434 - Real World Algorithms - IoT/DS](../../Course%20Wiki/ECE%20Course%20Offerings/ECE434.md) | 3 |
- | **Total** | 16 |
-
- #### Reflection and Class Tips
- - ECE438: Networking is a really useful class but it overlaps material wise with Distributed/Computer Security a little bit (client/server interactions). Nonetheless there are a bunch of minor details of networking that I am glad I learned in class and having a structured approach to breaking down the field was helpful. I took it with Prof Vasisht, and the exams and the HW were not insanely difficult. The MPs were in C/C++ and the hardest one was the TCP one, but the rest were all fairly straightforward. This was the class that I spent the least amount of time on this semester.
- - PHYS446: This is a class that I was looking forward to taking for two years. It satisfied the last additional course I needed to take for my physics minor. Computational physics is a unique field that blends statistics, math, physics, and programming and this class was just 4 big MPs. Thinking through these MPs was extremely fun and conceptually difficult, and Prof Clark/Wagner were great in breaking it down for you. It also gives you a chance to improve your technical skills, such as getting better at Python and using tools like Numba. My favorite MP from the class was one where we built a neural network from scratch, taught it how to train, and then broke down diffusion down to its fundamental maths and implemented that to work with prompts. I recommend this class to interested CS majors too, who are looking to try doing more physics based work, and I believe it is becoming required for physics majors.
-- PHYS325: The last required class for my physics minor. It was a standard physics class structure, with a weekly HW and an exam every 5 weeks or so. The material I thought was easier to understand than relativity but some of the HW problem sets were really difficult. I honestly think I spent the most amount of time this semester on this class because each week I had to allocate a good amount of time to understanding the material and then fighting back against the problem sets. The exams were straightforward, so just go to office hours to help with the HW. I really enjoyed some of the material from this class, mainly the part on orbital mechanics, the central force work, and the last bit of Lagrangian mechanics. I wish I took the class earlier (like the 4th semester) instead of saving it for the end because this class is a pre-req for a lot of cool physics classes that I was interested in.
-- ECE445: I was debating between 445 and 411 for my final semester but eventually went with 445 because I thought the real world experience of building a PCB project from the ground up would be more valuable than the processor projects of 411. 445 is not just a project class but an Advanced Composition so be prepared for a lot of writing. Having a good group is mandatory. My biggest tip for this would be to build as much as you can as early as possible, prototyping on a breadboard and getting the software functional because the PCB (printed circuit board) functionality is probably the hardest part. You set the deadlines for this, but work diligently, because if you don't the final demo will creep up on you and that is worth the most amount of points.
+#### Reflection and Class Tips
 - ECE434: This was a very interesting class because it felt like bits and pieces of other main classes. It teaches you fundamental linear algebra, digital signal processing, and probability and then builds on that by teaching you algorithms used in the real world that use those fundamentals to achieve things like localization, audio recognition, and more really cool topics. I really recommend it and I'll speak more to it when I talk about my favorite/best classes later on.
-
+- ECE438: Networking is a really useful class but it overlaps material wise with Distributed/Computer Security a little bit (client/server interactions). Nonetheless there are a bunch of minor details of networking that I am glad I learned in class and having a structured approach to breaking down the field was helpful. I took it with Prof Vasisht, and the exams and the HW were not insanely difficult. The MPs were in C/C++ and the hardest one was the TCP one, but the rest were all fairly straightforward. This was the class that I spent the least amount of time on this semester.
+- ECE445: I was debating between 445 and 411 for my final semester but eventually went with 445 because I thought the real world experience of building a PCB project from the ground up would be more valuable than the processor projects of 411. 445 is not just a project class but an Advanced Composition so be prepared for a lot of writing. Having a good group is mandatory. My biggest tip for this would be to build as much as you can as early as possible, prototyping on a breadboard and getting the software functional because the PCB (printed circuit board) functionality is probably the hardest part. You set the deadlines for this, but work diligently, because if you don't the final demo will creep up on you and that is worth the most amount of points.
+- PHYS325: The last required class for my physics minor. It was a standard physics class structure, with a weekly HW and an exam every 5 weeks or so. The material I thought was easier to understand than relativity but some of the HW problem sets were really difficult. I honestly think I spent the most amount of time this semester on this class because each week I had to allocate a good amount of time to understanding the material and then fighting back against the problem sets. The exams were straightforward, so just go to office hours to help with the HW. I really enjoyed some of the material from this class, mainly the part on orbital mechanics, the central force work, and the last bit of Lagrangian mechanics. I wish I took the class earlier (like the 4th semester) instead of saving it for the end because this class is a pre-req for a lot of cool physics classes that I was interested in.
+- PHYS446: This is a class that I was looking forward to taking for two years. It satisfied the last additional course I needed to take for my physics minor. Computational physics is a unique field that blends statistics, math, physics, and programming and this class was just 4 big MPs. Thinking through these MPs was extremely fun and conceptually difficult, and Prof Clark/Wagner were great in breaking it down for you. It also gives you a chance to improve your technical skills, such as getting better at Python and using tools like Numba. My favorite MP from the class was one where we built a neural network from scratch, taught it how to train, and then broke down diffusion down to its fundamental maths and implemented that to work with prompts. I recommend this class to interested CS majors too, who are looking to try doing more physics based work, and I believe it is becoming required for physics majors.
 
 This was my last semester in college so I made sure not to just drown myself in work but to enjoy times with my friends, playing sports, etc. I also learned that sometimes you grow and learn more when you slow down than if you were constantly sprinting. I really enjoyed all the classes I took this semester so it made for a very nice end point for college.
 
