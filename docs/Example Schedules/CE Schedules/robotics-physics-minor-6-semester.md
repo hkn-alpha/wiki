@@ -24,9 +24,9 @@ Hello! I just graduated from Computer Engineering (May 2024) with a minor in Phy
 | ECON103 - Macroeconomic Principles | 3 |
 | HIST1-- | 3 |
 | ENG1--  | 3 |
-| FR 103 - Intermediate French I | 4 |
-| FR 104 - Intermediate French II| 4 |
-| FR 205 - French in Conversation| 2 |
+| FR103 - Intermediate French I | 4 |
+| FR104 - Intermediate French II| 4 |
+| FR205 - French in Conversation| 2 |
 | [MATH220 - Calculus](../../Course%20Wiki/MATH%20Course%20Offerings/MATH220.md) | 5 |
 | [MATH231 - Calculus II](../../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) | 3 |
 | [MATH231 - Calculus III](../../Course%20Wiki/MATH%20Course%20Offerings/MATH241.md) | 4 |
@@ -40,13 +40,13 @@ Not all of these classes counted towards satisfying degree requirements, but wou
 ### Semester 1, Freshman Fall, Fall 2021
 | Course Name | Credit Hours |
 | --- | --- |
-| ENG 100 - Engineering Orientation | 0 |
-| MATH 285 - Intro Differential Equations | 3 |
-| TE 100 - Intro to ILEE | 1 |
-| CLCV 120 - Storytelling & Transformation | 3 |
-| ECE 120 - Introduction to Computing | 4 |
-| PHYS 213 - Thermal Physics | 2 |
-| MATH 257 - Linear Algebra w Computational Appl | 3 |
+| [ENG100 - Engineering Orientation](../../Course%20Wiki/Other%20Course%20Offerings/ENG100.md) | 0 |
+| [MATH285 - Intro Differential Equations](../../Course%20Wiki/MATH%20Course%20Offerings/MATH285.md) | 3 |
+| TE100 - Intro to ILEE | 1 |
+| CLCV120 - Storytelling & Transformation | 3 |
+| [ECE120 - Introduction to Computing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE120.md) | 4 |
+| [PHYS213 - Thermal Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) | 2 |
+| [MATH257 - Linear Algebra w Computational Appl](../../Course%20Wiki/MATH%20Course%20Offerings/MATH257.md) | 3 |
 | **TOTAL** | 16 |
 
 #### Reflection and Class Tips
@@ -62,11 +62,11 @@ You'll probably undergo more changes in the first semester of college than you w
 ### Semester 2, Freshman Spring, Spring 2022
 | Course Name | Credit Hours |
 | --- | --- |
-| CS173 - Discrete Structures | 3 |
-| PHYS214 - Univ Physics: Quantum Physics | 2|
-| ECE110 - Introduction to Electronics | 3 |
-| PHYS225 - Relativity & Math Applications | 2 |
-| ECE220 - Computer Systems & Programming | 4 |
+| [CS173 - Discrete Structures](../../Course%20Wiki/CS%20Course%20Offerings/CS173.md) | 3 |
+| [PHYS214 - Univ Physics: Quantum Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) | 2|
+| [ECE110 - Introduction to Electronics](../../Course%20Wiki/ECE%20Course%20Offerings/ECE110.md) | 3 |
+| [PHYS225 - Relativity & Math Applications](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS225.md) | 2 |
+| [ECE220 - Computer Systems & Programming](../../Course%20Wiki/ECE%20Course%20Offerings/ECE220.md) | 4 |
 | CWL207 - Indian Cinema in Context | 3 |
 | **Total** | 17 |
 
@@ -83,10 +83,10 @@ This semester was probably my personal hardest semester in college because I was
 ### Semester 3, Sophomore Fall, Fall 2022
 | Course Name | Credit Hours |
 | --- | --- |
-| CS225 - Data Structures | 4 |
-| ECE385 - Digital Systems Laboratory | 3 |
-| ECE 210 - Analog Signal Processing | 4 |
-| SHS 222 - Lang & Culture of Deaf Communities | 3 |
+| [CS225 - Data Structures](../../Course%20Wiki/CS%20Course%20Offerings/CS225.md) | 4 |
+| [ECE385 - Digital Systems Laboratory](../../Course%20Wiki/ECE%20Course%20Offerings/ECE385.md) | 3 |
+| [ECE210 - Analog Signal Processing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE210.md) | 4 |
+| SHS222 - Lang & Culture of Deaf Communities | 3 |
 | **Total** | 14 |
 
 #### Reflection and Class Tips
@@ -100,10 +100,10 @@ To graduate in 3 years for computer engineering you are going to need a hell sem
 ### Semester 4, Sophomore Spring, Spring 2023
 | Course Name | Credit Hours |
 | --- | --- |
-| CS498MP - Machine Perception | 3 |
-| ECE391 - Computer Systems Engineering | 4 |
-| ECE 310 - Digital Signal Processing | 3 |
-| ECE 311 - Digital Signal Processing Lab | 1 |
+| [CS498MP - Machine Perception](../../Course%20Wiki/CS%20Course%20Offerings/CS498MP.md) | 3 |
+| [ECE391 - Computer Systems Engineering](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) | 4 |
+| [ECE310 - Digital Signal Processing](../../Course%20Wiki/ECE%20Course%20Offerings/ECE310.md) | 3 |
+| [ECE311 - Digital Signal Processing Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE311.md) | 1 |
 | GLBL392 - International Diplomacy and Negotiation | 3 |
 | **Total** | 14 |
 
@@ -120,12 +120,13 @@ To graduate in 3 years for computer engineering you are going to need a hell sem
 ### Semester 5, Junior Fall, Fall 2023
 | Course Name | Credit Hours |
 | --- | --- |
-| PHYS 370 - Intro to Quantum Information and Computing | 3 |
-| ECE 313 - Probability w Engineering Application | 3 |
-| ECE 374 - Intro to Algs & Models of Computation | 4 |
-| ECE 428 - Distributed Systems | 4 |
-| CS 498RC - Law and Policy Issues in CS | 3 |
+| [PHYS370 - Intro to Quantum Information and Computing](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS370.md) | 3 |
+| [ECE313 - Probability w Engineering Application](../../Course%20Wiki/ECE%20Course%20Offerings/ECE313.md) | 3 |
+| [ECE374 - Intro to Algs & Models of Computation](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md) | 4 |
+| [ECE428 - Distributed Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE428.md) | 4 |
+| [CS498RC - Law and Policy Issues in CS](../../Course%20Wiki/CS%20Course%20Offerings/CS498RC.md) | 3 |
 | **Total** | 17 |
+
 #### Reflection and Class Tips
 - PHYS370: A class I took as part of the physics minor that was not required. It was a great class that introduced tough and abstract concepts of quantum computing through a very friendly professor and great reading passages. The class was essentially a weekly homework and then 3 exams, all of which were definitely do-able if you followed along the notes and went to office hours. I was interested in building up my quantum computing foundational knowledge so I chose this over other physics electives. 
 - ECE313: A required class for ECE majors. The exams can throw a few curveballs at you but the whole class is graded on a curve. In brutal honesty I never went to lecture and just did the homework each week by reading from the textbook, which I think better served me. 
@@ -139,11 +140,11 @@ To graduate in 3 years for computer engineering you are going to need a hell sem
  ### Semester 6, Junior Spring, Spring 2024
  | Course Name | Credit Hours |
  | --- | --- |
- | ECE438 - Communication Networks | 3 |
- | PHYS446 - Modern Computational Physics | 3 |
- | PHYS325 - Classical Mechanics | 3 |
- | ECE445 - Senior Design Project Lab | 4 |
- | ECE434 - Real World Algorithms - IoT/DS | 3 |
+ | [ECE438 - Communication Networks](../../Course%20Wiki/ECE%20Course%20Offerings/ECE438.md) | 3 |
+ | [PHYS446 - Modern Computational Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS446.md) | 3 |
+ | [PHYS325 - Classical Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS325.md) | 3 |
+ | [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
+ | [ECE434 - Real World Algorithms - IoT/DS](../../Course%20Wiki/ECE%20Course%20Offerings/ECE434.md) | 3 |
  | **Total** | 16 |
 
  #### Reflection and Class Tips
@@ -155,7 +156,6 @@ To graduate in 3 years for computer engineering you are going to need a hell sem
 
 
 This was my last semester in college so I made sure not to just drown myself in work but to enjoy times with my friends, playing sports, etc. I also learned that sometimes you grow and learn more when you slow down than if you were constantly sprinting. I really enjoyed all the classes I took this semester so it made for a very nice end point for college.
-
 
 ### Conclusion
 
@@ -181,8 +181,3 @@ Here's a list of my classes that I enjoyed/derived the most value out of through
 
 
 I hope you have found this schedule breakdown useful! Remember to work with as much integrity as possible throughout your school year, as you only get out as much as you put in, and by the end you will have grown a lot more! Illinois ECE is a rigorous experience that prepares you to be an engineer extremely well, so dive deep into your subjects, learn a lot, and **have fun**!
-
-
-
-
-
