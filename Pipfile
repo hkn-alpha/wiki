@@ -7,7 +7,6 @@ name = "pypi"
 mkdocs-material = "*"
 mkdocs-simple-hooks = "*"
 mkdocs-redirects = "*"
-install = "*"
 mkdocs-git-revision-date-localized-plugin = "*"
 bettertags = "*"
 
