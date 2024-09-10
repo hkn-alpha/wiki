@@ -5,7 +5,7 @@ This repository houses the Dr. Everitt's Neighborhood wiki and is powered by Mkd
 ## Setup
 
 1. Make sure you've installed Python and pip
-2. Install pipenv: `pip install --user pipenv`
+2. Install pipenv: `pip install --user pipenv` or `brew install pipenv` (for mac)
 3. Clone the repository into a folder of your choise
 
 ## Working on the Wiki
