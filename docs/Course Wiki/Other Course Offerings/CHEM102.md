@@ -1,7 +1,6 @@
 # CHEM102
 
-[CHEM 102](https://courses.illinois.edu/schedule/2025/spring/CHEM/102)
-This is the first course in chemistry required for only for electrical engineering majors. It is a 3 credit hour course that introduces basic chemistry that expose students to topics like chemical bonding, chemical reactions, stoichiochemistry, periodic table, Equilibrium, Thermodynamics, ect. 
+CHEM102 is the first course in chemistry required for only for electrical engineering majors. It is a 3 credit hour course that introduces basic chemistry that expose students to topics like chemical bonding, chemical reactions, stoichiochemistry, periodic table, Equilibrium, Thermodynamics, ect. 
 
 # Content Covered 
 
