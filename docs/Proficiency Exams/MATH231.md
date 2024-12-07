@@ -24,7 +24,7 @@ It's not an easy proficiency exam, and does require some preparation. This test 
 
 ## Exam Format
 
-The exam consists of a number of msotly multiple-choice questions (typically up to 5 options to pick from) and a handful of open-ended questions. The exam duration is 3 hours, but the exam is designed to take 1.5-2 hours on average.
+As of 2024, the math proficiency exams have been moved to the CBTF. The exam consists of all multiple-choice questions (typically up to 5 options to pick from). The exam duration is 3 hours, but the exam is designed to take 1.5-2 hours on average.
 
 ## How to Prepare
 
