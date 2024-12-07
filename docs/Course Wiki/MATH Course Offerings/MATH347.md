@@ -29,7 +29,7 @@ If one is planning on pursuing a minor in math, this class should be taken as so
 higher level math courses. This course is offered every semester, and unfortunately there are not many classes that are a good preparation for it. The
 class takes a very different approach to math compared to other courses. 
 
-It is similar to CS173 but without the CS topics and it satisfies the discrete math requirement for CS225. Unlike CS173, you can take MATH347 without taking CS124. However, it is not listed as a prerequisite for CS374. You could also test out of CS173 after taking this course since the majority of topics overlap.
+It is similar to [CS173](../CS%20Course%20Offerings/CS173.md) but without the CS topics and it satisfies the discrete math requirement for [CS225](../CS%20Course%20Offerings/CS225.md). Unlike [CS173](../CS%20Course%20Offerings/CS173.md), you can take MATH347 without taking [CS124](../CS%20Course%20Offerings/CS124.md). However, it is not listed as a prerequisite for [CS374](../CS%20Course%20Offerings/CS374.md). You could also test out of [CS173](../CS%20Course%20Offerings/CS173.md) after taking this course since the majority of topics overlap.
 ## Course Structure
 
 Typically, there are three midterms, one final and weekly homeworks. Homeworks are mostly proof-based, so they can be a decent time commmitment. Expect to spend at least a few hours doing homework each week. Homework and exams are done on paper. 
@@ -52,7 +52,7 @@ As always, office hours are a good resource.
 
 ## Life After
 
-The topics in MATH347 are the base for all future proof-based math courses. Proof techniques such as induction are useful for CS374. It is a prerequisite for many 400 level math classes including but not limited to MATH424, 444, 447 (Real Analysis), MATH427 (Abstract Algebra), and MATH432 (Set Theory and Topology).
+The topics in MATH347 are the base for all future proof-based math courses. Proof techniques such as induction are useful for [CS374](../CS%20Course%20Offerings/CS374.md). It is a prerequisite for many 400 level math classes including but not limited to [MATH424](./MATH424.md), [MATH444](./MATH444.md), and [MATH447](./MATH447.md) (Real Analysis).
 
 
 ## Infamous Topics
