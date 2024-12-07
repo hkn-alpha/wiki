@@ -1,4 +1,4 @@
-# CHEM 102
+# CHEM102
 
 [CHEM102 (General Chemistry)](../Course%20Wiki/CHEM%20Course%20Offerings/CHEM102.md) is a required, 3 credit hour course for electrical engineering majors. The curriculum also requires a lab - CHEM103 (1 credit hour) that can be taken either with CHEM102 or after completing the course. CHEM 102 covers topics like principles governing atomic structure, bonding, states of matter, stoichiometry, and chemical equilibrium.
 
