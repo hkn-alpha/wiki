@@ -1,6 +1,6 @@
 ---
 tags:
-- Discrete Math
+
 ---
 # MATH213
 
