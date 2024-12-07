@@ -1,6 +1,6 @@
 # MATH285
 
-[MATH285 (Intro Differential Equations)](../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) is 3-credit hour course required for all ECE students and many other engineering disciplines under Grainger.
+[MATH285 (Intro Differential Equations)](../Course%20Wiki/MATH%20Course%20Offerings/MATH285.md) is 3-credit hour course required for all ECE students and many other engineering disciplines under Grainger.
 
 ## Who Should Take the Exam
 
