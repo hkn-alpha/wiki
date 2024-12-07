@@ -1,7 +1,3 @@
----
-tags:
-
----
 # MATH213
 
 MATH213 is an introductory level course in discrete math. MATH213 can be taken in place of CS173 and counts as the discrete math prerequisite for CS225. Counts for GenEd Quantitative Reasoning II.
