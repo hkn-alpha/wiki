@@ -10,3 +10,4 @@ The following list contains all physics courses that currently have an active wi
 - [PHYS325](PHYS325.md) - Classical Mechanics I
 - [PHYS326](PHYS326.md) - Classical Mechanics II
 - [PHYS427](PHYS427.md) - Thermal and Statistical Physics
+- [PHYS446](PHYS446.md) - Modern Computational Physics
