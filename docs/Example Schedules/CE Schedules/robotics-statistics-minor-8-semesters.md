@@ -22,6 +22,7 @@ Hi, I'm currently a first-semester Senior (CE '25) also pursuing a Statistics mi
 | [CHEM102 - General Chemistry I](../../Course%20Wiki/Other%20Course%20Offerings/CHEM102.md) | 3 |
 | [CHEM104 - General Chemistry II](../../Course%20Wiki/Other%20Course%20Offerings/CHEM104.md) | 3 |
 | [CS101 - Intro Computing: Engrg & Sci](../../Course%20Wiki/CS%20Course%20Offerings/CS101.md) | 3 |
+| ECE1-- | 4 |
 | ECON102 - Microeconomic Principles | 3 |
 | ECON103 - Macroeconomic Principles | 3 |
 | HIST1-- | 3 |
@@ -34,7 +35,7 @@ Hi, I'm currently a first-semester Senior (CE '25) also pursuing a Statistics mi
 | [PHYS211 - University Physics: Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS211.md) | 4 |
 | PS101 - Intro to US Gov & Pol | 3 |
 | RHET105 - Writing and Research | 4 |
-| **Total** | **52** |
+| **Total** | **56** |
 
 **Note:** The courses/credits marked with X-- mean they don't count for a particular course, but count as credit hours towards the 128 credit hour requirement for the degree.
 
@@ -170,7 +171,7 @@ ECE428 is my 2nd favorite class I've taken (besides ECE391) and was truly one of
 
 PHYS446 is one of the most conceptually difficult classes I've taken, since it's a mix of physics, math, and programming. I skipped [PHYS225](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS225.md) and [PHYS246](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS246.md) to take this class, and I would say that neither of them are strictly required as long as you're willing to put in some extra work outside of class. Prof Clark does a great job of teaching enough to make you understand the concepts without handholding you too much.
 
-STAT420 was mostly the same as STAT107/207, but in R instead of Python. I took ENG377 to become an ELA in the fall and ECE200 to fulfill my James Scholar contract.
+STAT420 was mostly the same as [STAT107](../../Course%20Wiki/Other%20Course%20Offerings/STAT107.md)/[STAT207](../../Course%20Wiki/Other%20Course%20Offerings/STAT207.md), but in R instead of Python. I took ENG377 to become an ELA in the fall and ECE200 to fulfill my James Scholar contract.
 
 #### Tips:
 - Get a good partner for ECE428 and ECE438, bonus points if they're the same person.
@@ -181,18 +182,29 @@ STAT420 was mostly the same as STAT107/207, but in R instead of Python. I took E
 | Course Name | Credit Hours |
 | --- | --- |
 | [ECE200 - Seminar](../../Course%20Wiki/ECE%20Course%20Offerings/ECE200.md) | 0 |
-| [ECE374A - Introduction to Algorithms & Models of Computation](../../Course%20Wiki/ECE%20Course%20Offerings/CS374A.md) | 4 |
+| [ECE374A - Introduction to Algorithms & Models of Computation](../../Course%20Wiki/CS%20Course%20Offerings/CS374A.md) | 4 |
 | [ECE445 - Senior Design Project Lab](../../Course%20Wiki/ECE%20Course%20Offerings/ECE445.md) | 4 |
 | [ECE486 - Control Systems](../../Course%20Wiki/ECE%20Course%20Offerings/ECE486.md) | 4 |
 | [ME487 - MEMS-NEMS Theory & Fabrication](../../Course%20Wiki/Other%20Course%20Offerings/ME487.md) | 4 |
 | **Total** | **16** |
 
-Teaching ENG100.
+This semester was pretty fun, and I ended up enjoying it a lot. I taught a section of ENG100, which was very rewarding and a great experience. I would highly recommend becoming an ELA if you have the opportunity.
+
+Typically, CompE majors take [ECE374B](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md), the "ECE" section. However, due to a time conflict with ECE486, I had to take the "CS" section - ECE374A. Most of the time, there is not a lot of variation between sections of a class, but for ECE374 there is a fair amount of difference (see [CS374A and ECE374B](../../Course%20Wiki/Taking%20X%20versus%20Y/CS374A%20and%20ECE374B.md)). I would recommend taking the B section if possible, since it's generally considered easier. However, I think that the A section's reputation is a bit overblown, and it was not too tough. I did not find Professor Sariel Har-Peled's lectures that useful, and I instead relied on the slides and Professor Jeff Erickson's recorded lectures. My discussion section was also incredibly helpful, and I would recommend finding a TA that you like and going to every one of their discussions.
+
+ECE445 is often considered the "EE" alternative to [ECE411](../../Course%20Wiki/ECE%20Course%20Offerings/ECE411.md), but I think it's a good class to take if you're not very interested in going into VLSI/computer architecture/digital design. You have to find a project, design and create a PCB with a microcontroller, and present it. My group and I had experience in PCB design and embedded software from RSOs and internships, so we were able to do a more advanced project. I think it was a fun and worthwhile class, and if you're interested in building a capstone project (that is not a RISC-V CPU) ECE445 is a great choice.
+
+ECE486 was an interesting class, and I definitely recommend it to fulfil the "EE Foundations" requirement for CompEs. It's a good intro to control theory and design, so I highly recommend taking it if you're considering going into that field.
+
+ME487 was my "just for fun" class. I'd always wanted to spend some time in a cleanroom, and instead of taking [ECE443](../../Course%20Wiki/ECE%20Course%20Offerings/ECE443.md) or [ECE444](../../Course%20Wiki/ECE%20Course%20Offerings/ECE444.md), I decided to take ME487 since the only prerequisite is [PHYS212](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS212.md). While this class was mostly mechanical-focused, I learned a lot of interesting things about semiconductors and device fabrication, as well as got to spend weekly labs working with millions of dollars of equipment in the cleanroom.
+
+#### Tips:
+- Every class I took this semester had a group component. The importance of having good groupmates was extremely evident, especially in ECE445.
+- It's okay to take classes outside ECE or your main "specialization" if you think they'll be interesting. Undergrad is realistically the last time you will be able to do that.
 
 ### 8th Semester, Senior Year, Spring 2025
 | Course Name | Credit Hours |
 | --- | --- |
-| [ECE422 - Computer Security I](../../Course%20Wiki/ECE%20Course%20Offerings/ECE422.md) | 4 |
-| [ECE484 - Principles of Safe Autonomy](../../Course%20Wiki/ECE%20Course%20Offerings/ECE484.md) | 4 |
-| [ECE489 - Robot Dyanmics and Control](../../Course%20Wiki/ECE%20Course%20Offerings/ECE489.md) | 4 |
-| **Total** | **12** |
+| [ECE411 - Computer Organization and Design](../../Course%20Wiki/ECE%20Course%20Offerings/ECE484.md) | 4 |
+| [ECE489 - Robot Dynamics and Control](../../Course%20Wiki/ECE%20Course%20Offerings/ECE489.md) | 4 |
+| **Total** | **8** |
