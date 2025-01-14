@@ -17,7 +17,9 @@ jobs:
           python-version: 3.12
       - name: Install pipenv
         run: pip install pipenv
-      - run: pipenv install && pipenv run mkdocs build
+      - run: pipenv --python 3.12
+      - run: pipenv install
+      - run: pipenv run mkdocs build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
