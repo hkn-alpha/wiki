@@ -2,7 +2,7 @@
 tags:
 - Systems
 - Networking
-- Artificial intelligence and Machine Learning
+- Artificial intelligence and machine learning
 ---
 
 # Systems and Networking, 7 Semesters
