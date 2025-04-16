@@ -3,27 +3,31 @@
 
 ---
 ### Table of Contents  
-1. [Return on Investment: Why Intern?](#roi)  
-2. [UIUC Recruiting Calendar](#calendar)  
-3. [Résumé Deep‑Dive](#resume)  
-4. [Portfolio & Online Presence](#portfolio)  
-5. [Where to Find Opportunities](#sourcing)  
-6. [Networking That Works](#networking)  
-7. [Résumé Optimization for ATS & Recruiters](#ats)  
-8. [Online Assessments (OAs)](#oa)  
-9. [Interview Mastery](#interviews)  
-10. [Evaluating & Negotiating Offers](#offers)  
-11. [International Student Checklist](#intl)  
-12. [Special Scenarios](#special)  
-13. [Quick Checklist & Links](#checklist)  
+- [Finding an Internship — ECE @ UIUC](#finding-an-internship--ece--uiuc)
+  - [Table of Contents](#table-of-contents)
+  - [1. Return on Investment: Why Intern?](#1-return-on-investment-why-intern)
+  - [2. UIUC Recruiting Calendar](#2-uiuc-recruiting-calendar)
+  - [3. Résumé Deep‑Dive](#3-résumé-deepdive)
+  - [4. Portfolio \& Online Presence](#4-portfolio--online-presence)
+  - [5. Where to Find Opportunities](#5-where-to-find-opportunities)
+  - [6. Networking That Works](#6-networking-that-works)
+  - [7. Résumé Optimization for ATS \& Recruiters](#7-résumé-optimization-for-ats--recruiters)
+  - [8. Online Assessments (OAs)](#8-online-assessments-oas)
+  - [9. Interview Mastery Interview Mastery](#9-interview-mastery-interview-mastery)
+    - [9.1 Behavioral](#91-behavioral)
+    - [9.2 Technical](#92-technical)
+  - [10. Evaluating \& Negotiating Offers](#10-evaluating--negotiating-offers)
+  - [11. International Student Checklist](#11-international-student-checklist)
+  - [12. Special Scenarios](#12-special-scenarios)
+  - [13. Quick Checklist \& Links](#13-quick-checklist--links)
 
 ---
 <a name="roi"></a>
 ### 1. Return on Investment: Why Intern?  
-* **Competitive Pay:** 2024 UIUC ECE interns reported a **median $34 /hr** (range $22‑$52).  
-* **Faster Full‑Time Offers:** 72 % of interns convert to return offers within 3 months.  
-* **Skill Acceleration:** hands‑on exposure to toolchains (Cadence, Quartus, TensorRT) that classes mention once.  
-* **Clearer Career Path:** test hardware vs. software vs. research before committing to a full‑time track.
+* **Competitive Pay:** Considerable compensation to aid in living expenses and tuition during the school year. 
+* **Faster Full‑Time Offers:** Employers reported converting approximately 53% of their 2022-23 interns to full-time hires.
+* **Skill Acceleration:** hands‑on exposure to toolchains and technologies that are mentioned briefly in classes.
+* **Clearer Career Path:** Experience hardware vs. software vs. research before committing to a full‑time track.
 
 ---
 <a name="calendar"></a>
@@ -31,7 +35,7 @@
 | Month | What Happens | Your Focus |
 | --- | --- | --- |
 | **Aug** | Companies post early‑bird apps (Apple, TI, Amazon) | Finalize résumé, open Handshake alerts |
-| **Sept** | *Engineering Career Fair* (2 days @ ARC) | Attend both days; practice pitches |
+| **Sept** | *Engineering Career Fair* (2 days @ ARC/Union) | Attend both days; practice pitches |
 | **Oct** | 1st wave OAs & interviews | 6‑week LeetCode/OA sprint |
 | **Nov–Dec** | Hardware firms (Qualcomm, AMD) finish hiring | Follow up, negotiate, file CPT draft |
 | **Jan** | *Spring Career Fair* + Research Park internship fair | Target startups, national labs |
@@ -45,7 +49,7 @@
 ### 3. Résumé Deep‑Dive  
 
 **Sections & Bullet Formula — Deeper Dive**  
-*Recommended order:* **Education → Experience → Projects → Skills** (EEP‑S). Recruiters scan in this sequence to verify qualifications, impact, and tool match.  
+*Recommended order:* **Education → Experience → Projects → Skills** (EEP‑S). Recruiters scan in this sequence to verify qualifications, impact, and tool match. A good example resume to use is [Jake's Resume Template]("https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs").
 
 | Section | What to Include | Pro Tips |
 | --- | --- | --- |
