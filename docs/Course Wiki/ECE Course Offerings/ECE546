@@ -1,0 +1,47 @@
+---
+tags:
+- Signal Integrity
+- Circuits
+- Electromagnetics
+---
+# ECE546
+
+ECE 546, Advanced Signal Integrity, is a course focusing on analog issues with integration and packaging in IC and VLSI systems. The course is offered every two spring semesters. 
+
+## Content Covered
+
+- EM review
+- Numerical PDE solvers for EM problems
+- Transmission Lines and Crosstalk
+- Network Analysis / S-parameters
+- Eye Diagrams
+- TX/RX in IC systems
+- Circuit Simulation Software
+
+ECE 546 starts with review of electromagnetics, and covers the very basics of numerical solving of PDEs. The class then moves through a series of different topics in signal integrity, primarily focusing on particular non-idealities (i.e. crosstalk, reflections) and their models (RLCG/S-parameter/Device Macromodels). The course also uses a wide variety of software in homework assignments, ranging from LTSpice to Ansys HFSS, which is useful to introduce students to industry-standard software. Lectures can be dry but cover a wide range of content; homeworks follow the lectures fairly closely, but can often be fairly involved and require a good understanding of the course material. The course also includes a final project, which built on the course material in the latter half of the class.
+
+## Prerequisites
+
+- [ECE520](ECE520.md)
+
+A solid understanding of [ECE520](ECE520.md) material, as well as an understanding of general circuits and applied EM (e.g. [ECE350](ECE350.md), [ECE342](ECE342.md)) or their equivalent. Students should be familiar with circuit models and also have a general understanding of modern technology - the course content is typically tied to issues in modern technology related to signal integrity.
+
+## Course Structure
+
+The course has weekly homeworks and a final project. Lecture attendance counts towards part of the grade, and these three things make up the total grade in the course. As it is a graduate class, the grading is not extremely harsh.
+
+## Instructors
+
+This course is taught by Professor Schutt-Aine, who is very experienced in signal integrity. 
+
+## Course Tips
+
+Spend time looking at lecture notes. 
+
+## Life After
+
+As a survey class, the course content helps students prepare themselves for diving deeper into specific problems in signal integrity.
+
+## Resources
+
+Course notes serve as the 'textbook' for the class.
