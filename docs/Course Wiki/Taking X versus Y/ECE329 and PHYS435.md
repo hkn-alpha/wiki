@@ -4,7 +4,7 @@
 - [ECE329](../ECE%20Course%20Offerings/ECE329.md)
 
 ## Overview:
-For EE's and CE's, PHYS435 (and PHYS436) do not count as tech electives but they can be used as free electives. I took both of these courses in FA24. PHYS435 requires PHYS325 while ECE329 requires ECE210. At first glance the classes may seem very similar but they are actually quite different. ECE329 skips out on a lot of the deeper physics and math rigor established in PHYS435. PHYS435 ends after completing Maxwell's Equations and does not do any waves, which leaves out about between a third and a half of ECE329.
+For EE's and CE's, PHYS435 (and PHYS436) do not count as tech electives but they can be used as free electives. PHYS435 requires PHYS325 while ECE329 requires ECE210. At first glance the classes may seem very similar but they are actually quite different. ECE329 skips out on a lot of the deeper physics and math rigor established in PHYS435. PHYS435 ends after completing Maxwell's Equations and does not do any waves, which leaves out about between a third and a half of ECE329.
 
 (Depending on the semester and professor PHYS435 may cover a bit more content)
 
