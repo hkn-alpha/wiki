@@ -46,6 +46,17 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE441](ECE441.md) - Physics and Modeling of Semiconductor Devices
 - [ECE444](ECE444.md) - IC Device Theory and Fabrication
 - [ECE445](ECE445.md) - Senior Design Project Laboratory
+- [ECE448](ECE448.md) - Artificial Intelligence
+- [ECE449](ECE449.md) - Machine Learning
+- [ECE451](ECE451.md) - Advanced Microwave Measurements
+- [ECE453](ECE453.md) - Wireless Communication Systems
+- [ECE454](ECE454.md) - Antennas
+- [ECE455](ECE455.md) - Optical Electronics
+- [ECE457](ECE457.md) - Microwave Devices and Circuits
+- [ECE459](ECE459.md) - Communication Systems
+- [ECE461](ECE461.md) - Digital Communications
+- [ECE462](ECE462.md) - Logic Synthesis
+- [ECE463](ECE463.md) - Digital Communications Laboratory
 - [ECE464](ECE464.md) - Power Electronics
 - [ECE469](ECE469.md) - Power Electronics Laboratory
 - [ECE470](ECE470.md) - Introduction to Robotics
@@ -53,6 +64,10 @@ The following list contains all ECE courses that currently have an active wiki p
 - [ECE482](ECE482.md) - Digital IC Design
 - [ECE483](ECE483.md) - Analog IC Design
 - [ECE486](ECE486.md) - Control Systems
+- [ECE489](ECE489.md) - Robot Dynamics and Control
+- [ECE490](ECE490.md) - Introduction to Optimization
+- [ECE491](ECE491.md) - Numerical Analysis
 - [ECE496](ECE496.md) - Senior Research Project
 - [ECE498SJP](ECE498SJP.md) - Accelerator Architectures
 - [ECE499](ECE499.md) - Senior Thesis
+- [ECE551](ECE551.md) - Digital Signal Processing II
