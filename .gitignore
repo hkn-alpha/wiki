@@ -1,3 +1,5 @@
 docs/__pycache__/hooks.cpython-311.pyc
 .DS_Store
 site/
+.venv/
+*.pyc

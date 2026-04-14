@@ -19,20 +19,20 @@ I started out kind of interested in bioengineering and applications of ECE for m
 | **Course Name** | **Credit Hours** |
 | --- | --- |
 | RHET105 - Writing and Research | 4 |
-| [CHEM101 - Introductory Chemistry](../../Course%20Wiki/Other%20Course%20Offerings/CHEM101.md) | 3 | 
-| [CHEM104 - General Chemistry II](../../Course%20Wiki/Other%20Course%20Offerings/CHEM104.md) | 3 | 
-| [CS101 - Intro Computing: Engrg & Sci](../../Course%20Wiki/CS%20Course%20Offerings/CS101.md) | 3 |
+| [CHEM101 - Introductory Chemistry] | 3 | 
+| [CHEM104 - General Chemistry II] | 3 | 
+| [CS101 - Intro Computing: Engrg & Sci] | 3 |
 | ECON1-- | 3 |
 | HIST-- | 3 | 
 | HIST-- | 3 |
 |[MATH220 - Calculus I](../../Course%20Wiki/MATH%20Course%20Offerings/MATH221.md) | 5 | 
-|[MATH231 - Calculus II](../../Course%20Wiki/Other%20Course%20Offerings/MATH221.md) | 3 |
+|[MATH231 - Calculus II](../../Course%20Wiki/MATH%20Course%20Offerings/MATH231.md) | 3 |
 |[PHYS211 - University Physics: Mechanics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS211.md) | 4 |
 |[PHYS212 - University Physics: Elec & Mag](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS212.md) | 4 |
 |PS101 - Intro to US Gov & Pol| 3 |
 |RHET-- | 3 | 
 |RHET-- | 3 |
-|[STAT100 - Statistics](../../Course%20Wiki/Other%20Course%20Offerings/STAT100.md) | 3 |
+|[STAT100 - Statistics] | 3 |
 | **Total** | **50** |
 
 ### 1st Semester, Freshman Year, Fall 2021
@@ -43,7 +43,7 @@ I started out kind of interested in bioengineering and applications of ECE for m
 | MATH213 - Basic Discrete Mathematics | 3 |
 | [PHYS213 - University Physics: Thermal Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS213.md) | 2 |
 | [PHYS214 - University Physics: Quantum Physics](../../Course%20Wiki/PHYS%20Course%20Offerings/PHYS214.md) | 2 |
-| [ENG100 - Engineering Orientation](../../Course%20Wiki/Other%20Course%20Offerings/ENG100.md) | 0 |
+| [ENG100 - Engineering Orientation] | 0 |
 | [MATH241H - Calculus III](../../Course%20Wiki/MATH%20Course%20Offerings/MATH241.md) | 4 |
 | **Total** | **17** |
 
@@ -117,6 +117,6 @@ Absolutely pushed my limits, especially since [ECE411](../../Course%20Wiki/ECE%2
 
 [ECE425](../../Course%20Wiki/ECE%20Course%20Offerings/ECE425.md) is a class I took for usefulness instead of interest. This class teaches you Cadence virtuoso and physical design, which is probably good to know if you want to go into the chip industry, but there are so many easier 3 credit hour technicals. 
 
-[ECE374](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374.md) felt like a gened in terms of difficulty and time consumption compared to the other 2. If [ECE391](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) was 4 credit hours, ECE 411 should be 6 and ECE 425 should be 4. At least I saved 6k by underloading. I picked up 220 CA, thinking I would have a light semester, but regretted that commitment later on.
+[ECE374](../../Course%20Wiki/ECE%20Course%20Offerings/ECE374B.md) felt like a gened in terms of difficulty and time consumption compared to the other 2. If [ECE391](../../Course%20Wiki/ECE%20Course%20Offerings/ECE391.md) was 4 credit hours, ECE 411 should be 6 and ECE 425 should be 4. At least I saved 6k by underloading. I picked up 220 CA, thinking I would have a light semester, but regretted that commitment later on.
 
 I received provisional admission (>3.9 gpa) for an MS/PhD at UIUC. Since I didn't get into any other schools, I will be starting grad school in Fall 2024.
