@@ -8,6 +8,8 @@ This repository houses the Dr. Everitt's Neighborhood wiki and is powered by Mkd
 2. Install pipenv: `pip install --user pipenv` or `brew install pipenv` (for mac)
 3. Clone the repository into a folder of your choise
 
+Alternatively, if you are only editing text, go directly to the .md file on GitHub and use the pencil icon to make your changes.
+
 ## Working on the Wiki
 
 1. In the wiki folder, run `pipenv install; pipenv shell`. This will install dependencies and activate a python virtual environment.
