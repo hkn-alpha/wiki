@@ -42,19 +42,23 @@ Every week there are online lecture videos, two in-person lectures, and one onli
 
 The course has homework assigned weekly on PrairieLearn, where you practice the concepts learned in lecture. The time to finish each homework varies, but most of them take about 1-2 hours. The homeworks give you unlimited attempts to get full credit, but most questions require you to correctly answer 2-3 different variants to obtain full credit. There is also a weekly lab assignment, which consists of 2-3 Python questions similar to the lab section.
 
-There are three midterms and one final exam in the course. Each midterm is 50 minutes long with about 12-13 questions, consisting of conceptual and computational questions. Usually, midterms are more conceptual and less computational compared to homeworks. There are also two Python quizzes, 3-4 questions each, based on content learned in the lab section and lab homework. Both the midterms and Python quizzes are administered at the CBTF. It is recommended to review homework problems and the extra practice problems provided on PrairieLearn to study for the midterms. There are also tests from [MATH415](MATH415.md) (previous version of MATH257) provided but these do not follow the same structure as the midterms. Still, they can be useful to work on conceptual understanding. The final exam is similar to the midterms, except that it is twice the length and 2 hours long. The final exam is also administered at the CBTF. There might be a separate Python final depending on the availability of the CBTF. If your final exam score is higher than any of your midterm scores, it will replace your lowest midterm score.
+There are three midterms and one final exam in the course. Each midterm is 50 minutes long with about 12-13 questions, consisting of conceptual and computational questions. Usually, midterms are more conceptual and less computational compared to homeworks. There are also two Python quizzes, 3-4 questions each, based on content learned in the lab section and lab homework. Both the midterms and Python quizzes are administered at the CBTF. It is recommended to review homework problems and the extra practice problems provided on PrairieLearn to study for the midterms. There are also tests from [MATH415](MATH415.md) (previous version of MATH257) provided but these do not follow the same structure as the midterms. Still, they can be useful to work on conceptual understanding. The final exam is similar to the midterms, except that it is twice the length and 2 hours long. The final exam is also administered at the CBTF. As of Fall 2026, there is no python on the final but the concepts are still usefull to learn. If your final exam score is higher than any of your midterm scores, it will replace your lowest midterm score.
 
 ## Instructors
 The instructors for this course vary based on availability and student demand. The current course director is Professor Chuang. This semester (Spring 2026), the instructor list includes Professors Jer-Chin Chuang, Felix Leditzky and Anil Hirani.
 
 ## Course Tips
  - The midterms are only 50 minutes long, so be sure to allocate your time wisely when taking the exams.
+ - Try to understand matrices and matrix operations well, as you can lose a lot of time on midterms from row operations/row reduction.
+ - Do the extra practice problems, as they help a lot with conceptual understanding, which is what midterms mostly ask for.
+ - A lot of the conceptual parts of the course build upon each other, so a solid understanding of the previous course content is highly recommended.
  - Do Prairielearn extra practice problems for computational/conceptual practice and the old MATH415 practice exams for conceptual practice for the midterms.
  - Lectures move very fast and cover a lot of content, so be sure to stay up to date to avoid falling behind.
  - Try to get familiar with the notation used in the course as early as possible, as they are used constantly in later concepts.
  - Asks questions on Campuswire and on the MATH257 discord, as there are people available who are happy to help.
  - It is sometimes good to visualize concepts in lower dimensions (2D or 3D) before generalizing them in higher dimensions.
  - Python part might be challenging, especially for students without prior experience. Make sure to follow lab assignments and understand every step of it, since Python questions in homeworks and exams are very similar to each other.
+ - Simplifying course topics that are difficult to visualize is very useful for gaining conceptual understanding and makes solving midterm problems easier
 
 ## Life After
 After taking MATH257, ECE students are required to take [ECE313](../ECE%20Course%20Offerings/ECE313.md), which delves into probability theory. 
