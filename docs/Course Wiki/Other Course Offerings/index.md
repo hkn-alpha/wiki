@@ -9,3 +9,6 @@ The following list contains all courses that do not fit in another category and 
 - [STAT207](STAT207.md) - Data Science Exploration
 - [STAT400](STAT400.md) - Statistics and Probability I
 - [STAT410](STAT410.md) - Statistics and Probability II
+
+### Nuclear, Plasma, and Radiological Engineering
+- [NPRE321](NPRE321.md) - Introduction to Plasmas and Applications
